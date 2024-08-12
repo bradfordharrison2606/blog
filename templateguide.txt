@@ -34,15 +34,3 @@ Byleth:	b266ff	(178, 102, 255)
 Alear: 	40bfff	(64, 191, 255)
 
 
-
-Cloning repository
-
-git clone https://github.com/bradfordharrison2606/blog.git
-
-
-Committing to Git
-git add .
-git commit -m "message"
-git push origin gh-pages
-
-bradfordharrison2606
