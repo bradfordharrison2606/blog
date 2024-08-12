@@ -46,5 +46,3 @@ git commit -m "message"
 git push origin gh-pages
 
 bradfordharrison2606
-
-password token: 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
