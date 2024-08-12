@@ -1,0 +1,34 @@
+Introduction
+
+Initial Gameplay (Bond 1 - 10)
+	Stat Bonuses
+	Sync Skills
+	Engage Skill
+	Engage Attack
+	Engage Weapons
+	Skill Inheritance
+
+Post Paralogue Gameplay (Bond 11 - 20)
+	Stat Bonuses
+	Sync Skills
+	Engage Weapons
+	Skill Inheritance
+	
+Character Builds
+Final Thoughts
+
+Emblem Color Schemes
+
+Marth: 40a0ff
+Celica: ff7272
+Sigurd: b4a6ff	(180, 166, 255)
+Leif:	ccc252	(204, 194, 82)
+Roy:	fe5040	(254, 80, 64)
+Lyn:	21d95e	(33, 217, 94)
+Eirika:	45ccaa	(69, 204, 170)
+Ike:	7288fe	(114, 136, 254)
+Micaiah: feba32	(254, 186, 50)
+Lucina: 72ace5	(114, 172, 229)
+Corrin:	beb4ac	(190, 180, 172)
+Byleth:	b266ff	(178, 102, 255)
+Alear: 	40bfff	(64, 191, 255)

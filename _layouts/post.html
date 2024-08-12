@@ -1,0 +1,195 @@
+---
+layout: "wrapper"
+---
+<!--<h1> {{ page.title }}</h1>
+<h3> Author: {{ page.author }}</h3>
+
+<hr>
+
+{{ content }}
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <!-- <link rel="stylesheet" href= "style.css" > -->
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #D3D3D3;
+            color: #000;
+            font-size: 20px
+        }
+
+
+        .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+/* Table of Contents */
+.toc {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #eee;
+    border-left: 4px solid #888;
+}
+
+.toc h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+.toc ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.toc ul li {
+    margin: 5px 0;
+}
+
+.toc ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.toc ul li a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+    
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.5em;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-size: 1.3em;
+}
+
+/* Code */
+pre, code {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 5px;
+    font-family: 'Courier New', monospace;
+    overflow-x: auto;
+}
+
+pre {
+    padding: 10px;
+}
+
+/* Links */
+a {
+    /**color: #007acc;**/
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Blockquote */
+blockquote {
+    margin: 1.5em 10px;
+    padding: 10px;
+    border-left: 5px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+blockquote p {
+    margin: 0;
+    font-style: italic;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+}
+
+
+.evocation {
+  text-align: center; /* Centers the text horizontally */
+  display: flex;
+  justify-content: center; /* Centers the content horizontally */
+ 
+}
+
+
+
+
+
+
+
+    </style>
+
+
+
+</head>
+<body>
+    <div class="container" style="background-color: {{page.backgroundcolor}}">
+        <h1> {{ page.title }}</h1>
+        <h3> Author: {{ page.author }}</h3>
+        
+        <hr>
+        
+        {{ content }}
+    </div>
+</body>
+</html>
