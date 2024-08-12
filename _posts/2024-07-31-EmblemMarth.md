@@ -52,9 +52,9 @@ Marth's Sync Skills are the following and all of them are inheritable.
 | |
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/marth/perceptive.webp) <br> **Perceptive** | 1 | If the unit intiates combat (Player Phase), grants Avoid+15 during combat. +1 Avoid for every 4 points of Speed the unit has.| 
-| ![Pic](/img/marth/breakdefenses.webp) <br> **Break Defenses** | 3 | If the unit initiates combat (Player Phase) and Break the foe, you gain an additional attack at 50% damage.  |
-| ![Divine Speed Pic](/img/marth/unyielding.webp) <br>  **Unyielding**| 7 | At the start of the Player Phase, if unit's HP is 20% or less, restores 20%of unit's max HP.|
+| ![Pic]({{ site.baseurl }}/img/marth/perceptive.webp) <br> **Perceptive** | 1 | If the unit intiates combat (Player Phase), grants Avoid+15 during combat. +1 Avoid for every 4 points of Speed the unit has.| 
+| ![Pic]({{ site.baseurl }}/img/marth/breakdefenses.webp) <br> **Break Defenses** | 3 | If the unit initiates combat (Player Phase) and Break the foe, you gain an additional attack at 50% damage.  |
+| ![Divine Speed Pic]({{ site.baseurl }}/img/marth/unyielding.webp) <br>  **Unyielding**| 7 | At the start of the Player Phase, if unit's HP is 20% or less, restores 20%of unit's max HP.|
 
  
 ***Perceptive** makes Marth's wearer a better dodge tank. Now that Player Phase only condition might seem like a pain but it's actually subtle encouragement to attack dangerous foes on the Player Phase. That additional avoid might be enough to dodge an attack, especially on your speedier units like Thieves.* <br>
@@ -67,7 +67,7 @@ Marth's Sync Skills are the following and all of them are inheritable.
 
 ## Engage Skill
 
-| ![Divine Speed Pic](/img/marth/divinespeed.webp) <br> **Divine Speed** | Unit performs an extra attack at 50% damage in combat. |
+| ![Divine Speed Pic]({{ site.baseurl }}/img/marth/divinespeed.webp) <br> **Divine Speed** | Unit performs an extra attack at 50% damage in combat. |
 
 
 |**Unit Type**|**Bonus**|
@@ -82,7 +82,7 @@ Marth's Sync Skills are the following and all of them are inheritable.
 
 ## Engage Attack
 
-| ![Lodestar Rush Pic](/img/marth/lodestarrush.webp) <br> **Lodestar Rush** | Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only. |
+| ![Lodestar Rush Pic]({{ site.baseurl }}/img/marth/lodestarrush.webp) <br> **Lodestar Rush** | Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only. |
 
 
 |**Unit Type**|**Bonus**|
@@ -107,8 +107,8 @@ Marth's Sync Skills are the following and all of them are inheritable.
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Divine Speed Pic](/img/marth/MarthRapierFE17Sprite.webp) <br> Rapier | 7 | 95 | 0 | 3 | 1 | Avoid +20. Effective: Armor, Cavalry |
-| l0 | ![Divine Speed Pic](/img/marth/MercuriusFE17Sprite.webp) <br> Mercurius | 12 | 80 | 0 | 7 | 1 | Double EXP while equipped |
+| l | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthRapierFE17Sprite.webp) <br> Rapier | 7 | 95 | 0 | 3 | 1 | Avoid +20. Effective: Armor, Cavalry |
+| l0 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MercuriusFE17Sprite.webp) <br> Mercurius | 12 | 80 | 0 | 7 | 1 | Double EXP while equipped |
 
 ***Rapier** is great in the early game as your answer to Armors and Cavalry, especially when combined with Lodestar Rush. Outside of Lodestar Rush, the Rapier is good for Dodge-Tanking with it's +20 Avoid which stacks with Perceiptive. Unlike Perceptive, this Avoid Bonus is always active as long as you have the Rapier equipped. However, it falls off in the late game due to it's low Might.* <br>
 
@@ -121,18 +121,18 @@ Marth's Sync Skills are the following and all of them are inheritable.
 Marth's other Inheritable Skills are the following.
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-| 1 | Perceptive <br> ![Pic](/img/marth/perceptive.webp) | If the unit intiates combat (Player Phase), grants Avoid+15 during combat. +1 Avoid for every 4 points of Speed the unit has. | 250 |
-|1 |Avoid+10 <br> ![Pic](/img/marth/avoidskill.webp) |Grants +10 Avoid |500 |
-|2 |Sword Agility 1 <br> ![Pic](/img/marth/swordagility.webp)|Grants Avoid+10 and Crit-10 while using a Sword |500 |
-|3 |Break Defenses <br> ![Pic](/img/marth/breakdefenses.webp) |If the unit initiates combat (Player Phase) and Break the foe, you gain an additional attack at 50% damage. |2000 |
-|4 |Avoid+15 <br> ![Pic](/img/marth/FE17_Avoid2B15_Icon.webp)|Grants Avoid+15 |1500 |
-|5 |Skill Inheritance <br> ![Pic](/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
-|6 |Sword Agility 2 <br> ![Pic](/img/marth/FE17_Sword_Agility_2_Icon.webp)|Grants Avoid+15 and Crit-10 while using a Sword |1000 |
-|7 |Unyielding <br> ![Pic](/img/marth/unyielding.webp) |At the start of the Player Phase, if unit's HP is 20% or less, restores 20%of unit's max HP. |100 |
-|8 |Sword Agility 3 <br> ![Pic](/img/marth/FE17_Sword_Agility_3_Icon.webp)|Grants Avoid+20 and Crit-10 while using a Sword |2000 |
-|8 |Sword Proficiency <br> ![pic](/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
-|9 |Avoid+20 <br> ![Pic](/img/marth/FE17_Avoid2B20_Icon.webp) |Grants Avoid+20 |2500 |
-| | | | |
+| 1 | Perceptive <br> ![Pic]({{ site.baseurl }}/img/marth/perceptive.webp) | If the unit intiates combat (Player Phase), grants Avoid+15 during combat. +1 Avoid for every 4 points of Speed the unit has. | 250 |
+|1 |Avoid+10 <br> ![Pic]({{ site.baseurl }}/img/marth/avoidskill.webp) |Grants +10 Avoid |500 |
+|2 |Sword Agility 1 <br> ![Pic]({{ site.baseurl }}/img/marth/swordagility.webp)|Grants Avoid+10 and Crit-10 while using a Sword |500 |
+|3 |Break Defenses <br> ![Pic]({{ site.baseurl }}/img/marth/breakdefenses.webp) |If the unit initiates combat (Player Phase) and Break the foe, you gain an additional attack at 50% damage. |2000 |
+|4 |Avoid+15 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Avoid2B15_Icon.webp)|Grants Avoid+15 |1500 |
+|5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
+|6 |Sword Agility 2 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Sword_Agility_2_Icon.webp)|Grants Avoid+15 and Crit-10 while using a Sword |1000 |
+|7 |Unyielding <br> ![Pic]({{ site.baseurl }}/img/marth/unyielding.webp) |At the start of the Player Phase, if unit's HP is 20% or less, restores 20%of unit's max HP. |100 |
+|8 |Sword Agility 3 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Sword_Agility_3_Icon.webp)|Grants Avoid+20 and Crit-10 while using a Sword |2000 |
+|8 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
+|9 |Avoid+20 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Avoid2B20_Icon.webp) |Grants Avoid+20 |2500 |
+
 
 *Marth's Skill Inheritance is a mix of cheap and expensive.* 
 
@@ -165,9 +165,9 @@ Marth's Later Sync Skills are the following and all of them are inheritable.
 | |
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/marth/FE17_Unyielding2B_Icon.webp) <br> **Unyielding+** | 12 | At start of player phase, if HP is 30% or less, restores 30% of unit’s max HP. 
-| ![Pic](/img/marth/FE17_Perceptive2B_Icon.webp) <br> **Perceptive+** | 16 | If the unit initiates combat, grants Avo+30 during combat. 1 Avoid for every 4 points of Speed the unit has.  |
-| ![Divine Speed Pic](/img/marth/FE17_Unyielding++2B_Icon.webp) <br>  **Unyielding++**| 19 |At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP.|
+| ![Pic]({{ site.baseurl }}/img/marth/FE17_Unyielding2B_Icon.webp) <br> **Unyielding+** | 12 | At start of player phase, if HP is 30% or less, restores 30% of unit’s max HP. 
+| ![Pic]({{ site.baseurl }}/img/marth/FE17_Perceptive2B_Icon.webp) <br> **Perceptive+** | 16 | If the unit initiates combat, grants Avo+30 during combat. 1 Avoid for every 4 points of Speed the unit has.  |
+| ![Divine Speed Pic]({{ site.baseurl }}/img/marth/FE17_Unyielding++2B_Icon.webp) <br>  **Unyielding++**| 19 |At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP.|
 
 *The rest of Marth's Sync Skills are just upgrades on his main two. **Perceptive+** grants 30+ Avoid which is pretty impactful, especially for your speedy units which you should have by the time you unlock this skill.*
 
@@ -180,7 +180,7 @@ Marth's Later Sync Skills are the following and all of them are inheritable.
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l5 | ![Divine Speed Pic](/img/marth/MarthFalchionFE17Sprite.webp) <br> Falchion | 12 | 100 | 0 | 10 | 1 | Effective: Dragon |
+| l5 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthFalchionFE17Sprite.webp) <br> Falchion | 12 | 100 | 0 | 10 | 1 | Effective: Dragon |
 
 ***Falchion** at Bond 15 isn't anything to write home about. It isn't that different to the Mercurius except it has Dragon Effectiveness instead. Normally Dragon Effectiveness isn't all that special in Engage. HOWEVER, by the time you have access to Falchion, you also have access to another Emblem that turns Dragon Effectiveness into **FELL DRAGON** Effectiveness which is incredibly useful for the Final Boss. So I usually don't give Falchion as much flak compared to its other Dragon-Slaying compratriots for this reason.* <br>
 
@@ -188,15 +188,15 @@ Marth's Later Sync Skills are the following and all of them are inheritable.
 ## Skill Inheritance
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|11 | Strong Bond <br> ![Pic](/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
-|12 | Unyielding+ <br> ![Pic](/img/marth/FE17_Unyielding2B_Icon.webp)|At start of player phase, if HP is 30% or less, restores 30% of unit’s max HP. | 200|
-|13 |Sword Agility 4 <br> ![Pic](/img/marth/FE17_Sword_Agility_4_Icon.webp)|Grants Avo+25 at a cost of Crit-10 when using a sword. |3000 |
-|14 |Avoid+25 <br> ![Pic](/img/marth/FE17_Avoid_B25_Icon.webp)|Grants Avoid +25 |3500|
-|16 |Perceptive+ <br> ![Pic](/img/marth/FE17_Perceptive2B_Icon.webp)|If the unit initiates combat, grants Avo+30 during combat. 1 Avoid for every 4 points of Speed the unit has. |500 |
-|17 |Sword Agility 5 <br> ![Pic](/img/marth/FE17_Sword_Agility_5_Icon.webp)|Grants Avo+30 at a cost of Crit-10 when using a sword. |4000 |
-|18 |Unyielding++ <br> ![Pic](/img/marth/FE17_Unyielding++2B_Icon.webp)|At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP. |300 |
-|19 |Avoid+30 <br> ![Pic](/img/marth/FE17_Avoid2B30_Icon.webp)|Grants Avo+30. |4500 |
-|20 | Deep Synergy <br> ![Pic](/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
+|11 | Strong Bond <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
+|12 | Unyielding+ <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Unyielding2B_Icon.webp)|At start of player phase, if HP is 30% or less, restores 30% of unit’s max HP. | 200|
+|13 |Sword Agility 4 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Sword_Agility_4_Icon.webp)|Grants Avo+25 at a cost of Crit-10 when using a sword. |3000 |
+|14 |Avoid+25 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Avoid_B25_Icon.webp)|Grants Avoid +25 |3500|
+|16 |Perceptive+ <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Perceptive2B_Icon.webp)|If the unit initiates combat, grants Avo+30 during combat. 1 Avoid for every 4 points of Speed the unit has. |500 |
+|17 |Sword Agility 5 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Sword_Agility_5_Icon.webp)|Grants Avo+30 at a cost of Crit-10 when using a sword. |4000 |
+|18 |Unyielding++ <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Unyielding++2B_Icon.webp)|At start of player phase, if HP is 40% or less, restores 40% of unit’s max HP. |300 |
+|19 |Avoid+30 <br> ![Pic]({{ site.baseurl }}/img/marth/FE17_Avoid2B30_Icon.webp)|Grants Avo+30. |4500 |
+|20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
 
 
 *The rest of Marth's Skill Inheritance continues the trend of being either dirt cheap and stupidly expensive with no middle ground. The main point against Marth's later Inheritance is that by the time you get access to them, they will have an absurd amount of competition for your SP and Skill Slots from the Base Game Emblems alone. I don't blame you if you disregard inheriting Skills from Marth at that point.* 
