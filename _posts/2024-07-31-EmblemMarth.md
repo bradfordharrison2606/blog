@@ -13,7 +13,6 @@ published: true
 
 
 | ![Emblem Marth Pic](/img/marth/marthportrairFINAL.png) |
-!Emblem Marth Pic
 
  <h1> <div class="evocation"> Shine On! Emblem of Beginnings! </div> </h1>
 <br>
