@@ -11,7 +11,7 @@ author: "Bradley Harris"
 published: true
 ---
 
-| ![Emblem Pic](/img/roy/engageroy.webp) |
+| ![Emblem Pic]({{ site.baseurl }}/img/roy/engageroy.webp) |
 
  <h1> <div class="evocation"> Rise Up, Emblem of Binding!. </div> </h1>
 <br>
@@ -44,9 +44,9 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/roy/FE17_Hold_Out_Icon.webp) <br> **Hold Out** |1  | If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. | 
-| ![Pic](/img/roy/FE17_Advance_Icon.webp) <br> **Advance**| 3 | Use to move 1 space toward a foe that is 2 spaces away and attack. |
-| ![Pic](/img/roy/FE17_Hold_Out2B_Icon.webp) <br> **Hold Out+**| 8 | If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp) <br> **Hold Out** |1  | If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. | 
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp) <br> **Advance**| 3 | Use to move 1 space toward a foe that is 2 spaces away and attack. |
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp) <br> **Hold Out+**| 8 | If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |
 
 *Roy only having 2 Sync Skills might seem like he got the short end of the stick, but his first one is so powerful that giving him another Sync Skill would likely risk him becoming overpowered.*
 
@@ -59,7 +59,7 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
  
 ## Engage Skill
 
-| ![Pic](/img/roy/FE17_Rise_Above_Icon.webp) <br> **Rise Above** | Grants Lvl+5.|
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Rise_Above_Icon.webp) <br> **Rise Above** | Grants Lvl+5.|
 
 |**Unit Type**|**Bonus**|
 |Dragon|Additional Level+1 (Level+6) |
@@ -77,7 +77,7 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 
 ## Engage Attack
 
-| ![Pic](/img/roy/FE17_Blazing_Lion_Icon.webp) <br> **Blazing Lion** | Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. |
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Blazing_Lion_Icon.webp) <br> **Blazing Lion** | Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. |
 
 
 |**Unit Type**|**Bonus**|
@@ -95,8 +95,8 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Pic](/img/roy/LancereaverFE17Sprite.webp) <br> Lancereaver |9  |80  |5  |9  |1  |Grants advantage vs. lances but disadvantage vs. axes.|
-| l0 | ![Pic](/img/roy/RoyWyrmslayerFE17Sprite.webp) <br>Wyrmslayer |10  |70  |0  |5  |1  | Effective: Dragon.|
+| l | ![Pic]({{ site.baseurl }}/img/roy/LancereaverFE17Sprite.webp) <br> **Lancereaver** |9  |80  |5  |9  |1  |Grants advantage vs. lances but disadvantage vs. axes.|
+| l0 | ![Pic]({{ site.baseurl }}/img/roy/RoyWyrmslayerFE17Sprite.webp) <br> **Wyrmslayer** |10  |70  |0  |5  |1  | Effective: Dragon.|
 
 *First up we have the **Lancereaver** which has quite an interesting effect. It reverses the Weapons Triangle, letting you Break Lances but you will be broken if an Axe hits you. Pretty decent for a gimmick weapon.*
 
@@ -105,20 +105,20 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 *Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead of what we saw from Leif. However, they aren't impressive either like Marth's Mercurius, Celica's Seraphim, and Sigurd's Ridersbane. These weapons are just "meh". For a piece of fun trivia, both of these weapons have the exact same stats they had in their GBA home game.*
 
 
-## Inheritable Skills 
+## Skill Inheritance 
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|1 |Strength+1 <br> ![Pic](/img/roy/FE17_Strength_2B1_Icon.webp) |Grants Strength+1 |500 |
-|1 |Hold Out <br> ![Pic](/img/roy/FE17_Hold_Out_Icon.webp) |If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. |2000 |
-|2 |Strength+2 <br> ![Pic](/img/roy/FE17_Strength_2B2_Icon.webp) |Grants Strength+2 |1000 |
-|3 |Advance <br> ![Pic](/img/roy/FE17_Advance_Icon.webp) |Use to move 1 space toward a foe that is 2 spaces away and attack. |500 |
-|4 |Sword Power 1 <br> ![Pic](/img/roy/FE17_Sword_Power_1_Icon.webp) |Grants Atk+2 at a cost of Avo-10 when using a sword. |1000 |
-|5 |Skill Inheritance <br> ![Pic](/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
-|6 |Sword Proficiency <br> ![pic](/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
-|7 |Sword Power 2 <br> ![Pic](/img/roy/FE17_Sword_Power_2_Icon.webp) |Grants Atk+4 at a cost of Avo-10 when using a sword. |2000 |
-|8|Hold Out+ <br> ![Pic](/img/roy/FE17_Hold_Out2B_Icon.webp) |If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |3000 |
-|9 |Strength+3 <br> ![Pic](/img/roy/FE17_Strength_2B3_Icon.webp) |Grants Strength+3 |3000 |
-|9 |Sword Power 3 <br> ![Pic](/img/roy/FE17_Sword_Power_3_Icon.webp) |Grants Atk+6 at a cost of Avo-10 when using a sword. |3000 |
+|1 |Strength+1 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B1_Icon.webp) |Grants Strength+1 |500 |
+|1 |Hold Out <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp) |If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. |2000 |
+|2 |Strength+2 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B2_Icon.webp) |Grants Strength+2 |1000 |
+|3 |Advance <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp) |Use to move 1 space toward a foe that is 2 spaces away and attack. |500 |
+|4 |Sword Power 1 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_1_Icon.webp) |Grants Atk+2 at a cost of Avo-10 when using a sword. |1000 |
+|5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
+|6 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
+|7 |Sword Power 2 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_2_Icon.webp) |Grants Atk+4 at a cost of Avo-10 when using a sword. |2000 |
+|8|Hold Out+ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp) |If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |3000 |
+|9 |Strength+3 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B3_Icon.webp) |Grants Strength+3 |3000 |
+|9 |Sword Power 3 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_3_Icon.webp) |Grants Atk+6 at a cost of Avo-10 when using a sword. |3000 |
 
 *You've probably noticed that other Emblems have a mix of cheap and expensive Skill Inheritance. Well, Roy bucks that trend HARD as the vast majority of his inheritable skills are incredibly expensive. I'm serious, unless you've been using the Ancient Well and hoarding Skill Books, you aren't inheriting the vast majority of these skills until well into the End Game. However, that's to be expected as all of Roy Skill Inheritance are varying levels of incredibly powerful.* 
 
@@ -146,8 +146,8 @@ Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive one
 ## Sync Skills
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/roy/FE17_Hold_Out3B_Icon.webp) <br> **Hold Out++** | 13  |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.  | 
-| ![Pic](/img/roy/FE17_Hold_Out4B_Icon.webp) <br> **Hold Out+++**| 18 |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.  |
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp) <br> **Hold Out++** | 13  |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.  | 
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp) <br> **Hold Out+++**| 18 |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.  |
 
 *If you thought Hold Out was great in its first two incarnations, the ones you get in Roy's later Bond Levels are ridiculous. **Hold Out+++** (yes it goes that high) is absolutely disgusting for as long as you have at least 2HP when an enemy initiates combat, you are guaranteed to live and the enemy has no say in the matter.* 
 
@@ -157,7 +157,7 @@ Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive one
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l5 | ![Pic](/img/roy/BindingBladeFE17Sprite.webp) <br> |14  |95  |10  |8  |1-2  |DEF/RES+5 |
+| l5 | ![Pic]({{ site.baseurl }}/img/roy/BindingBladeFE17Sprite.webp) <br> **Binding Blade** |14  |95  |10  |8  |1-2  |DEF/RES+5 |
 
 *The **Binding Blade** has decent stats across the board and has a 1-2 Range. The real kicker is that, unlike Leif's Light Brand, the Binding Blade is a physical weapon, (despite the magic flame animations) that synergizes well with Roy's passive boost to Strength. The +5 DEF/RES is just a cool bonus. This weapon is definitely another reason to complete Roy's Paralogue if Hold Out+++ is somehow not enough motivation.* 
 
@@ -165,15 +165,15 @@ Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive one
 ## Skill Inheritance
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|11 | Strong Bond <br> ![Pic](/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
-|12 |Sword Power 4 <br> ![Pic](/img/roy/FE17_Sword_Power_4_Icon.webp) |Grants Atk+8 at a cost of Avo-10 when using a sword. |4000 |
-|13 |Hold Out++ <br> ![Pic](/img/roy/FE17_Hold_Out3B_Icon.webp) |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP. |4000 |
-|14 |Strength+4 <br> ![Pic](/img/roy/FE17_Strength_2B4_Icon.webp) |Grants Strength+4 |4000 |
-|16 |Sword Power 5 <br> ![Pic](/img/roy/FE17_Sword_Power_5_Icon.webp) |Grants Atk+10 at a cost of Avo-10 when using a sword. |5000 |
-|17 |Strength+5 <br> ![Pic](/img/roy/FE17_Strength_2B5_Icon.webp) |Grants Strength+5 |5000 |
-|18 |Hold Out+++ <br> ![Pic](/img/roy/FE17_Hold_Out4B_Icon.webp) |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP. |5000 |
-|19 |Strength+6 <br> ![Pic](/img/roy/FE17_Strength_2B6_Icon.webp) |Grants Strength+6 |6000 |
-|20 | Deep Synergy <br> ![Pic](/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
+|11 | Strong Bond <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
+|12 |Sword Power 4 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_4_Icon.webp) |Grants Atk+8 at a cost of Avo-10 when using a sword. |4000 |
+|13 |Hold Out++ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp) |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP. |4000 |
+|14 |Strength+4 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B4_Icon.webp) |Grants Strength+4 |4000 |
+|16 |Sword Power 5 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_5_Icon.webp) |Grants Atk+10 at a cost of Avo-10 when using a sword. |5000 |
+|17 |Strength+5 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B5_Icon.webp) |Grants Strength+5 |5000 |
+|18 |Hold Out+++ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp) |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP. |5000 |
+|19 |Strength+6 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B6_Icon.webp) |Grants Strength+6 |6000 |
+|20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
 
 *Roy's later Skill Inheritance doubles down on the trend of his earlier ones. They're all stupidly powerful but also stupidly expensive. If you wanted to inherit all of Roy's Skills (**Hold Out+++, Strength+6, Sword Power 5, and Advance**) it would cost you a total of **16,500 SP** which is ludicrous. For reference, most other Emblems will run you an average of 10,000 SP to inherit all of their skills.* 
 

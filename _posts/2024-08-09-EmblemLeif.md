@@ -11,7 +11,7 @@ author: "Bradley Harris"
 published: true
 ---
 
-| ![Emblem Pic](/img/leif/engageleif.webp) |
+| ![Emblem Pic]({{ site.baseurl }}/img/leif/engageleif.webp) |
 
  <h1> <div class="evocation"> Free us, Emblem of Genealogy!. </div> </h1>
 <br>
@@ -42,9 +42,9 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 ## Sync Skills
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/leif/FE17_Arms_Shield_Icon.webp) <br> **Arms Shield** |1  | When unit has weapon advantage, unit takes 3 less damage. | 
-| ![Pic](/img/leif/FE17_Vantage_Icon.webp) <br> **Vantage**|3  |If unit’s HP is 25% or less and foe initiates combat, unit can counter before foe’s first attack.  |
-| ![Pic](/img/leif/FE17_Arms_Shield2B_Icon.webp) <br> **Arms Shield+**|7  | When unit has weapon advantage, unit takes 5 less damage. |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield_Icon.webp) <br> **Arms Shield** |1  | When unit has weapon advantage, unit takes 3 less damage. | 
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage_Icon.webp) <br> **Vantage**|3  |If unit’s HP is 25% or less and foe initiates combat, unit can counter before foe’s first attack.  |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield2B_Icon.webp) <br> **Arms Shield+**|7  | When unit has weapon advantage, unit takes 5 less damage. |
 
 ***Arms Shield** gives another reason to keep the Weapon Triangle in mind aside from Breaking. That -3 and -5 Damage reduction can add some decent bulk to your units and improve their survivability.* 
 
@@ -54,10 +54,10 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Pic](/img/leif/LeifKillerAxeFE17Sprite.webp) <br> **Killer Axe** |11  |65  |30  |11  |1  | - |
-| l0 | ![Pic](/img/leif/MasterLanceFE17Sprite.webp) <br> **Master Lance**|7  |55  |0  |16  |1-2  |If user initiates combat, attacks twice.|
-| l5 | ![Pic](/img/leif/LightBrandFE17Sprite.webp) <br> **Light Brand**|15  |75  |20  |6  |1-2  |LUCK+10. Magic Weapon. |
-| N/A | ![Pic](/img/leif/MasterBowFE17Sprite.webp) <br> **Master Bow**|6  |65  |0  |0  |14  |Only used during Engage Attack.  |
+| l | ![Pic]({{ site.baseurl }}/img/leif/LeifKillerAxeFE17Sprite.webp) <br> **Killer Axe** |11  |65  |30  |11  |1  | - |
+| l0 | ![Pic]({{ site.baseurl }}/img/leif/MasterLanceFE17Sprite.webp) <br> **Master Lance**|7  |55  |0  |16  |1-2  |If user initiates combat, attacks twice.|
+| l5 | ![Pic]({{ site.baseurl }}/img/leif/LightBrandFE17Sprite.webp) <br> **Light Brand**|15  |75  |20  |6  |1-2  |LUCK+10. Magic Weapon. |
+| N/A | ![Pic]({{ site.baseurl }}/img/leif/MasterBowFE17Sprite.webp) <br> **Master Bow**|6  |65  |0  |0  |14  |Only used during Engage Attack.  |
 
 *You might notice that Leif has 4 Engage Weapons compared to the standard 3 we've seen so far. Normally I hold off on the Bond 15 Weapon until the 2nd half of these profiles but I make an exception for Leif because, unlike other Emblems, Leif's Engage Weapons play a huge role in how his Engage Skill and Engage Attack operate.* 
 
@@ -72,7 +72,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 
 ## Engage Skill
 
-| ![Pic](/img/leif/FE17_Adaptable_Icon.webp) <br> **Adaptable** |If foe initiates combat, unit counters with the "**best**" weapon available (in terms of range, weapon advantage, effective bonus, etc.). |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Adaptable_Icon.webp) <br> **Adaptable** |If foe initiates combat, unit counters with the "**best**" weapon available (in terms of range, weapon advantage, effective bonus, etc.). |
 
 
 |**Unit Type**|**Bonus**|
@@ -104,7 +104,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 
 ## Engage Attack
 
-| ![Pic](/img/leif/FE17_Quadruple_Hit_Icon.webp) <br> **Quadruple Hit** | Use to attack once with each of Leif's Engage Weapons. <br>(Works even if you have not unlocked all of Leif's Engage Weapons.) |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Quadruple_Hit_Icon.webp) <br> **Quadruple Hit** | Use to attack once with each of Leif's Engage Weapons. <br>(Works even if you have not unlocked all of Leif's Engage Weapons.) |
 
 |**Unit Type**|**Bonus**|
 |Dragon|+20% Damage |
@@ -123,23 +123,23 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 
 
 
-## Inheritable Skills 
+## Skill Inheritance 
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|1 | Build+3<br> ![Pic](/img/leif/FE17_Build_2B3_Icon.webp) |Grants Build+3 |500 |
-|1 |Arms Shield <br> ![Pic](/img/leif/FE17_Arms_Shield_Icon.webp) |When unit has weapon advantage, unit takes 3 less damage. |200 |
-|2 |Axe Proficiency <br> ![Pic](/img/axeprof.PNG) |Proficiency with Axes. Required for promotion to certain Classes |Auto |
-|3 |Vantage <br> ![Pic](/img/leif/FE17_Vantage_Icon.webp) |If unit’s HP is 25% or less and foe initiates combat, unit can counter before foe’s first attack. |500 |
-|3 |Bow Proficiency <br> ![Pic](/img/bowprof.PNG) |Proficiency with Bows. Required for promotion to Certain Classes |Auto |
-|4 |Knife Precision 1 <br> ![Pic](/img/leif/FE17_Knife_Precision_1_Icon.webp) |Grants Hit/Avoid+3 when using a Knife |100 |
-|4 |Knife Proficiency <br> ![Pic](/img/knifeprof.PNG) |Proficiency with Knives. Required for promotion to certain Classes |Auto |
-|5 |Skill Inheritance <br> ![Pic](/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
-|6 |Build+4 <br> ![Pic](/img/leif/FE17_Build_2B4_Icon.webp) |Grants Build+4 |1000 |
-|6 |Staff Proficiency <br> ![Pic](/img/staffprof.PNG) |Proficiency with Staves. Required for promotion to certain Classes |Auto |
-|7 |Arms Shield+ <br> ![Pic](/img/leif/FE17_Arms_Shield2B_Icon.webp) |When unit has weapon advantage, unit takes 5 less damage. |400 |
-|7 |Lance Proficiency <br> ![Pic](/img/lanceprof.PNG) |Proficiency with Lances. Required for promotion to certain Classes. |Auto |
-|8 |Sword Proficiency <br> ![pic](/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
-|9 |Knife Precision 2 <br> ![Pic](/img/leif/FE17_Knife_Precision_2_Icon.webp) |Grants Hit/Avoid+5 when using a Knife |300 |
+|1 | Build+3<br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Build_2B3_Icon.webp) |Grants Build+3 |500 |
+|1 |Arms Shield <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield_Icon.webp) |When unit has weapon advantage, unit takes 3 less damage. |200 |
+|2 |Axe Proficiency <br> ![Pic]({{ site.baseurl }}/img/axeprof.PNG) |Proficiency with Axes. Required for promotion to certain Classes |Auto |
+|3 |Vantage <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage_Icon.webp) |If unit’s HP is 25% or less and foe initiates combat, unit can counter before foe’s first attack. |500 |
+|3 |Bow Proficiency <br> ![Pic]({{ site.baseurl }}/img/bowprof.PNG) |Proficiency with Bows. Required for promotion to Certain Classes |Auto |
+|4 |Knife Precision 1 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_1_Icon.webp) |Grants Hit/Avoid+3 when using a Knife |100 |
+|4 |Knife Proficiency <br> ![Pic]({{ site.baseurl }}/img/knifeprof.PNG) |Proficiency with Knives. Required for promotion to certain Classes |Auto |
+|5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
+|6 |Build+4 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Build_2B4_Icon.webp) |Grants Build+4 |1000 |
+|6 |Staff Proficiency <br> ![Pic]({{ site.baseurl }}/img/staffprof.PNG) |Proficiency with Staves. Required for promotion to certain Classes |Auto |
+|7 |Arms Shield+ <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield2B_Icon.webp) |When unit has weapon advantage, unit takes 5 less damage. |400 |
+|7 |Lance Proficiency <br> ![Pic]({{ site.baseurl }}/img/lanceprof.PNG) |Proficiency with Lances. Required for promotion to certain Classes. |Auto |
+|8 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
+|9 |Knife Precision 2 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_2_Icon.webp) |Grants Hit/Avoid+5 when using a Knife |300 |
 
 *Remember how I said that Leif is an Emblem best suited for Utility? Well, look no further than Leif's Skill Inheritance because Leif has some of, if not THE best Skill Inheritance in the game bar none and it's not even a contest.* 
 
@@ -168,23 +168,23 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 ## Sync Skills
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/leif/FE17_Vantage2B_Icon.webp) <br> **Vantage+**|12  |If unit’s HP is 50% or less and foe initiates combat, unit can counter before foe’s first attack.  |
-| ![Pic](/img/leif/FE17_Arms_Shield3B_Icon.webp) <br> **Arms Shield++**|16  | When unit has weapon advantage, unit takes 7 less damage. |
-| ![Pic](/img/leif/FE17_Vantage3B_Icon.webp) <br> **Vantage++**|18  |If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack.  |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage2B_Icon.webp) <br> **Vantage+**|12  |If unit’s HP is 50% or less and foe initiates combat, unit can counter before foe’s first attack.  |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield3B_Icon.webp) <br> **Arms Shield++**|16  | When unit has weapon advantage, unit takes 7 less damage. |
+| ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage3B_Icon.webp) <br> **Vantage++**|18  |If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack.  |
 
 
 ## Skill Inheritance
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|11 | Strong Bond <br> ![Pic](/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
-|12 |Vantage+ <br> ![Pic](/img/leif/FE17_Vantage2B_Icon.webp) |If unit’s HP is 50% or less and foe initiates combat, unit can counter before foe’s first attack. |1000 |
-|13 |Knife Precision 3 <br> ![Pic](/img/leif/FE17_Knife_Precision_3_Icon.webp) |Grants Hit/Avoid+7 when using a Knife |700 |
-|14 |Build+5 <br> ![Pic](/img/leif/FE17_Build_2B5_Icon.webp) |Grants Build+5 |2000 |
-|16 |Arms Shield++ <br> ![Pic](/img/leif/FE17_Arms_Shield3B_Icon.webp) |When unit has weapon advantage, unit takes 7 less damage. |600 |
-|17 |Knife Precision 4 <br> ![Pic](/img/leif/FE17_Knife_Precision_4_Icon.webp) |Grants Hit/Avoid+10 when using a Knife |1000 |
-|18 |Vantage++ <br> ![Pic](/img/leif/FE17_Vantage3B_Icon.webp) |If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack. |1000 |
-|19 |Knife Precision 5 <br> ![Pic](/img/leif/FE17_Knife_Precision_5_Icon.webp) |Grants Hit/Avoid+15 when using a Knife |2000 |
-|20 | Deep Synergy <br> ![Pic](/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
+|11 | Strong Bond <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
+|12 |Vantage+ <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage2B_Icon.webp) |If unit’s HP is 50% or less and foe initiates combat, unit can counter before foe’s first attack. |1000 |
+|13 |Knife Precision 3 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_3_Icon.webp) |Grants Hit/Avoid+7 when using a Knife |700 |
+|14 |Build+5 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Build_2B5_Icon.webp) |Grants Build+5 |2000 |
+|16 |Arms Shield++ <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield3B_Icon.webp) |When unit has weapon advantage, unit takes 7 less damage. |600 |
+|17 |Knife Precision 4 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_4_Icon.webp) |Grants Hit/Avoid+10 when using a Knife |1000 |
+|18 |Vantage++ <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Vantage3B_Icon.webp) |If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack. |1000 |
+|19 |Knife Precision 5 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_5_Icon.webp) |Grants Hit/Avoid+15 when using a Knife |2000 |
+|20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
 
 *The bulk of Leif's Skill Inheritance is in his lower bond levels so completing his Paralogue doesn't give you all that much value compared to other Emblem Paralogues, especially considering how difficult it is. However, it might be worth inheriting the upgraded versions of Knife Precision, Arms Shield, and Vantage.* 
 

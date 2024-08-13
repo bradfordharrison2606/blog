@@ -10,6 +10,17 @@ backgroundcolor: white
 author: "Bradley Harris"
 published: false
 ---
+<!-- 
+So insure that the images show up on the GitHub Pages, you have to insert the site.baseurl below right before the /img/... stuff. 
+{{ site.baseurl }}
+
+Do this at the end because adding this disables VS Studio's ability to view images before inserting them
+
+When you're done inserting all the images use the Replace command to replace /img/ with {{ site.baseurl }}/img/
+
+ -->
+
+
 
 | ![Emblem Pic](/img/) | ![Ring Pic](/img/) |
 
@@ -41,7 +52,8 @@ published: false
 
 ## Sync Skills
 
-
+<!-- Always ensure you BOLD the name of Inheritable Sync Skills.
+Sync Skills like Cleric and Dragon Vein shouldn't be bolded-->
 | **Sync Skill** | **Bond Lv** | **Effect** |
 | ![Pic](/img/replace) <br> |  |  | 
 | ![Pic](/img/replace) <br> |  |  |
@@ -76,7 +88,7 @@ published: false
 | l0 | ![Pic](/img/replace) <br> |  |  |  |  |  | |
 
 
-## Inheritable Skills 
+## Skill Inheritance 
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
 | | <br> ![Pic](/img/replace) | | |

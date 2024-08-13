@@ -11,7 +11,7 @@ author: "Bradley Harris"
 published: true
 ---
 
-| ![Emblem Pic](/img/sigurd/engagesigurd.webp) |
+| ![Emblem Pic]({{ site.baseurl }}/img/sigurd/engagesigurd.webp) |
 
  <h1> <div class="evocation"> Provide for us, Emblem of The Holy War! </div> </h1>
 <br>
@@ -46,9 +46,9 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/sigurd/FE17_Canter_Icon.webp) <br> **Canter** | 1 | Unit can move 2 Spaces after acting | 
-| ![Pic](/img/sigurd/FE17_Momentum_Icon.webp) <br> **Momentum** | 3 | Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10) |
-| ![Pic](/img/sigurd/FE17_Headlong_Rush_Icon.webp) <br> **Headlong Rush** | 7 | Grants Immunity to Freeze |
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Canter_Icon.webp) <br> **Canter** | 1 | Unit can move 2 Spaces after acting | 
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Momentum_Icon.webp) <br> **Momentum** | 3 | Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10) |
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Headlong_Rush_Icon.webp) <br> **Headlong Rush** | 7 | Grants Immunity to Freeze |
 
 ***Canter** is arguably Sigurd's best Sync Skill and one of the best Inheritable Skills in the game. Unlike previous Fire Emblem Games, Canter isn't using up the rest of your movement. It's always a flat 2 Spaces. However, that 2 Spaces lets a unit get into a more favourable position after attacking or healing to make room for other units to do their thing. One thing to clarify though. When I use the term "acting" in this skill's description, what I mean is any action that would give you EXP. This includes attacking, healing, dancing, etc. So if you're in the Fell Xenologue where you can't gain EXP, don't worry because Canter will still trigger .*
 
@@ -60,7 +60,7 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
  
 ## Engage Skill
 
-| ![Pic](/img/sigurd/FE17_Gallop_Icon.webp) <br> **Gallop** | Grants MOV+5 |
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Gallop_Icon.webp) <br> **Gallop** | Grants MOV+5 |
 
 
 |**Unit Type**|**Bonus**|
@@ -77,7 +77,7 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 
 ## Engage Attack
 
-| ![Pic](/img/sigurd/FE17_Override_Icon.webp) <br> **Override**| Use to attack and move through a line of adjacent foes. Sword/lance only. |
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Override_Icon.webp) <br> **Override**| Use to attack and move through a line of adjacent foes. Sword/lance only. |
 
 |**Unit Type**|**Bonus**|
 |Dragon|  +20% damage.|
@@ -96,28 +96,28 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Pic](/img/sigurd/SigurdRidersbaneFE17Sprite.webp) <br> Ridersbane | 10 | 75 | 0 | 6 | 1 | Effective: Cavalry|
-| l0 | ![Pic](/img/sigurd/SigurdBraveLanceFE17Sprite.webp) <br> Brave Lance | 7 | 60 | 0 | 12 | 1 | If user initiates combat, attacks twice |
+| l | ![Pic]({{ site.baseurl }}/img/sigurd/SigurdRidersbaneFE17Sprite.webp) <br> **Ridersbane** | 10 | 75 | 0 | 6 | 1 | Effective: Cavalry|
+| l0 | ![Pic]({{ site.baseurl }}/img/sigurd/SigurdBraveLanceFE17Sprite.webp) <br> **Brave Lance** | 7 | 60 | 0 | 12 | 1 | If user initiates combat, attacks twice |
 
 *The **Ridersbane** is definitely the most fun of Sigurd's Engage weapons to play around with because against Cavalry Foes, it effectively has 30 Might. Combine this with Momentum, boosted by Gallop and you have an easy way to wipe Cavalry Foes off the map. Recall how I said Override could be comical when used on a line of Cavalry Foes. The Ridersbane is why. I've seen people in the Engage online communities call this the "Ridersbane Shishkebab" and it fits.*
 
 *The **Brave Lance** is an Engage Weapon I'm not too fond of. Low Might and low Accuracy isn't a fair trade off for a the Brave Effect of attacking twice. It's also rather heavy so no many units can reliably double attack with it. Recall how Momentum only applies to the first hit of an attack. That applies to the Brave Lance, even if you are quadruple attacking.*
 
 
-## Inheritable Skills 
+## Skill Inheritance  
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|1 |Canter <br> ![Pic](/img/sigurd/FE17_Canter_Icon.webp) | Unit can move 2 Spaces after acting|1000 |
-|1 |Hit+10<br> ![Pic](/img/sigurd/FE17_Hit_2B10_Icon.webp) |Grants Hit +10 | 500 |
-|2 |Lance Power 1 <br> ![Pic](/img/sigurd/FE17_Lance_Power_1_Icon.webp) | Grants Attack +2 and Avoid -10 when using a Lance | 1000 |
-|3 |Momemtum <br> ![Pic](/img/sigurd/FE17_Momentum_Icon.webp) |Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10)  |1000 |
-|4 |Hit+15 <br> ![Pic](/img/sigurd/FE17_Hit_2B15_Icon.webp) |Grants Hit +15 |1000 |
-|5 |Skill Inheritance <br> ![Pic](/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
-|6 |Lance Profiecieny <br> ![Pic](/img/lanceprof.PNG) |Proficiency with Lances. Required for promotion to certain Classes. |Auto |
-|6 |Lance Power 2 <br> ![Pic](/img/sigurd/FE17_Lance_Power_2_Icon.webp) |Grants Attack +4 and Avoid -10 when using a Lance |2000 |
-|7 |Headlong Rush <br> ![Pic](/img/sigurd/FE17_Headlong_Rush_Icon.webp) |Grants Immunity to Freeze |200 |
-|8 |Lance Power 3 <br> ![Pic](/img/sigurd/FE17_Lance_Power_3_Icon.webp) |Grants Attack +6 and Avoid -10 when using a Lance |3000 |
-|9 |Sword Proficiency <br> ![Pic](/img/swordprof.PNG) |Proficiency with Swords. Required for promotion to certain classes |Auto |
+|1 |Canter <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Canter_Icon.webp) | Unit can move 2 Spaces after acting|1000 |
+|1 |Hit+10<br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Hit_2B10_Icon.webp) |Grants Hit +10 | 500 |
+|2 |Lance Power 1 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Lance_Power_1_Icon.webp) | Grants Attack +2 and Avoid -10 when using a Lance | 1000 |
+|3 |Momemtum <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Momentum_Icon.webp) |Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10)  |1000 |
+|4 |Hit+15 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Hit_2B15_Icon.webp) |Grants Hit +15 |1000 |
+|5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
+|6 |Lance Profiecieny <br> ![Pic]({{ site.baseurl }}/img/lanceprof.PNG) |Proficiency with Lances. Required for promotion to certain Classes. |Auto |
+|6 |Lance Power 2 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Lance_Power_2_Icon.webp) |Grants Attack +4 and Avoid -10 when using a Lance |2000 |
+|7 |Headlong Rush <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Headlong_Rush_Icon.webp) |Grants Immunity to Freeze |200 |
+|8 |Lance Power 3 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Lance_Power_3_Icon.webp) |Grants Attack +6 and Avoid -10 when using a Lance |3000 |
+|9 |Sword Proficiency <br> ![Pic]({{ site.baseurl }}/img/swordprof.PNG) |Proficiency with Swords. Required for promotion to certain classes |Auto |
 
 *When it comes to Skill Inheritance, **Canter** is the prize here and it's no contest. It's a skill that every unit in the game can some use for. 1000 SP isn't that much to ask for such a useful skill.*
 
@@ -148,8 +148,8 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 ## Sync Skills
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic](/img/sigurd/FE17_Canter2B_Icon.webp) <br> **Canter+** |13  |Unit can move 3 Spaces after acting  | 
-| ![Pic](/img/sigurd/FE17_Momentum2B_Icon.webp) <br> **Momentum+**|17  |Grants Atk+1 to first attack during combat for each space unit moved before attacking.  |
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Canter2B_Icon.webp) <br> **Canter+** |13  |Unit can move 3 Spaces after acting  | 
+| ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Momentum2B_Icon.webp) <br> **Momentum+**|17  |Grants Atk+1 to first attack during combat for each space unit moved before attacking.  |
 
 *At higher bond levels, 2 of Sigurd's Sync Skills get upgrades. **Canter+** is pretty good with 3 spaces instead of 2. But **Momentum+** I find odd as the only thing that changes is the removal of the limit on the extra damage it grants. This is great, especially if you're using a Cavalry Unit with Sigurd as that's +14 extra damage from Momentum if you're moving as far as you can go.*
 
@@ -157,25 +157,25 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l5 | ![Pic](/img/sigurd/TyrfingFE17Sprite.webp) <br> Tyrfing |15  |80  |0  |7  |1  |Grants RES+5 |
+| l5 | ![Pic]({{ site.baseurl }}/img/sigurd/TyrfingFE17Sprite.webp) <br> **Tyrfing** |15  |80  |0  |7  |1  |Grants RES+5 |
 
 *Sigurd's final Engage Weapon is his iconic Holy Weapon from his home game **Tyrfing**. Statwise, it's pretty good across the board and that added RES can make Sigurd's user into a decent Mage-Killer if need be.*
 
-*However, if there's once criticism I have about Tyrfing is that if you've played Sigurd's home game, you'll see this weapon got a massive downgrade from the **30 Might, +10 DEX, +10 SPD, and +20 RES**. No I am not joking, those are its original stats in its home game. Genealogy was absolutely WILD with how powerful its Holy Weapons were and Tyrfing is one of the more tame examples.*
+*However, if there's one criticism I have about Tyrfing is that if you've played Sigurd's home game, you'll see this weapon got a massive downgrade from the **30 Might, +10 DEX, +10 SPD, and +20 RES**. No I am not joking, those are its original stats in its home game. Genealogy was absolutely WILD with how powerful its Holy Weapons were and Tyrfing is one of the more tame examples.*
 
 
 ## Skill Inheritance
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|11 | Strong Bond <br> ![Pic](/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
-|12 |Hit+20 <br> ![Pic](/img/sigurd/FE17_Hit_2B20_Icon.webp) |Grants Hit +20 |1500 |
-|13 |Canter+ <br> ![Pic](/img/sigurd/FE17_Canter2B_Icon.webp) |Unit can move 3 Spaces after acting  |2000 |
-|14 |Lance Power 4 <br> ![Pic](/img/sigurd/FE17_Lance_Power_4_Icon.webp) |Grants Attack +8 and Avoid -10 when using a Lance |4000 |
-|16 |Hit+25 <br> ![Pic](/img/sigurd/FE17_Hit_2B25_Icon.webp) |Grants Hit +25 |2000 |
-|17 |Momentum+ <br> ![Pic](/img/sigurd/FE17_Momentum2B_Icon.webp) |Grants Atk+1 to first attack during combat for each space unit moved before attacking. |2000 |
-|18 |Lance Power 5 <br> ![Pic](/img/sigurd/FE17_Lance_Power_5_Icon.webp) |Grants Attack +10 and Avoid -10 when using a Lance |5000 |
-|19 |Hit+30 <br> ![Pic](/img/sigurd/FE17_Hit_2B30_Icon.webp) |Grants Hit +30 |2500 |
-|20 | Deep Synergy <br> ![Pic](/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
+|11 | Strong Bond <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
+|12 |Hit+20 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Hit_2B20_Icon.webp) |Grants Hit +20 |1500 |
+|13 |Canter+ <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Canter2B_Icon.webp) |Unit can move 3 Spaces after acting  |2000 |
+|14 |Lance Power 4 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Lance_Power_4_Icon.webp) |Grants Attack +8 and Avoid -10 when using a Lance |4000 |
+|16 |Hit+25 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Hit_2B25_Icon.webp) |Grants Hit +25 |2000 |
+|17 |Momentum+ <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Momentum2B_Icon.webp) |Grants Atk+1 to first attack during combat for each space unit moved before attacking. |2000 |
+|18 |Lance Power 5 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Lance_Power_5_Icon.webp) |Grants Attack +10 and Avoid -10 when using a Lance |5000 |
+|19 |Hit+30 <br> ![Pic]({{ site.baseurl }}/img/sigurd/FE17_Hit_2B30_Icon.webp) |Grants Hit +30 |2500 |
+|20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
 
 *Nothing much to say about Sigurd's higher level Inheritance. **Momentum+** is still not worth inheriting most of the time. If I had 2000 SP, I'd rather inherit **Canter+** though most of the time I find regular Canter to be good enough for most units.*
 
@@ -185,9 +185,9 @@ When it comes to builds with Sigurd, I usually go with the following ideas.
 
 1) **Lance Override Build**: This involves putting Sigurd on a powerful Lancer user, preferably a Lance Cavalry Unit to reap the full benefits of Gallop and Override as most promoted Lance Cavalry Classes have a high enough Lance Rank to use a Steel Greatlance for high Override Damage.
 
-2) **Armor Knight Build**: This involves putting Sigurd on a Knight or General and turning them into a mobile fortress. While Armored Units don't receive any special bonuses from Sigurd, they greatly appreciate the extra mobility he provides. This build is good in the Early Game. However, be careful you don't send your Knight/General too far ahead and beware of Mages as Armored Units' RES are so low that not even the RES bonus from Tyrfing will help much. It also doesn't help that mages have a good chance of doubling Armored Units. 
+2) **Armor Knight Build**: This involves putting Sigurd on a Knight or General and turning them into a mobile fortress. While Armored Units don't receive any special bonuses from Sigurd, they greatly appreciate the extra mobility he provides. This build is good in the Early Game. However, be careful you don't send your Knight/General too far ahead into the range of enemy Mages as Armored Units' RES are so low that not even the RES bonus from Tyrfing will help much. It also doesn't help that mages have a good chance of doubling Armored Units. 
 
-3) **Sandstorm Build**: In Engage, the Character Timerra has a unique Class called Picket. This class's unique skill; Sandstorm has a chance to use her high DEF stat in damamge calculation instead of her usually lower STR stat. Sandstorm stacks with Momentum to amp up her damage. Furthermore, when Timerra uses Override, she has a chance of trigger Sandstorm on EACH enemy hit by the Engage Attack and it's pretty funny when it procs on most of them.  
+3) **Sandstorm Build**: In Engage, the Character Timerra has a unique Class called Picket. This class's unique skill; Sandstorm has a chance to use her high DEF stat in damage calculation instead of her usually lower STR stat. Sandstorm stacks with Momentum to amp up her damage. Furthermore, when Timerra uses Override, she has a chance of triggering Sandstorm on EACH enemy hit by the Engage Attack and it's pretty funny when it procs on most of them.  
 
 
 # **Final Thoughts** <br>

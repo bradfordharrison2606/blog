@@ -107,8 +107,8 @@ Marth's Sync Skills are the following and all of them are inheritable.
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthRapierFE17Sprite.webp) <br> Rapier | 7 | 95 | 0 | 3 | 1 | Avoid +20. Effective: Armor, Cavalry |
-| l0 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MercuriusFE17Sprite.webp) <br> Mercurius | 12 | 80 | 0 | 7 | 1 | Double EXP while equipped |
+| l | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthRapierFE17Sprite.webp) <br> **Rapier** | 7 | 95 | 0 | 3 | 1 | Avoid +20. Effective: Armor, Cavalry |
+| l0 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MercuriusFE17Sprite.webp) <br> **Mercurius** | 12 | 80 | 0 | 7 | 1 | Double EXP while equipped |
 
 ***Rapier** is great in the early game as your answer to Armors and Cavalry, especially when combined with Lodestar Rush. Outside of Lodestar Rush, the Rapier is good for Dodge-Tanking with it's +20 Avoid which stacks with Perceiptive. Unlike Perceptive, this Avoid Bonus is always active as long as you have the Rapier equipped. However, it falls off in the late game due to it's low Might.* <br>
 
@@ -117,7 +117,7 @@ Marth's Sync Skills are the following and all of them are inheritable.
 *Overall, Marth's Initial Engage Weapons are pretty good across the board. Use the Rapier to exterminate Armor and Cavalry Foes and use Mercurius if you want some extra EXP on a character.* 
 
 
-## Inheritable Skills 
+## Skill Inheritance 
 Marth's other Inheritable Skills are the following.
 
 | **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
@@ -180,7 +180,7 @@ Marth's Later Sync Skills are the following and all of them are inheritable.
 ## Engage Weapons 
 
 | **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l5 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthFalchionFE17Sprite.webp) <br> Falchion | 12 | 100 | 0 | 10 | 1 | Effective: Dragon |
+| l5 | ![Divine Speed Pic]({{ site.baseurl }}/img/marth/MarthFalchionFE17Sprite.webp) <br> **Falchion** | 12 | 100 | 0 | 10 | 1 | Effective: Dragon |
 
 ***Falchion** at Bond 15 isn't anything to write home about. It isn't that different to the Mercurius except it has Dragon Effectiveness instead. Normally Dragon Effectiveness isn't all that special in Engage. HOWEVER, by the time you have access to Falchion, you also have access to another Emblem that turns Dragon Effectiveness into **FELL DRAGON** Effectiveness which is incredibly useful for the Final Boss. So I usually don't give Falchion as much flak compared to its other Dragon-Slaying compratriots for this reason.* <br>
 
@@ -199,7 +199,7 @@ Marth's Later Sync Skills are the following and all of them are inheritable.
 |20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
 
 
-*The rest of Marth's Skill Inheritance continues the trend of being either dirt cheap and stupidly expensive with no middle ground. The main point against Marth's later Inheritance is that by the time you get access to them, they will have an absurd amount of competition for your SP and Skill Slots from the Base Game Emblems alone. I don't blame you if you disregard inheriting Skills from Marth at that point.* 
+*The rest of Marth's Skill Inheritance continues the trend of being either dirt cheap and stupidly expensive with no middle ground. The main point against Marth's later Inheritance is that by the time you get access to them via completing Marth's Paralogue, they will have an absurd amount of competition for your SP and Skill Slots from the Base Game Emblems alone. I don't blame you if you disregard inheriting Skills from Marth at that point.* 
 
 *However, if you're considering inheriting skills from Marth's higher Bond Levels, I recommend sticking to **Unyielding+**, **Unyielding++**, and **Perceptive+**. Not only are these reasonably priced but you are definitely getting the biggest bang for your buck. Perceptive+ might only be active during Player Phase but +30 Avoid is still useful, especially for only 500 SP.* 
  
@@ -222,12 +222,10 @@ By the time you get Marth back in the Late Game, you have so many options for bu
 
 
 # **Final Thoughts** <br>
-Emblem Marth is an Emblem I find to be this game's example of "Simple, but Practical". His kit isn't all that complex as it can be boiled down to "Do More Damage, Dodge More Attacks." which isn't a bad thing, especially in the Early Game as you will need the damage and evasion Marth provided. 
+Emblem Marth is an Emblem I find to be this game's example of "Simple, but Practical". His kit isn't all that complex as it can be boiled down to "Do More Damage, Dodge More Attacks." which isn't a bad thing, especially in the Early Game as you will need the damage and evasion Marth provided.
 
 Lodestar Rush is great for wiping enemies off the map or weakening Bosses while the Mercurius is an amazing Engage Weapon, especially in the Early Game for power leveling your units. Even in the Late Game he can still put in alot of work if you use in certain builds. 
 
-In terms of Inheritable Skills, I find Marth to be a mixed bag. The skills you'd actually want to inherit from him (Break Defenses, Avoid+, Sword Agility) are all stupidly expensive and his cheap inheritable skills are also his Sync Skills, meaning they are free on his bearer. Marth's Skill Inheritance is only worth it if you are specifically running a universal Dodge-Tank Build who can dodge on both Phases. 
+In terms of Inheritable Skills, I find Marth to be a mixed bag. The skills you'd actually want to inherit from him (Break Defenses, Avoid+, Sword Agility) are all stupidly expensive and his cheap inheritable skills are also his Sync Skills, meaning they are free on his bearer. By the time you have enough SP to inherit his better skills either through Skill Books or just saving up SP, they will a lot of stiff competition for your units' SP and Skill Slots. Marth's Skill Inheritance is only worth it if you are specifically running a universal Dodge-Tank Build who can dodge on both Phases. 
 
-Despite this, Marth has one problem that seriously hurts his viability. Out of the 6 Emblems you lose at the end of Chapter 10, Marth is gone the longest by far. You don't fully get him back until Chapter 23. By that your team and their builds should already be set in stone, meaning that once Marth comes back, unless you’ve been planning around his absence, you likely won’t have anyone who specifically needs him. However, this isn’t all bad as Marth is designed to be generic enough that he pairs well with just about any type of Unit. In fact, those 3 Builds I suggested I discovered because I had no one who specifically needed Marth. 
-
-Overall Emblem Marth is a decent Emblem, especially for the first one you get. His Engage Skill and Attack are great simply for how simple but effective they are and his Engage Weapons are mostly good. However, he’s weighed down by the cost of his Inheritable Skills that require specific builds to get the most mileage of of them and the fact that he’s absent for entire mid-game.
+Overall Emblem Marth is a decent Emblem, especially for the first one you get. His simple but effective kit is designed to help players familiarize themselves with Engage's mechanics while giving you some much needed firepower in the Early Game. 
