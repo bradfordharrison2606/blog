@@ -1,7 +1,8 @@
 ---
 #layout: default
 layout: post
-title: "Celica - Emblem of Echoes"
+title: "Emblem Celica - Fire Emblem Engage Primer"
+subtitle: "Celica - Emblem of Echoes"
 date:   2024-08-08 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Celica"
@@ -113,7 +114,7 @@ Celica represents Fire Emblem Gaiden/Echoes and is the first purely Magic-focuse
 
 *Despite being dirt cheap, **Holy Stance** isn't worth inheriting as again, bouncing back only 10% of the damage you take isn't anything to write home about.* 
 
-***Tome Resonance** can be useful on Mages with accuracy issues, especially for how reasonably priced they are.*
+***Tome Precision** is Celica's Weapon Skill and it can be useful on Mages with accuracy issues, especially for how reasonably priced they are.*
 
 *It may be worth it to inherit **Favorite Food** unto someone, especially if you plan on using Marth's Mercurius to power level them. Having back-to-back Engages let's Marth wielders wrack up the EXP.* 
 

@@ -1,7 +1,8 @@
 ---
 #layout: default
 layout: post
-title: "Roy- Emblem of Binding"
+title: "Emblem Roy - Fire Emblem Engage Primer"
+subtitle: "Roy - Emblem of Binding"
 date:   2024-08-11 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Roy"
@@ -122,7 +123,7 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 
 *You've probably noticed that other Emblems have a mix of cheap and expensive Skill Inheritance. Well, Roy bucks that trend HARD as the vast majority of his inheritable skills are incredibly expensive. I'm serious, unless you've been using the Ancient Well and hoarding Skill Books, you aren't inheriting the vast majority of these skills until well into the End Game. However, that's to be expected as all of Roy Skill Inheritance are varying levels of incredibly powerful.* 
 
-*Roy's Stat Skills are the **Strength+** and **Sword Powe**r Skills, both are which are incredibly powerful for physical units. Boosting your raw Strength stat is something every physical unit can appreciate and most Sword units won't care about the Avoid penality from Sword Power if it means hitting harder.* 
+*Roy's Stat and Weapon Skills are the **Strength+** and **Sword Power** Skills respectively. Both of these skills are incredibly powerful for physical units. Boosting your raw Strength stat is something every physical unit can appreciate and most Sword units won't care about the Avoid penality from Sword Power if it means hitting harder.* 
 
 *As you'd expect, **Hold Out** is not cheap in the slightest, even the base version will run you the equivalent of 2 Expert Books. However, if you want to have your army running around with Hold Out Focus Sashes, more power to you. Just don't expect Roy to make it easy (or cheap) for you. Roy might be a good-natured kid, but he isn't going to let anyone run around with his signature skill.* 
 

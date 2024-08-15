@@ -1,7 +1,8 @@
 ---
 #layout: default
 layout: post
-title: "Sigurd - Emblem of The Holy War"
+title: "Emblem Sigurd - Fire Emblem Engage Primer"
+subtitle: "Sigurd - Emblem of The Holy War"
 date:   2024-08-08 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Sigurd"
@@ -125,9 +126,9 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 
 *I don't recommend inheriting **Momentum** on Foot units as their movement upon promotion caps out a 5 which isn't enough to ake Momentum worth it, especially when Canter costs the same. If I had a choice between the two, I'd go with Canter.*
 
-*Sigurd's Stat Skills are the **Hit+** and **Lance Power** Skills. The Hit+ Skills have the most universal appeal as in Engage, you'll often being dealing with shaky hit rates (79% and under), either from characters having subpar DEX stats or against speedy enemies like Swordmasters or Griffin Knights. Having a flat bonus to your accuracy rates can be useful .*
+*Sigurd's Stat Skill is **Hit+**. These Skills have the most universal appeal as in Engage, you'll often being dealing with shaky hit rates (79% and under), either from characters having subpar DEX stats, weapons with shaky accuracy rates, or from fighting speedy enemies like Swordmasters or Griffin Knights. Having a flat bonus to your accuracy rates can be useful.*
 
-*I can't say the same for the Lance Power Skills which are not only niche but expensive. However, if you want to inherit these skills, I recommend them on Lance Users like Knights, Generals, or Great Knights. They usually have such high DEF stats that they don't need to worry about dodging so the Avoid penalty is meaningless to them in exchange for hitting harder.*
+*Sigurd's Weapon Skill is the **Lance Power** line of Skills. Unfortunately, compared to the Hit+ Skills, I can't recommend these skills are not only are they niche but expensive. However, if you want to inherit these skills, I recommend them on Lance Users like Knights, Generals, or Great Knights. They usually have such high DEF stats that they don't need to worry about dodging so the Avoid penalty is meaningless to them in exchange for hitting harder.*
 
 *Lastly, Sigurd gives both **Lance Proficiency** and **Sword Proficiency**.*
 

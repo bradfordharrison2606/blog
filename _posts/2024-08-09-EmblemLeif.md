@@ -1,7 +1,8 @@
 ---
 #layout: default
 layout: post
-title: "Leif - Emblem of Geneaology"
+title: "Emblem Leif - Fire Emblem Engage Primer"
+subtitle: "Leif - Emblem of Genealogy"
 date:   2024-08-09 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Leif"
@@ -143,11 +144,11 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 
 *Remember how I said that Leif is an Emblem best suited for Utility? Well, look no further than Leif's Skill Inheritance because Leif has some of, if not THE best Skill Inheritance in the game bar none and it's not even a contest.* 
 
-*The least impressive of Leif's Inheritance are the **Knife Precision** Skills which makes your Knife users more accurate and better Dodge-Tanks.*
+*The least impressive of Leif's Inheritance is his Weapon Skill **Knife Precision**. These can see use as a way to make your Knife users more accurate and better Dodge-Tanks.*
 
 ***Arms Shield** and **Arms Shield+** can make your bulky units even bulkier and aren't too expensive along with Vantage, which is more than worth its weight in SP not only for regular use but also setting up the infamous Vantage+Wrath Combo. All without the baggage of wearing Leif's Ring.*
 
-*The **Build+** Skills are incredibly useful for pretty much any Unit in the game, regardless of class as having higher Build means a unit is less likely to be significantly weighed down by their weapons. It also helps that they are quite affordable for the sheer value they provide. However, these skills don't hold a candle to the last thing Leif offers.*
+*Leif's Stat Skill, the **Build+** Skills are incredibly useful for pretty much any Unit in the game, regardless of class. Having increased Build decreases the chances of a unit being significantly weighed down by their weapons and a lot of the better weapons in Engage are more on the heavy side. It also helps that they are quite affordable for the sheer value they provide. However, these skills don't hold a candle to the last thing Leif offers.*
 
 *No, you are not hallucinating. Leif gives **SIX (6) Weapon Proficiencies** for Reclassing. For context, Engage has a total of Eight (8) Weapon Proficiencies. If you're wondering why Leif has so many Proficiencies compared to other Emblems who give a maximum of 2. It's a reference to Leif's promoted Master Knight Class in Genealogy of the Holy War where he could use 9 out of the 10 Weapon Types that game had.* 
 

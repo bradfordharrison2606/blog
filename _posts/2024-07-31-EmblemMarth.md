@@ -1,7 +1,8 @@
 ---
 #layout: default
 layout: post
-title: "Marth - Emblem of Beginnings"
+title: "Emblem Marth - Fire Emblem Engage Primer"
+subtitle: "Marth - Emblem of Beginnings"
 date:   2024-07-31 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Marth"
@@ -140,9 +141,11 @@ Marth's other Inheritable Skills are the following.
 
 ***Perceptive** and **Unyielding** are pretty dirt cheap for the effects they give you. Personally, between these two I usually go with Perceptive as that Avoid bonus is really handy in the Early Game as most of your units aren't all that bulky and the extra avoid could save them for taking a hit.*
 
-*Every Emblem in Engage has Inheritable Skills that grant bonuses to either stats, either boosting your raw stats or granting bonuses when using specific weapon types. For Marth, his **Stat Skills** are the **Avoid+** and **Sword Agility** Skills. The Avoid+ I find to be useful as again, you can never have too much avoid. However, they are expensive, especially at higher levels. The highest I go with these skills is Avoid+15.* 
+*Every Emblem in Engage has Inheritable Skills that grant bonuses to either a unit's raw Stats (**Stat Skills**) or when a unit uses a specific weapon type (**Weapon Skill**).* 
 
-*Marth's **Sword Agility** may seem counterintuitive. Why would you sacrifice Crit Chance for more avoid. Well 2 Things. 1) Notice how the Avoid bonus increases with higher levels of the skill but the Crit penalty remains the same. 2) Engage has many tools that can boost your Critical Rate to near comical levels (Engraves, Certain Inheritable Skills, etc) so most of the time that -10 Crit won't be much of an issue. Even if you aren't running a Crit Build, the extra Avoid is always helpful, especially since Sword units in Engage tend to be better Dodge-Tanks.*
+*For Marth, his Stat Skill is the **Avoid+** line of Skills. I find these skills to be useful as again, you can never have too much avoid. However, they are expensive, especially at higher levels. The highest I go with these skills is Avoid+15.*
+
+*Marth's Weapon Skill is **Sword Agility**. At first glance it may seem counter-intuitive.  Why would you sacrifice Crit Chance for more avoid. Well 2 Things. 1) Notice how the Avoid bonus increases with higher levels of the skill but the Crit penalty remains the same. 2) Engage has many tools that can boost your Critical Rate to near comical levels (Engraves, Certain Inheritable Skills, etc) so most of the time that -10 Crit won't be much of an issue. Even if you aren't running a Crit Build, the extra Avoid is always helpful, especially since Sword units in Engage tend to be better Dodge-Tanks.*
 
 *Lastly, Marth's only **Weapon Proficiency** is Swords which may seem lacklustre but there are many good classes in Engage that open up once a Unit has Sword Proficiency. The standout examples being Mage Knight and Griffin Knight for Levin Sword usage and Hero for better Chain Attack Utility. The main downside is that you get this from Marth at Bond 8 when there is another Early Game Emblem that teaches Sword Proficiency a bit earlier*
 
