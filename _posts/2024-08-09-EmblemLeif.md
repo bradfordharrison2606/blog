@@ -91,7 +91,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 
 **"... Leif's idea of "best" weapon is suboptimal at best and outright suicidal at worst"**.
 
-*The in-game description doesn't tell you this but Adaptable prioritizing avoiding Break (Weapon Triangle Disadvantage). Say for example you have a Sword equipped and a Lance Enemy attacks you. Adaptable will have you switch to Leif's Killer Axe to avoid Break and active Arms Shield. The problem is that Leif's AI doesn't pay attention to the **WEIGHT** of the weapon. As I've pointed out, Leif's Engage Weapons are rather heavy, especially the Master Lance. Say, for example, you are Engaged with Leif and have an Iron Axe in your inventory alongside Leif's Killer Axe and Master Lance. A Sword Enemy attacks you and Adaptable triggers with 2 options. Keep in mind that most Sword Units have high SPD stats.*
+*The in-game description doesn't tell you this but Adaptable prioritizing avoiding Break (Weapon Triangle Disadvantage). Say for example you have a Sword equipped and a Lance Enemy attacks you. Adaptable will have you switch to Leif's Killer Axe to avoid Break and active Arms Shield. The problem is that Leif's AI doesn't pay attention to the **WEIGHT** of the weapon he's equipping. As I've pointed out, Leif's Engage Weapons are rather heavy, especially the Master Lance. Say, for example, you are Engaged with Leif and have an Iron Axe in your inventory alongside Leif's Killer Axe and Master Lance. A Sword Enemy attacks you and Adaptable triggers with 2 options. Keep in mind that most Sword Units have high SPD stats.*
 
 1) Keep the Iron Axe Equipped. You get broken but you only take one hit for **13 Damage**.
 
@@ -112,7 +112,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 |Qi Adept |Breaks Foe |
 |Covert |Luck% Chance to obtain 1000 Gold |
 
-*If you thought things couldn't get worse after Adaptable, you'd be wrong. **Quadruple Hit (QH)** is a tier above Adaptable in how terrible it is. When you use QH, you'll notice that it is doing laughably pathetic damage. Unlike Marth's Lodestar Rush and Sigurd's Override which let you use other weapons aside from their respective Engage Weapons such as Smash Weapons, Leif's QH ALWAYS uses his four Engage Weapons, each has its problems. The Killer Axe is fine with its 11 Might but the Master Lance and Master Bow both have pathetic Might of 7 and 6 respectively. The Light Brand, despite having an impressive 15 Might is a Magical Weapon, meaning its damage is based on your MAG stat. All of this means that unless Leif's wearer has good STR and MAG stats, QH isn't going to be doing much damage.* 
+*If you thought things couldn't get worse after Adaptable, you'd be right. **Quadruple Hit (QH)** is a tier above Adaptable in how terrible it is. When you use QH, you'll notice that it is doing laughably pathetic damage. Unlike Marth's Lodestar Rush and Sigurd's Override which let you use other weapons aside from their respective Engage Weapons such as Smash Weapons, Leif's QH ALWAYS uses his four Engage Weapons, each has its problems. The Killer Axe is fine with its 11 Might but the Master Lance and Master Bow both have pathetic Might of 7 and 6 respectively. The Light Brand, despite having an impressive 15 Might is a Magical Weapon, meaning its damage is based on your MAG stat. All of this means that unless Leif's wearer has good STR and MAG stats, QH isn't going to be doing much damage.* 
 
 *As for Class Bonuses, **Dragons** get increased damage which goes a decent way to not making QH hit like a Wet Noodle. **Qi Adepts** breaking the foe is nice but if your enemy is using a Sword/Axe/Lance, there's a high chance they'll be broken anyway. The **Covert** Bonus may seem strange but it's a nice reference to the "Leif's Blade" weapon in Fire Emblem: Awakening which had a similar mechanic*. 
 
@@ -139,7 +139,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 |6 |Staff Proficiency <br> ![Pic]({{ site.baseurl }}/img/staffprof.PNG) |Proficiency with Staves. Required for promotion to certain Classes |Auto |
 |7 |Arms Shield+ <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Arms_Shield2B_Icon.webp) |When unit has weapon advantage, unit takes 5 less damage. |400 |
 |7 |Lance Proficiency <br> ![Pic]({{ site.baseurl }}/img/lanceprof.PNG) |Proficiency with Lances. Required for promotion to certain Classes. |Auto |
-|8 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
+|8 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.PNG) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
 |9 |Knife Precision 2 <br> ![Pic]({{ site.baseurl }}/img/leif/FE17_Knife_Precision_2_Icon.webp) |Grants Hit/Avoid+5 when using a Knife |300 |
 
 *Remember how I said that Leif is an Emblem best suited for Utility? Well, look no further than Leif's Skill Inheritance because Leif has some of, if not THE best Skill Inheritance in the game bar none and it's not even a contest.* 
