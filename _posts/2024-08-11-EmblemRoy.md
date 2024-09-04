@@ -87,11 +87,15 @@ Wearing Roy's Ring grants boosts to Strength and Resistance along with a signifi
 
 *Roy's **Blazing Lion** is focused on wide, AOE damage. If Sigurd's Override is "Long Sword", then Blazing Lion is "Wide Sword".* 
 
-*Blazing Lion doesn't deal any extra damage, even with Unit Bonuses. All it does is hit up to 3 adjacent enemies who standing side by side in a row/column. However, the other half of this attack is the interesting part as it sets an area on **Fire** (the row with the 3 enemies and the 2 rows behind them). Engage has many different Terrain Effects (One Emblem we get later is all about manipulating Terrain) and Fire happens to be one of the better ones. Not only does Fire heavily slow down movement (both yours and the enemy's), but also deals 10 Damage to them if they start their turn on a Fire space. Because of this, if you're planning on using Blazing Lion, it's best to have Roy's bearer move last on your turn to not impede your other units with the flames he creates.* 
+*Blazing Lion doesn't deal any extra damage, even with Unit Bonuses. All it does is hit up to 3 adjacent enemies who standing side by side in a row/column. However, the other half of this attack is the interesting part as it sets an area on **Fire** (the row with the 3 enemies and the 2 rows behind them). Engage has many different Terrain Effects (One Emblem we get later is all about manipulating Terrain) and Fire happens to be one of the better ones. Not only does Fire heavily slow down movement (both yours and the enemy's), but also deals 10 Damage to them if they start their turn on a Fire space. Because of this, if you're planning on using Blazing Lion, it's best to have Roy's bearer move last on your turn to not impede your other units with the flames he creates. Below are visual references for how the Class Bonuses affect Blazing Lion.* 
 
 *You should know the drill by now with Engage Attacks. **Smash Weapons = Higher Damage**.* 
 
 *Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit up to 6 enemies if you can line them up right and Mystical Units just set a larger area on Fire while attacking the same amount of enemies (3).* 
+
+|**Normal** |**Dragon** |**Mystical**|
+|![Pic]({{ site.baseurl }}/img/roy/NormalBlazingLion.PNG) |![Pic]({{ site.baseurl }}/img/roy/DragonBlazingLion.PNG) |![Pic]({{ site.baseurl }}/img/roy/MysticalBlazingLion.PNG) |
+
 
 ## Engage Weapons 
 
