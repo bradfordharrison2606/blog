@@ -252,11 +252,28 @@ Lyn's higher level Inheritance is incredibly straightforward with upgrades to <b
 
 As you can infer from this profile, Lyn is an Emblem who can make almost anyone into a good Combat unit. Thus she is a very in-demand Emblem. However, I've had the best results with the following builds. 
 
-**Covert Build**: This Build revolves around maximizing the range of Astra Storm to the full 20 Spaces. This Build unfortunately has limited options as the number of playable Covert Classes in Engage is 5. Thieves, Archers, and Snipers get good mileage out of Lyn, the latter two especially as they can use their own, forged Bows with Lyn's Astra Storm. 
+<details>
+<summary> Covert Build </summary>
 
-**Luna Build**: There are 2 Covert Bow Classes in Engage that are exclusive to one character. Said character is commonly agreed to be one of Lyn's best users. Not only do they wield Bows, but their Class Skill once promoted is Luna (A chance to ignore half of the foe's DEF/RES when attacking) which is subject to the Rush Effect for EACH hit of Astra Storm, leading to one-round kills. 
+This Build revolves around maximizing the range of Astra Storm to the full 20 Spaces. This Build unfortunately has limited options as the number of playable Covert Classes in Engage is 5. <b>Thieves, Archers, and Snipers</b> get good mileage out of Lyn, the latter two especially as they can use their own, forged Bows with Lyn's Astra Storm. 
 
-**General Bow Build**: Multiple classes in Engage use Bows. While most of them will not receive bonuses from Astra Storm or Call Doubles, they are still worth considering for the spot of Lyn's main user. Warriors especially while their Bow rank is low, have very high Strength which when combined with all the Speed Lyn practically showers you in, leads to a deadly combination. 
+</details>
+
+
+<details>
+<summary> Luna Build </summary>
+
+There are 2 Covert Classes in Engage that are exclusive to the character Alcryst (<b>Lord and Tireur d'élite</b>). Alcryst is commonly agreed to be one of Lyn's best users. Not only does he use Bows as his primary weapon, but his Class Skill once promoted is Luna (A chance to ignore half of the foe's DEF/RES when attacking) which is subject to the Rush Effect for EACH hit of Astra Storm, leading to one-round kills. 
+
+</details>
+
+
+<details>
+<summary> General Bow Build </summary>
+Multiple classes in Engage use Bows. While most of them will not receive bonuses from Astra Storm or Call Doubles, they are still worth considering for the spot of Lyn's main user. <b>Warriors</b> especially while their Bow rank is low, have very high Strength which when combined with all the Speed Lyn practically showers you in, leads to a deadly combination. 
+
+</details>
+
 
 # **Final Thoughts** <br>
 

@@ -1,15 +1,15 @@
 ---
 #layout: default
 layout: post
-title: "Emblem - Fire Emblem Engage Primer"
-subtitle: "Name - Emblem of "
-date:   2024-08-08 00:09:18 -0400
+title: "Emblem Ike- Fire Emblem Engage Primer"
+subtitle: "Ike - Emblem of Radiance"
+date:   2024-09-10 00:09:18 -0400
 categories: jekyll Cat2
-permalink: "/Emblems/Template"
-backgroundcolor: white
+permalink: "/Emblems/Ike"
+backgroundcolor: 7288fe
 
 author: "Bradley Harris"
-published: false
+published: true
 ---
  
 So insure that the images show up on the GitHub Pages, you have to insert the site.baseurl below right before the /img/... stuff. 
@@ -23,9 +23,9 @@ When you're done inserting all the images use the Replace command to replace /im
 
 
 
-| ![Emblem Pic]({{ site.baseurl }}/img/) |
+| ![Emblem Pic]({{ site.baseurl }}/img/ike/engageike.webp) |
 
- <h1> <div class="evocation"> Insert Emblem Evocation Here. </div> </h1>
+ <h1> <div class="evocation"> Fight on, Emblem of Radiance! </div> </h1>
 <br>
 
 
