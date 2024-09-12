@@ -38,7 +38,7 @@ Micaiah represents the 2nd Game of the Tellius Duology: Radiant Dawn. Unlike the
 |4  | +2 | +3 | +2 |
 |8  | +2 | +3 | +4 |
 
-Wearing Micaiah's Ring grants boosts to Magic, Resistance, and Luck. The Magic boost may give the impression that you could run Micaiah on offenses Mages but Celica gives a bigger raw Magic boost than her at equivalent Bond Levels.
+Wearing The Ring of the Dawn Maiden grants boosts to Magic, Resistance, and Luck. The Magic boost may give the impression that you could run Micaiah on offenses Mages but Celica gives a bigger raw Magic boost than her at equivalent Bond Levels.
 
 ## Sync Skills
 

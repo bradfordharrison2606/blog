@@ -44,7 +44,7 @@ Celica represents Fire Emblem Gaiden/Echoes and is the first purely Magic-focuse
 | 4 | +1 | +3 | +3 |
 | 7 | +2 | +3 | +3 |
 
-*Celica's Ring grants boosts to Strength, Magic, and Resistance. The latter two stats are things dedicated Mages always want more of. That increase in Strength might seem odd but there are a few classes in Engage that can run mixed Physical and Magic offenses like Mage Knights, Griffin Knights, and the special Vidame Class.*
+Wearing the Ring of the Caring Princess grants boosts to Strength, Magic, and Resistance. The latter two stats are things dedicated Mages always want more of. That increase in Strength might seem odd but there are a few classes in Engage that can run mixed Physical and Magic offenses like Mage Knights, Griffin Knights, and the special Vidame Class.
 
 
 ## Sync Skills

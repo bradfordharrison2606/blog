@@ -40,8 +40,7 @@ Sigurd represents the 1st Game of the Jugdral Duology: Fire Emblem: Genealogy of
 
 | All | MOV + 1 |
 
-*Sigurd's Passive Stat Boosts are interesting in that he raises **Build**, a stat is difficult to increase without help from other Emblems and he is one of three Emblems to do this, the 3rd of which is DLC. More interesting is that Sigurd increases his bearer's **Movement** which is completely unique to him.*
-
+Wearing the Ring of the Holy Knight grants some interesting stat boosts. Sigurd raises **Build**, a stat is difficult to increase without help from other Emblems and he is one of three Emblems to do this, the 3rd of which is DLC. More interesting is that Sigurd increases his bearer's **Movement** which is completely unique to him.
 
 ## Sync Skills
 

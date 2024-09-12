@@ -37,7 +37,7 @@ Leif represents the other half of the Jugdral Duology: Thracia 776. Leif is an E
 |3  | +3 | +1 | +4 |
 |6  | +5 | +1 | +4 |
 
-*Wearing Leif's Ring grants bonuses to HP, DEF, and most importantly **Build**. Remember back in Sigurd's profile where I said there were only 3 Emblems who passively raise Build. Leif is one of those Emblems and he gives the biggest Build bonus by far. However, his boosts to Build don't stop at his passive stats but that's for later.*
+Wearing The Ring of the Sage Lord grants bonuses to HP, DEF, and most importantly **Build**. Remember back in Sigurd's profile where I said there were only 3 Emblems who passively raise Build. Leif is one of those Emblems and he gives the biggest Build bonus by far. However, his boosts to Build don't stop at his passive stats but that's for later.
 
 
 ## Sync Skills

@@ -44,7 +44,7 @@ He specializes in Dodge-Tanking, dealing with Armor and Cavalry Foes and attacki
 | 6 | +2 | +2 | +2 |
 | 9 | +2 | +3 |  +2|
 
-*Marth's Ring grants its wearer boosts to Strength, Dexterity, and Speed, which are all stats any Combat Unit would want. Not only does it give their physical attacks more punch but makes them more accurate and increases their chances of doubling the enemy*
+Wearing the Ring of the Hero King grants its wearer boosts to Strength, Dexterity, and Speed, which are all stats any Combat Unit would want. Not only does it give their physical attacks more punch but makes them more accurate and increases their chances of doubling the enemy
 
 
 ## Sync Skills

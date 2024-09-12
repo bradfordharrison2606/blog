@@ -1,12 +1,12 @@
 ---
 #layout: default
 layout: post
-title: "Emblem - Fire Emblem Engage Primer"
-subtitle: "Name - Emblem of "
-date:   2024-08-08 00:09:18 -0400
+title: "Emblem Lucina - Fire Emblem Engage Primer"
+subtitle: "Lucina - Emblem of Awakening"
+date:   2024-09-12 00:09:18 -0400
 categories: jekyll Cat2
-permalink: "/Emblems/Template"
-backgroundcolor: white
+permalink: "/Emblems/Lucina"
+backgroundcolor: 72ace5
 
 author: "Bradley Harris"
 published: false
@@ -23,9 +23,9 @@ When you're done inserting all the images use the Replace command to replace /im
 
 
 
-| ![Emblem Pic]({{ site.baseurl }}/img/) |
+| ![Emblem Pic]({{ site.baseurl }}/img/lucina/engagelucina.webp) |
 
- <h1> <div class="evocation"> Insert Emblem Evocation Here. </div> </h1>
+ <h1> <div class="evocation"> Reignite us, Emblem of Awakening! </div> </h1>
 <br>
 
 

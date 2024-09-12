@@ -40,7 +40,7 @@ Lyn represents the 2nd of the GBA Fire Emblem Games: Blazing Sword. She is widel
 | 7 | +2 | +2 | +2 |
 | 9 | +2 | +3 | +2 |
 
-Wearing Lyn's Rings grants boosts to Dexterity, Speed, and Resistance. Speed is the biggest perk here as it's the one stat all combat units appreciate as it makes it easier to double attack opponents. 
+Wearing The Ring of the Lady of the Plains grants boosts to Dexterity, Speed, and Resistance. Speed is the biggest perk here as it's the one stat all combat units appreciate as it makes it easier to double attack opponents. 
 
 ## Sync Skills
 
