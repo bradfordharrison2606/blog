@@ -32,7 +32,7 @@ Lucina: 72ace5	(114, 172, 229)
 Corrin:	beb4ac	(190, 180, 172)
 Byleth:	b266ff	(178, 102, 255)
 Alear: 	40bfff	(64, 191, 255)
-
+	Outside should be red. Adjust background color on body in post.html. 
 
 
 
