@@ -109,6 +109,13 @@ Great Aether is an Engage Attack that benefits the most from using Smash Weapons
 
 For maximum effect, you'll want to position Ike's User in an open area to draw as many enemies as possible. Ideally, Great Aether will cover the range depicted in the diagram below. <br><br>
 
+<table>
+  <tr>
+    <td> <img src="{{ site.baseurl }}/img/ike/GreatAetherRange.PNG" alt="Description of image"> </td>
+  </tr>
+
+</table>
+
 Even if Ike's User can't use high-power Axes normally, don't fret. Ike has them covered with his Engage Weapons. 
 
 </details>
