@@ -6,7 +6,7 @@ subtitle: "Sigurd - Emblem of The Holy War"
 date:   2024-08-08 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Sigurd"
-backgroundcolor: b4a6ff
+backgroundcolor: b19cd9
 
 author: "Bradley Harris"
 published: true

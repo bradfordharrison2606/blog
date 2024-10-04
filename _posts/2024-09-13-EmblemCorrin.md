@@ -6,7 +6,7 @@ subtitle: "Corrin - Emblem of Fates"
 date:   2024-09-13 00:12:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Corrin"
-backgroundcolor: beb4ac
+backgroundcolor: c0c0c0
 
 author: "Bradley Harris"
 published: true

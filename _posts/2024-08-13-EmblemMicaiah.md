@@ -6,7 +6,7 @@ subtitle: "Micaiah - Emblem of Dawn"
 date:   2024-08-13 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Micaiah"
-backgroundcolor: feba32
+backgroundcolor: ffa500
 
 author: "Bradley Harris"
 published: true

@@ -6,7 +6,7 @@ subtitle: "Roy - Emblem of Binding"
 date:   2024-08-11 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Roy"
-backgroundcolor: fe5040
+backgroundcolor: FF0000
 
 author: "Bradley Harris"
 published: true

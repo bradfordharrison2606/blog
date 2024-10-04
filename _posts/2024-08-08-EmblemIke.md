@@ -1,12 +1,12 @@
 ---
 #layout: default
-layout: post
+layout: postWhite
 title: "Emblem Ike- Fire Emblem Engage Primer"
 subtitle: "Ike - Emblem of Radiance"
 date:   2024-09-10 00:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Ike"
-backgroundcolor: 7288fe
+backgroundcolor: 000080
 
 author: "Bradley Harris"
 published: true

@@ -6,7 +6,7 @@ subtitle: "Byleth - Emblem of The Academy "
 date:   2024-09-17 00:00:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Byleth"
-backgroundcolor: b266ff
+backgroundcolor: B026FF
 
 author: "Bradley Harris"
 published: true
@@ -74,7 +74,7 @@ Byleth enjoys standing next to people, not just for Mentorship but also for his 
 |**Unit Type**|**Bonus**|
 |Dragon| All seven basic Stats +3|
 |Backup| STR+4|
-|Cavalry |DEX+10 |
+|Cavalry |DEX+10 | 
 |Covert |SPD+5 |
 |Armored | DEF+5|
 |Flying |RES+5 |

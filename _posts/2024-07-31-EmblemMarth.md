@@ -6,7 +6,7 @@ subtitle: "Marth - Emblem of Beginnings"
 date:   2024-07-31 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Marth"
-backgroundcolor: 40a0ff
+backgroundcolor: 0000ff
 
 author: "Bradley Harris"
 published: true

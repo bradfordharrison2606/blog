@@ -6,7 +6,7 @@ subtitle: "Eirika (& Ephraim) - Emblem(s) of The Sacred "
 date:   2024-09-04 12:00:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Eirika"
-backgroundcolor: 45ccaa
+backgroundcolor: 00ff7f
 
 author: "Bradley Harris"
 published: true
@@ -191,8 +191,6 @@ That boost to Luck could be useful when combined with an inherited Avoid+ skill.
 | ![Pic]({{ site.baseurl }}/img/eirika/FE17_Gentility2B_Icon.webp) <br> **Gentility+** | 18 | Unit takes 5 less damage. <br> (**Only Usable w/Eirika**)  |
 | ![Pic]({{ site.baseurl }}/img/eirika/FE17_Bravery2B_Icon.webp) <br> **Bravery+** | 18 | Unit deals +5 damage. <br> (**Only Usable w/Ephraim**)|
 
-
-![Pic](/img/eirika/)
 
 <details>
 <summary> Explanation </summary>

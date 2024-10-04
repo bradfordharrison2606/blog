@@ -34,7 +34,28 @@ Byleth:	b266ff	(178, 102, 255)
 Alear: 	40bfff	(64, 191, 255)
 	Outside should be red. Adjust background color on body in post.html. 
 
+Marth: Blue or Sky Blue 
+Celica: Pink
+Sigurd: Navy or Pale Purple
+Leif: Yellow or Pale Yellow
+Roy: Red or Pale Red
+Lyn: Green or Light Green
+Eirika and Ephraim: Spring Green or Turquoise
+Ike: Navy Blue or Indigo
+Micaiah: Orange or Pale Orange
+Lucina: Cyan
+Corrin Silver or White
+Byleth: Neon Purple or Purple
 
+Alear: Blue and Red
+
+Tiki: Blue
+Hector: Green
+Soren: Navy Blue or Indigo
+Chrom and Robin: Cyan or Dark Blue
+Camilla: White or Lavender
+Edelgard, Dimitri & Claude: Dark Purple or Purple
+Veronica: Grey or Pale Grey
 
 
 <details>

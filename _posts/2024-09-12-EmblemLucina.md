@@ -6,7 +6,7 @@ subtitle: "Lucina - Emblem of Awakening"
 date:   2024-09-12 00:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Lucina"
-backgroundcolor: 72ace5
+backgroundcolor: 00ffff
 
 author: "Bradley Harris"
 published: true

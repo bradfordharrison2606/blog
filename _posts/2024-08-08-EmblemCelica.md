@@ -6,7 +6,7 @@ subtitle: "Celica - Emblem of Echoes"
 date:   2024-08-08 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Celica"
-backgroundcolor: ff7272
+backgroundcolor: ff1493
 
 author: "Bradley Harris"
 published: True
