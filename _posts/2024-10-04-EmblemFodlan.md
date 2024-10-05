@@ -12,15 +12,6 @@ author: "Bradley Harris"
 published: true
 ---
  
-So insure that the images show up on the GitHub Pages, you have to insert the site.baseurl below right before the /img/... stuff. 
-{{ site.baseurl }}
-
-Do this at the end because adding this disables VS Studio's ability to view images before inserting them
-
-When you're done inserting all the images use the rivals command to rivals /img/ with {{ site.baseurl }}/img/
-
- 
-
 | ![Emblem Pic]({{ site.baseurl }}/img/rivals/House_Leaders_Bracelet.webp)|
 
 | ![Emblem Pic]({{ site.baseurl }}/img/rivals/ClaudeFE17Portrait-transformed.webp)| ![Emblem Pic]({{ site.baseurl }}/img/rivals/EdelgardFE17Portrait.webp) | ![Emblem Pic]({{ site.baseurl }}/img/rivals/DimitriFE17Portrait.webp) |  
@@ -56,9 +47,6 @@ Edelgard, Dimitri, and Claude are complicated Emblems (and I'm not just talking 
 Wearing the Bracelet of the Three Houses grants boosts to Strength, Dexterity, and Defense. This makes the Fodlan Lords lean more towards Physical Units. You might have noticed that I listed all the Stat Bonuses from Bond 1 to Bond 20. This is because, unlike Base Game Emblems, DLC Emblems have all 20 of their Bond Levels available the moment you acquire them. 
 
 # Sync Skills
-
-Always ensure you BOLD the name of Inheritable Sync Skills.
-Sync Skills like Cleric and Dragon Vein shouldn't be bolded
 
 ## Friendly Rivalry
 

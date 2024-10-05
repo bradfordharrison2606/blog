@@ -169,10 +169,10 @@ At Bond 10, everyone gets the <b>Vajra-Mushti</b>, an Arts Weapon that calculate
 |4|Arts Focus 1 <br> ![Pic]({{ site.baseurl }}/img/byleth/FE17_Art_Focus_1_Icon.webp) | Grants Hit+10 and Critical Avoid-10 when using an Art. |300 |
 |5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
 |6 |Arts Focus 2 <br> ![Pic]({{ site.baseurl }}/img/byleth/FE17_Art_Focus_2_Icon.webp) |Grants Hit+15 and Critical Avoid-10 when using an Art | 300|
-|6 |Arts Proficiency <br> ![pic]({{ site.baseurl }}/img/artsprof.png) |Proficiency with Arts. Required for Promotion/Reclassing to certain Classes |Auto |
+|6 |Arts Proficiency <br> ![pic]({{ site.baseurl }}/img/artsprof.PNG) |Proficiency with Arts. Required for Promotion/Reclassing to certain Classes |Auto |
 |7 |Arts Focus 3 <br> ![Pic]({{ site.baseurl }}/img/byleth/FE17_Art_Focus_3_Icon.webp) |Grants Hit+20 and Critical Avoid-10 when using an Art. | 500|
 |8 |Luck+6 <br> ![Pic]({{ site.baseurl }}/img/byleth/FE17_Luck_2B6_Icon.webp) |Grants LUCK+6 | 500 |
-|9 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
+|9 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.PNG) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
 
 <details>
 <summary> Explanation </summary>
