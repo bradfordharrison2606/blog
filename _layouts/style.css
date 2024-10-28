@@ -71,16 +71,26 @@ h3 {
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 1.5em;
+    table-layout: auto;
 }
 
 table, th, td {
     border: 1px solid #ddd;
 }
 
+.table-container 
+{
+    overflow-x: auto;
+    max-width: 100%;
+    background-color: inherit; /* Matches container background */
+}
+
+
 th, td {
-    padding: 10px;
-    text-align: left;
+    padding: 8px 12px;
+    text-align: center;
+    word-wrap: break-word;
+    border: 1px solid #000;
 }
 
 th {
@@ -131,8 +141,40 @@ img {
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
-    .container {
-        width: 100%;
-        padding: 10px;
-    }
+.container 
+{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box; /* Ensures padding doesn't add to the width */
+}
+
+.content {
+    margin: 0 auto; /* Centers the content */
+    padding: 15px;  /* Adds some internal spacing */
+}
+
+.header, .footer {
+    text-align: center; /* Centers text for headers and footers */
+    padding: 10px; /* Adds spacing to headers and footers */
+}
+
+.image 
+{
+    max-width: 100%;
+    height: auto; /* Ensures images are responsive */
+}   
+
+
+table 
+{
+    width: 100%; /* Ensure table takes full width */
+    table-layout: auto;
+}
+
+th, td 
+{
+    font-size: 0.9em; /* Decrease font size for smaller screens */
+}
+
+
 }

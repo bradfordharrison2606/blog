@@ -12,15 +12,6 @@ author: "Bradley Harris"
 published: true
 ---
  
-So insure that the images show up on the GitHub Pages, you have to insert the site.baseurl below right before the /img/... stuff. 
-{{ site.baseurl }}
-
-Do this at the end because adding this disables VS Studio's ability to view images before inserting them
-
-When you're done inserting all the images use the hector command to hector /img/ with {{ site.baseurl }}/img/
-
- 
-
 
 | ![Emblem Pic]({{ site.baseurl }}/img/hector/Hector_Emblem_Bracelet.webp) |
 | ![Emblem Pic]({{ site.baseurl }}/img/hector/hector_2.webp) |
@@ -56,9 +47,6 @@ Hector is an Emblem that is similar to Ike, in that he is designed for Tanking. 
 Wearing the Bracelet of the Brash General grants boosts to Strength, Defence, and Build making Hector good on physical units. The boost to Build, while inferior to Leif, is still noteworthy because of how it interacts with one of his Sync Skills.  
 
 # Sync Skills
-
-Always ensure you BOLD the name of Inheritable Sync Skills.
-Sync Skills like Cleric and Dragon Vein shouldn't be bolded
 
 | **Sync Skill** | **Bond Lv** | **Effect** |
 | ![Pic]({{ site.baseurl }}/img/hector/FE17_Quick_Riposte2B_Icon.webp) <br> **Quick Riposte** | 1 | If Unit’s HP is 80% or more and foe initiates combat, unit will always follow up (if weapon allows). | 

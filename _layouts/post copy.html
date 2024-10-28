@@ -12,20 +12,21 @@ layout: "wrapper"
       <!-- background color in body controls the color of the Wrapper. -->
 
     <style>
-        body {
+        body 
+        {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
             background-color: #D3D3D3;
-            color: white;
+            color: #000;
             font-size: 18px
         }
 
 
         .container 
         {
-            max-width: 1100px;
+            max-width: 800px;
             width: 90%;
             margin: 0 auto;
             padding: 20px;
@@ -33,70 +34,9 @@ layout: "wrapper"
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
-/* Tablet and Small Desktops */
-@media screen and (max-width: 768px) 
-{
-    body {
-        font-size: 16px;
-    }
-
-    h1 {
-        font-size: 2em;
-    }
-
-    .container {
-        width: 95%;
-        padding: 15px;
-    }
-
-    th, td {
-        font-size: 1.2em; /* Slightly smaller text for table cells */
-    }
-}
-
-
-/* Mobile screens */
-@media screen and (max-width: 480px) 
-{
-    body {
-        font-size: 14px;
-    }
-
-    h1 {
-        font-size: 1.5em;
-    }
-
-    h2 {
-        font-size: 1.3em;
-    }
-
-    h3 {
-        font-size: 1.1em;
-    }
-
-    .container {
-        width: 100%;
-        padding: 10px;
-    }
-
-    th, td {
-        font-size: 1em;
-        padding: 8px;
-    }
-}
-
-
-.table-container 
-{
-    overflow-x: auto;
-    max-width: 100%;
-}
-
-
-
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
-    color: white;
+    color: #000;
     margin-top: 1em;
     margin-bottom: 0.5em;
     line-height: 1.2;
@@ -104,20 +44,15 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 2.5em;
-    text-align: center;
-    text-decoration: underline;
 }
 
 h2 {
     font-size: 2em;
-    text-align: center;
 }
 
 h3 {
     font-size: 1.75em;
-    text-align: center;
 }
-
 
 /* Table of Contents */
 .toc {
@@ -143,7 +78,7 @@ h3 {
 
 .toc ul li a {
     text-decoration: none;
-    color: white;
+    color: #000;
 }
 
 .toc ul li a:hover {
@@ -170,7 +105,7 @@ th, td {
 }
 
 th {
-    background-color: black;
+    background-color: #f4f4f4;
     font-size: 1.3em;
 }
 
@@ -190,14 +125,12 @@ pre {
 /* Links */
 a {
     /**color: #007acc;**/
-    color: white;
+    color: #000;
     text-decoration: none;
-    font-size: 1em;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #333;
 }
 
 /* Blockquote */
@@ -244,21 +177,19 @@ img {
 }
 
 details {
-  padding: 5px;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 10px;
 }
 
-summary 
-{
-    font-size: 1em;
+summary {
   font-weight: bold;
   cursor: pointer;
 }
 
 details[open] summary {
-  color: black
+  color: #555;
 }
 
 

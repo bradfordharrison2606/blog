@@ -43,11 +43,31 @@ Wearing The Ring of the Young Lion grants boosts to Strength and Resistance alon
 
 ## Sync Skills
 
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Sync Skill.</th> 
+            <th>Bond LV.</th>
+            <th>Effect</th>
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp" alt="Pic"><br><strong>Hold Out</strong></td> <!-- Sync Skill  -->
+            <td>1</td> <!-- Bond Level  -->
+            <td>If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.</td> <!-- Effect  -->
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp" alt="Pic"><br><strong>Advance</strong></td> <!-- Sync Skill  -->
+            <td>3</td> <!-- Bond Level  -->
+            <td>Use to move 1 space toward a foe that is 2 spaces away and attack.</td> <!-- Effect  -->
+        </tr>      
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp" alt="Pic"><br><strong>Hold Out+</strong></td> <!-- Sync Skill  -->
+            <td>8</td> <!-- Bond Level  -->
+            <td>If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.</td> <!-- Effect  -->
+        </tr>
+    </table>
+</div>
 
-| **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp) <br> **Hold Out** |1  | If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. | 
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp) <br> **Advance**| 3 | Use to move 1 space toward a foe that is 2 spaces away and attack. |
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp) <br> **Hold Out+**| 8 | If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |
 
 <details>
 <summary> Explanation </summary>
@@ -69,10 +89,27 @@ In simple terms, provided you are above the relevant HP Threshold, Roy's bearer 
 
 | ![Pic]({{ site.baseurl }}/img/roy/FE17_Rise_Above_Icon.webp) <br> **Rise Above** | Grants Lvl+5.|
 
-|**Unit Type**|**Bonus**|
-|Dragon|Additional Level+1 (Level+6) |
-|Cavalry| MOV+1 |
-|Armored|Max HP+5 |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Unit Type.</th> 
+            <th>Bonus.</th>
+        </tr>
+        <tr>
+            <td>Dragon</td> <!-- Unit Type  -->
+            <td>Additional Level+1 (Level+6)</td>
+        </tr>
+         <tr>
+            <td>Cavalry</td> <!-- Unit Type  -->
+            <td>MOV+1</td>
+        </tr>
+                 <tr>
+            <td>Armoured</td> <!-- Unit Type  -->
+            <td>Max HP+5</td>
+        </tr>
+    </table>
+</div>
+
 
 <details>
 <summary> Explanation </summary>
@@ -94,10 +131,23 @@ In short, Rise Above essentially makes any unit better at what they already do f
 
 | ![Pic]({{ site.baseurl }}/img/roy/FE17_Blazing_Lion_Icon.webp) <br> **Blazing Lion** | Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. |
 
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Unit Type.</th> 
+            <th>Bonus.</th>
+        </tr>
+        <tr>
+            <td>Dragon</td> <!-- Unit Type  -->
+            <td>Attacks a 3x2 Area</td>
+        </tr>
+         <tr>
+            <td>Mystical</td> <!-- Unit Type  -->
+            <td>Flames affect one 3 tile row and expands flames to a 2x5 area</td>
+        </tr>
+    </table>
+</div>
 
-|**Unit Type**|**Bonus**|
-|Dragon| Attacks a 3x2 Area |
-|Mystical |Flames affect one 3 tile row and expands flames to a 2x5 area |
 
 <details>
 <summary> Explanation </summary>
@@ -132,9 +182,42 @@ Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit u
 
 ## Engage Weapons 
 
-| **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l | ![Pic]({{ site.baseurl }}/img/roy/LancereaverFE17Sprite.webp) <br> **Lancereaver** |9  |80  |5  |9  |1  |Grants advantage vs. lances but disadvantage vs. axes.|
-| l0 | ![Pic]({{ site.baseurl }}/img/roy/RoyWyrmslayerFE17Sprite.webp) <br> **Wyrmslayer** |10  |70  |0  |5  |1  | Effective: Dragon.|
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond Lv.</th> 
+            <th>Name</th>
+            <th>Might</th>
+            <th>Hit</th>
+            <th>Crit</th>
+            <th>Weight</th>
+            <th>Range</th>
+            <th>Effect</th>
+        </tr>
+        <tr>
+            <td>l</td> <!-- Bond Level  -->
+            <td><img src="{{ site.baseurl }}/img/roy/LancereaverFE17Sprite.webp" alt="Pic"><br><strong>Lancereaver</strong></td> <!-- Image & Name  -->
+            <td>9</td> <!-- Might  -->
+            <td>80</td><!-- Hit  -->
+            <td>5</td> <!-- Crit  -->
+            <td>9</td> <!-- Weight  -->
+            <td>1</td> <!-- Range  -->
+            <td>Grants advantage vs. lances but disadvantage vs. axes.</td> <!-- Effect  -->
+        </tr>
+        <tr>
+            <td>l0</td>
+            <td><img src="{{ site.baseurl }}/img/roy/RoyWyrmslayerFE17Sprite.webp" alt="Pic"><br><strong>Wyrmslayer</strong></td>
+            <td>10</td>
+            <td>70</td>
+            <td>0</td>
+            <td>5</td>
+            <td>1</td>
+            <td>Effective: Dragon.</td>
+        </tr>
+    </table>
+</div>
+
+
 
 <details>
 <summary> Explanation </summary>
@@ -215,8 +298,35 @@ In layman's terms, at Bond 18, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEM
 
 ## Engage Weapons 
 
-| **Bond Lv.** | **Name** | **Might** | **Hit** | **Crit** | **Weight** | **Range** | **Effect** |
-| l5 | ![Pic]({{ site.baseurl }}/img/roy/BindingBladeFE17Sprite.webp) <br> **Binding Blade** |14  |95  |10  |8  |1-2  |DEF/RES+5 |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond Lv.</th>
+            <th>Name</th>
+            <th>Might</th>
+            <th>Hit</th>
+            <th>Crit</th>
+            <th>Weight</th>
+            <th>Range</th>
+            <th>Effect</th>
+        </tr>
+        <tr>
+            <td>l5</td>
+            <td><img src="{{ site.baseurl }}/img/roy/BindingBladeFE17Sprite.webp" alt="Pic"><br><strong>Binding Blade</strong></td>
+            <td>14</td>
+            <td>95</td>
+            <td>10</td>
+            <td>8</td>
+            <td>1-2</td>
+            <td>DEF/RES+5</td>
+        </tr>
+    </table>
+</div>
+
+
+
+
+
 
 <details>
 <summary> Explanation </summary>
