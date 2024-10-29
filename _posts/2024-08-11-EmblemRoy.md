@@ -14,7 +14,7 @@ published: true
 
 | ![Emblem Pic]({{ site.baseurl }}/img/roy/engageroy.webp) |
 
- <h1> <div class="evocation"> Rise Up, Emblem of Binding!. </div> </h1>
+ <h1> <div class="evocation"> Rise Up, Emblem of Binding! </div> </h1>
 <br>
 
 
@@ -30,13 +30,29 @@ Roy represents the 1st of the GBA Fire Emblem Games: The Binding Blade. Like Mar
 # **Initial Gameplay (Bond 1 - 10)** 
 
 ## Stat Bonuses
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond LV.</th>  <th>HP</th> <th>STR</th> <th>RES</th>
+        </tr>
+        <tr>
+            <td>1</td> <td> +5</td> <td> +1</td> <td> +1</td>
+        </tr>
+        <tr>
+            <td>2</td> <td> +5</td> <td> +2</td> <td> +1</td>
+        </tr>
+        <tr>
+            <td>4</td> <td> +7</td> <td> +2</td> <td> +1</td>
+        </tr>
+        <tr>
+            <td>7</td> <td> +7</td> <td> +2</td> <td> +2</td>
+        </tr>
+        <tr>
+            <td>9</td> <td> +7</td> <td> +3</td> <td> +2</td>
+        </tr>
+    </table>
+</div>
 
-| **Bond Lv.** | **HP** | **STR** | **RES** |
-|1  | +5 | +1 | +1 |
-|2  | +5 | +2 | +1 |
-|4  | +7 | +2 | +1 |
-|7  | +7 | +2 | +2 |
-|9  | +7 | +3 | +2 |
 
 Wearing The Ring of the Young Lion grants boosts to Strength and Resistance along with a significant boost to HP. Roy's Ring gives the 2nd largest HP boost at equivalent Bond Levels. 
 
@@ -87,7 +103,7 @@ In simple terms, provided you are above the relevant HP Threshold, Roy's bearer 
  
 ## Engage Skill
 
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Rise_Above_Icon.webp) <br> **Rise Above** | Grants Lvl+5.|
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Rise_Above_Icon.webp) <br> **Rise Above** | Grants Level+5.|
 
 <div class="table-container">
     <table>
@@ -235,18 +251,82 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
 
 ## Skill Inheritance 
 
-| **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|1 |Strength+1 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B1_Icon.webp) |Grants Strength+1 |500 |
-|1 |Hold Out <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp) |If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. |2000 |
-|2 |Strength+2 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B2_Icon.webp) |Grants Strength+2 |1000 |
-|3 |Advance <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp) |Use to move 1 space toward a foe that is 2 spaces away and attack. |500 |
-|4 |Sword Power 1 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_1_Icon.webp) |Grants Atk+2 at a cost of Avo-10 when using a sword. |1000 |
-|5 |Skill Inheritance <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp) |Unit can inherit this Emblem's Skills |Auto |
-|6 |Sword Proficiency <br> ![pic]({{ site.baseurl }}/img/swordprof.png) |Proficiency with Swords. Required for Promotion/Reclassing to certain Classes |Auto |
-|7 |Sword Power 2 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_2_Icon.webp) |Grants Atk+4 at a cost of Avo-10 when using a sword. |2000 |
-|8|Hold Out+ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp) |If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. |3000 |
-|9 |Strength+3 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B3_Icon.webp) |Grants Strength+3 |3000 |
-|9 |Sword Power 3 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_3_Icon.webp) |Grants Atk+6 at a cost of Avo-10 when using a sword. |3000 |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond LV.</th> 
+            <th>Skill.</th>
+            <th>Effect</th>
+            <th>SP Cost</th>
+        </tr>
+        <tr>
+           <td>1</td> <!-- Bond Level  -->
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B1_Icon.webp" alt="Pic"><br>Strength+1</td> <!-- Skill  -->
+            <td>Grants Strength+1.</td> <!-- Effect  -->
+            <td>500 </td> <!-- SP Cost -->
+        </tr>
+         <tr>
+           <td> 1</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out_Icon.webp" alt="Pic"><br> Hold Out</td> <!-- Skill  -->
+            <td>If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP. </td> <!-- Effect  -->
+            <td>2000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 2</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B2_Icon.webp" alt="Pic"><br>Strength+2  </td> <!-- Skill  -->
+            <td>Grants Strength+2 </td> <!-- Effect  -->
+            <td>1000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 3</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Advance_Icon.webp " alt="Pic"><br> Advance </td> <!-- Skill  -->
+            <td>Use to move 1 space toward a foe that is 2 spaces away and attack. </td> <!-- Effect  -->
+            <td>500 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 4</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_1_Icon.webp" alt="Pic"><br>Sword Power 1   </td> <!-- Skill  -->
+            <td>Grants Atk+2 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>1000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>5 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br> Skill Inheritance  </td> <!-- Skill  -->
+            <td> Unit can inherit this Emblem's Skills</td> <!-- Effect  -->
+            <td> Auto</td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>6 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/swordprof.png " alt="Pic"><br> Sword Proficiency  </td> <!-- Skill  -->
+            <td> Proficiency with Swords. Required for Promotion/Reclassing to certain Classes</td> <!-- Effect  -->
+            <td> Auto</td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 7</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_2_Icon.webp " alt="Pic"><br> Sword Power 2  </td> <!-- Skill  -->
+            <td>Grants Atk+4 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>2000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 8</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out2B_Icon.webp " alt="Pic"><br> Hold Out+  </td> <!-- Skill  -->
+            <td>If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP. </td> <!-- Effect  -->
+            <td>3000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td> 9</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B3_Icon.webp " alt="Pic"><br>Strength+3  </td> <!-- Skill  -->
+            <td>Grants Strength+3 </td> <!-- Effect  -->
+            <td>3000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>9 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_3_Icon.webp " alt="Pic"><br> Sword Power 3  </td> <!-- Skill  -->
+            <td> Grants Atk+6 at a cost of Avo-10 when using a Sword.</td> <!-- Effect  -->
+            <td>3000 </td> <!-- SP Cost -->
+        </tr>
+    </table>
+</div>
 
 <details>
 <summary> Explanation </summary>
@@ -269,27 +349,59 @@ Last but certainly not least, Roy grants <b>Sword Proficiency</b> which isn't ne
 
 ## Stat Bonuses
 
-| **Bond Lv.** | **HP** | **STR** | **RES** |
-|12  | +10 | +3 | +2 |
-|14  | +10 | +4 | +2 |
-|16  | +10 | +4 | +3 |
-|17  | +10 | +5 | +3 |
-|19  | +10 | +6 | +3 |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond LV.</th>  <th>HP</th> <th>STR</th> <th>RES</th>
+        </tr>
+        <tr>
+            <td>12</td> <td> +10</td> <td> +3</td> <td> +2</td>
+        </tr>
+        <tr>
+            <td>14</td> <td> +10</td> <td> +4</td> <td> +2</td>
+        </tr>
+        <tr>
+            <td>16</td> <td> +10</td> <td> +4</td> <td> +3</td>
+        </tr>
+        <tr>
+            <td>17</td> <td> +10</td> <td> +5</td> <td> +3</td>
+        </tr>
+        <tr>
+            <td>19</td> <td> +10</td> <td> +6</td> <td> +3</td>
+        </tr>
+    </table>
+</div>
 
 Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive ones in the game. A great boost to HP and Strength with a decent Resistance Boost to tie it together. That boost to Strength could turn fairly mediocre physical units into decent ones or you could double down and turn an already good physical unit into an even better one. Really compliments Roy's playstyle of raw power and survivability.
 
 ## Sync Skills
 
-| **Sync Skill** | **Bond Lv** | **Effect** |
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp) <br> **Hold Out++** | 13  |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.  | 
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp) <br> **Hold Out+++**| 18 |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.  |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Sync Skill.</th> 
+            <th>Bond LV.</th>
+            <th>Effect</th>
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp" alt="Pic"><br><strong>Hold Out++</strong></td> <!-- Sync Skill  -->
+            <td>13</td> <!-- Bond Level  -->
+            <td>If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.</td> <!-- Effect  -->
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp" alt="Pic"><br><strong>Hold Out+++</strong></td> <!-- Sync Skill  -->
+            <td>18</td> <!-- Bond Level  -->
+            <td>If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP..</td> <!-- Effect  -->
+        </tr>      
+    </table>
+</div>
 
 <details>
 <summary> Explanation (AKA: Why you should complete Roy's Paralogue) </summary>
 
-If you thought Hold Out was great in its first two incarnations, the ones you get in Roy's later Bond Levels are ridiculous. <b>Hold Out+++</b> (yes it goes that high) is absolutely disgusting for as long as you have at least 2HP when an enemy initiates combat, you are guaranteed to live and the enemy has no say in the matter. <br><br>
+If you thought Hold Out was great in its first two incarnations, the ones you get in Roy's later Bond Levels are ridiculous. <b>Hold Out+++</b> (yes it goes that high) is absolutely disgusting for as long as you have at least 2 HP when an enemy initiates combat, you are guaranteed to live and the enemy has no say in the matter. <br><br>
 
-In layman's terms, at Bond 18, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. Hold Out+++ triples down on the "nigh-invincible warrior" play-style. What makes this skill truly disgusting is that it's a Sync Skill, meaning it's ALWAYS on Roy's holder (assuming their Bond Level is high enough). This skill alone is more than enough reason to complete Roy's Paralogue after it unlocks.
+In layman's terms, at Bond 18, so long as they stay above 1 HP, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. Hold Out+++ triples down on the "nigh-invincible warrior" play-style. What makes this skill truly disgusting is that it's a Sync Skill, meaning it's ALWAYS on Roy's holder (assuming their Bond Level is high enough). This skill alone is more than enough reason to complete Roy's Paralogue after it unlocks.
 
 </details>
 
@@ -340,16 +452,70 @@ The <b>Binding Blade</b> has decent stats across the board and has a 1-2 Range. 
 
 ## Skill Inheritance
 
-| **Bond Lv.** | **Skill** | **Effect** | **SP Cost** |
-|11 | Strong Bond <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit stays engaged 1 additional turns (4 Turns) |Auto |
-|12 |Sword Power 4 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_4_Icon.webp) |Grants Atk+8 at a cost of Avo-10 when using a sword. |4000 |
-|13 |Hold Out++ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp) |If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP. |4000 |
-|14 |Strength+4 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B4_Icon.webp) |Grants Strength+4 |4000 |
-|16 |Sword Power 5 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Sword_Power_5_Icon.webp) |Grants Atk+10 at a cost of Avo-10 when using a sword. |5000 |
-|17 |Strength+5 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B5_Icon.webp) |Grants Strength+5 |5000 |
-|18 |Hold Out+++ <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp) |If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP. |5000 |
-|19 |Strength+6 <br> ![Pic]({{ site.baseurl }}/img/roy/FE17_Strength_2B6_Icon.webp) |Grants Strength+6 |6000 |
-|20 | Deep Synergy <br> ![Pic]({{ site.baseurl }}/img/skillinherit.webp)| Unit's Engage Meter is shortened by one (1) step |Auto |
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Bond LV.</th> 
+            <th>Skill.</th>
+            <th>Effect</th>
+            <th>SP Cost</th>
+        </tr>
+        <tr>
+           <td>11 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Strong Bond   </td> <!-- Skill  -->
+            <td>Unit stays engaged 1 additional turns (4 Turns) </td> <!-- Effect  -->
+            <td>Auto </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>12</td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_4_Icon.webp " alt="Pic"><br> Sword Power 4  </td> <!-- Skill  -->
+            <td>Grants Atk+8 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>4000 </td> <!-- SP Cost -->
+        </tr>
+         <tr>
+           <td>13 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out3B_Icon.webp " alt="Pic"><br>Hold Out++   </td> <!-- Skill  -->
+            <td>If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP. </td> <!-- Effect  -->
+            <td>4000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>14 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B4_Icon.webp " alt="Pic"><br>Strength+4   </td> <!-- Skill  -->
+            <td>Grants Strength+4  </td> <!-- Effect  -->
+            <td>4000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>16 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_5_Icon.webp " alt="Pic"><br>Sword Power 5   </td> <!-- Skill  -->
+            <td>Grants Atk+10 at a cost of Avo-10 when using a Sword. </td> <!-- Effect  -->
+            <td>5000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>17 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B5_Icon.webp " alt="Pic"><br>Strength+5   </td> <!-- Skill  -->
+            <td>Grants Strength+5 </td> <!-- Effect  -->
+            <td>5000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>18 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Hold_Out4B_Icon.webp " alt="Pic"><br> Hold Out+++   </td> <!-- Skill  -->
+            <td>If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP. </td> <!-- Effect  -->
+            <td>5000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>19 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/roy/FE17_Strength_2B6_Icon.webp " alt="Pic"><br> Strength+6   </td> <!-- Skill  -->
+            <td>Grants Strength+6 </td> <!-- Effect  -->
+            <td>6000 </td> <!-- SP Cost -->
+        </tr>
+        <tr>
+           <td>20 </td> <!-- Bond Level  -->
+            <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Deep Synergy   </td> <!-- Skill  -->
+            <td>Unit's Engage Meter is shortened by one (1) step  </td> <!-- Effect  -->
+            <td>Auto </td> <!-- SP Cost -->
+        </tr>
+    </table>
+</div>
 
 <details>
 <summary> Explanation </summary>

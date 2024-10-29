@@ -12,8 +12,15 @@ author: "Bradley Harris"
 published: true
 ---
  
-| ![Emblem Pic]({{ site.baseurl }}/img/soren/Soren_Emblem_Bracelet.webp) |
-| ![Emblem Pic]({{ site.baseurl }}/img/soren/sorenpic.webp) |
+<div class="row">
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/soren/sorenpic.webp" alt="Pic" style="width:90%">
+  </div>
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/soren/Soren_Emblem_Bracelet.webp" alt="Pic" style="width:50%">
+  </div>
+</div>
+
 
  <h1> <div class="evocation"> Advise us, Emblem of Acumen! </div> </h1>
 <br>
@@ -91,7 +98,7 @@ The Dragon Bonus is where things get interesting as they double their Critical R
 # Engage Attack
 
 | ![Pic]({{ site.baseurl }}/img/soren/FE17_Cataclysm_Icon.webp) <br> **Cataclysm**  | Use to attack foes in an area with Fire, Thunder and Wind magic at 40% damage each. <br> Wind is Effective: Flying. |
-| ![Pic]({{ site.baseurl }}/img/soren/FE17_Cataclysm_Icon.webp) <br> **Cataclysm+**  | Use to attack foes in an area with Fire, Thunder and Wind magic at 40% damage each in a wider area. <br> Wind is Effective: Flying. |
+| ![Pic]({{ site.baseurl }}/img/soren/FE17_Cataclysm_Icon.webp) <br> **Cataclysm+**  | **If Ike is Adjacent** <br> Use to attack foes in an area with Fire, Thunder and Wind magic at 40% damage each in a wider area. <br> Wind is Effective: Flying. |
 
 
 |**Unit Type**|**Bonus**|
@@ -162,7 +169,7 @@ Soren's final Engage Weapon is the SS Wind Tome from Radiant Dawn, <b>Rexcalibur
 |13 |Block Recovery <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Block_Recovery_Icon.webp) | When attacking a Broken foe with a tome, grants a chance the foe will remain broken. <br> Activation Chance = [Unit's Speed - Foe's Speed] x 5]%. <br> (Max 50%)|1500 |
 |13 |Magic Guard 3 <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Magic_Guard_3_Icon.webp) |If Foe is equipped with a Tome, Unit takes 3 less Damage during combat. |600 |
 |14 |MAG/RES+4 <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Mag_Res2B4_Icon.webp) |Grants MAG+4 and RES+4. | 6000|
-|16 | Tome Proficiency <br> ![Pic]({{ site.baseurl }}/img/magicprof.PNG) |Proficiency with tomes. Required for promotion to certain classes. | Auto|
+|16 | Tome Proficiency <br> ![Pic]({{ site.baseurl }}/img/magicprof.PNG) |Proficiency with Tomes. Required for promotion to certain classes. | Auto|
 |17 |Magic Guard 4 <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Magic_Guard_4_Icon.webp) | If Foe is equipped with a Tome, Unit takes 4 less Damage during combat.|800 |
 |18 |Keen Insight+ <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Keen_Insight2B_Icon.webp) |When unit deals Effective Damage, deal +7 Damage.  |3000 |
 |18 |MAG/RES+5 <br> ![Pic]({{ site.baseurl }}/img/soren/FE17_Mag_Res2B5_Icon.webp) | Grants MAG+5 and RES+5.|8400 |

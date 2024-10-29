@@ -12,8 +12,14 @@ author: "Bradley Harris"
 published: true
 ---
  
-| ![Emblem Pic]({{ site.baseurl }}/img/tiki/Tiki_Emblem_Bracelet.webp) |
-| ![Emblem Pic]({{ site.baseurl }}/img/tiki/tikife17portrait.webp) |
+<div class="row">
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/tiki/tikife17portrait.webp" alt="Pic" style="width:90%">
+  </div>
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/tiki/Tiki_Emblem_Bracelet.webp" alt="Pic" style="width:50%">
+  </div>
+</div>
 
 
  <h1> <div class="evocation"> Dream well, Emblem of Dragons! </div> </h1>

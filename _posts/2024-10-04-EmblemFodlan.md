@@ -11,10 +11,24 @@ backgroundcolor: 800080
 author: "Bradley Harris"
 published: true
 ---
- 
-| ![Emblem Pic]({{ site.baseurl }}/img/rivals/House_Leaders_Bracelet.webp)|
 
-| ![Emblem Pic]({{ site.baseurl }}/img/rivals/ClaudeFE17Portrait-transformed.webp)| ![Emblem Pic]({{ site.baseurl }}/img/rivals/EdelgardFE17Portrait.webp) | ![Emblem Pic]({{ site.baseurl }}/img/rivals/DimitriFE17Portrait.webp) |  
+<div class="row">
+  <div class="Thirdcolumn">
+    <img src="{{ site.baseurl }}/img/rivals/EdelgardFE17Portrait.webp" alt="Pic" style="width:90%">
+  </div>
+    <div class="Thirdcolumn">
+    <img src="{{ site.baseurl }}/img/rivals/DimitriFE17Portrait.webp" alt="Pic" style="width:90%">
+  </div>
+  <div class="Thirdcolumn">
+    <img src="{{ site.baseurl }}/img/rivals/ClaudeFE17Portrait-transformed.webp" alt="Pic" style="width:100%">
+  </div>
+</div>
+
+<div class="evocation"> 
+  <img src="{{ site.baseurl }}/img/rivals/House_Leaders_Bracelet.webp" alt="Pic" style="width:20%"> 
+</div>
+
+
 
  <h1> <div class="evocation"> Lead us, Emblem of Rivals! </div> </h1>
 <br>

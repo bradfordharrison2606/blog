@@ -13,8 +13,15 @@ published: true
 ---
  
 
-| ![Emblem Pic]({{ site.baseurl }}/img/hector/Hector_Emblem_Bracelet.webp) |
-| ![Emblem Pic]({{ site.baseurl }}/img/hector/hector_2.webp) |
+<div class="row">
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/hector/hector_2.webp" alt="Pic" style="width:90%">
+  </div>
+  <div class="column">
+    <img src="{{ site.baseurl }}/img/hector/Hector_Emblem_Bracelet.webp" alt="Pic" style="width:50%">
+  </div>
+</div>
+
 
  <h1> <div class="evocation"> Embolden us, Emblem of Strength! </div> </h1>
 <br>
