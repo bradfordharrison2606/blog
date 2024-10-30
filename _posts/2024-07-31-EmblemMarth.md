@@ -162,7 +162,7 @@ As for the Class Bonuses, Dragons healing themselves on the extra hit is nice bu
         </tr>
         <tr>
             <td>Mystical </td> <!-- Unit Type  -->
-            <td>+ Damage based on Magic (MAG)</td>
+            <td>Damage based on Magic (MAG)</td>
         </tr>
     </table>
 </div>
