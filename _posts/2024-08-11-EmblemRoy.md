@@ -297,7 +297,7 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
         </tr>
         <tr>
            <td>6 </td> <!-- Bond Level  -->
-            <td> <img src="{{ site.baseurl }}/img/swordprof.png " alt="Pic"><br> Sword Proficiency  </td> <!-- Skill  -->
+            <td> <img src="{{ site.baseurl }}/img/swordprof.PNG " alt="Pic"><br> Sword Proficiency  </td> <!-- Skill  -->
             <td> Proficiency with Swords. Required for Promotion/Reclassing to certain Classes</td> <!-- Effect  -->
             <td> Auto</td> <!-- SP Cost -->
         </tr>

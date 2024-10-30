@@ -252,7 +252,7 @@ Overall, Marth's Initial Engage Weapons are pretty good across the board. Use th
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/marth/Engrave-Marth.PNG" alt="Pic"><br><strong>Beginnings Engrave</strong></td> <!-- Image & Name  -->
+            <td><img src="{{ site.baseurl }}/img/marth/Engrave-Marth.png" alt="Pic"><br><strong>Beginnings Engrave</strong></td> <!-- Image & Name  -->
             <td>+1 </td> <!-- Might  -->
             <td>+10 </td><!-- Hit  -->
             <td>+10 </td> <!-- Crit  -->
@@ -331,7 +331,7 @@ Marth's Engrave is objectively one of the best Engraves in the game as it has no
         </tr>
         <tr>
             <td> 8</td> <!-- Bond Level  -->
-            <td> <img src="{{ site.baseurl }}/img/swordprof.png" alt="Pic"><br> Sword Proficiency </td> <!-- Skill  -->
+            <td> <img src="{{ site.baseurl }}/img/swordprof.PNG" alt="Pic"><br> Sword Proficiency </td> <!-- Skill  -->
             <td>Proficiency with Swords. Required for Promotion/Reclassing to certain Classes </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
         </tr>
