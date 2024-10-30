@@ -7,6 +7,7 @@ date:   2024-08-08 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Celica"
 backgroundcolor: ff1493
+toc: true 
 
 author: "Bradley Harris"
 published: True
@@ -17,12 +18,8 @@ published: True
 </div>
 
 
- <h1> <div class="evocation"> Care for us, Emblem of Echoes! </div> </h1>
+ <div class="evocation"> Care for us, Emblem of Echoes! </div>
 <br>
-
-
-* TOC
-{:toc}
 
 # **Introduction**
 Celica represents the 2nd Fire Emblem Game: Gaiden and its 3DS Remake, Echoes. She is the first purely Magic-focused Emblem the Player acquires and is one of the only Magic-focused Emblems in the game. She specializes in increasing the raw magical damage of her wearer, providing tools to counter Corrupted Foes, and giving the occasional burst of extreme mobility. 

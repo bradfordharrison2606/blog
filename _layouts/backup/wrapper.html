@@ -51,76 +51,6 @@
             background-color: #555; /* Add a dark-grey background on hover */
         }
 
-
-
-        /* Burger Menu Button */
-#burgerMenu {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    z-index: 101;
-    font-size: 24px;
-    background-color: transparent;
-    border: none;
-    color: #333;
-    cursor: pointer;
-}
-
-/* Sidebar */
-#tocSidebar {
-    position: fixed;
-    top: 0;
-    left: -250px; /* Hidden off-screen initially */
-    width: 250px;
-    height: 100%;
-    background-color: var(--sidebar-bg-color, #f9f9f9);
-    border-right: 1px solid #ddd;
-    padding: 15px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    z-index: 100;
-    transition: left 0.3s ease; /* Slide-in animation */
-}
-
-/* Sidebar Heading */
-#tocSidebar h3 {
-    margin-top: 0;
-    font-size: 1.2em;
-}
-
-/* TOC List Styles */
-#tocSidebar ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-#tocSidebar li {
-    margin: 5px 0;
-}
-
-#tocSidebar a {
-    text-decoration: none;
-    color: black;
-}
-
-#tocSidebar a:hover {
-    text-decoration: underline;
-    color: white;
-}
-
-/* Sidebar active class to show */
-#tocSidebar.active {
-    left: 0; /* Moves sidebar into view */
-}
-
-
-
-/* Adjustments for smaller screens */
-@media screen and (max-width: 768px) {
-    #tocSidebar {
-        display: none; /* Hide the sidebar on small screens */
-    }
-}
-
         .container 
         {
             max-width: 1200px;
@@ -168,23 +98,10 @@
 
 </head>
 <body>
-
-    <!-- Burger Menu Button -->
-    <button id="burgerMenu" onclick="toggleSidebar()">☰</button>
-
-    <!-- Sidebar for Table of Contents -->
-    <div id="tocSidebar">
-        <h3>Table of Contents</h3>
-        <ul id="tocContent">
-            {{ content | toc_only }}
-        </ul>
-    </div>
-
-
     <h1>  <a href = "/blog/" class="centeredlink"> {{ site.title }} </a> </h1>
     
     {{ content }}
-
+    
     <button id="scrollToTopBtn" title="Go to top">Top</button>
 
     <script>
@@ -215,21 +132,6 @@
 
         mybutton.addEventListener("click", topFunction);
 
-
-
-        function toggleSidebar() 
-        {
-    
-            const tocSidebar = document.getElementById("tocSidebar");
-            const postToc = document.getElementById("post-toc");
-    
-            // Copy TOC content to sidebar if it's not already present
-            if (tocSidebar.classList.contains("active") === false && postToc) {
-                document.getElementById("tocContent").innerHTML = postToc.innerHTML;
-            }
-    
-            tocSidebar.classList.toggle("active");
-        }
     </script>
 
 

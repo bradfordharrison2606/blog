@@ -35,7 +35,7 @@ theme: minima
 #theme: jekyll-theme-cayman #uses default as the layout for all pages. Check the related Github page
 plugins:
   - jekyll-feed
-
+  - jekyll-toc
 
 
 

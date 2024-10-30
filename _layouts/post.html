@@ -214,7 +214,7 @@ img.centered-image {
     display: table;
 }
 
-
+:root { --sidebar-bg-color: {{ page.backgroundcolor }}; }
 
 
 /* Code */
@@ -283,6 +283,7 @@ img {
 
 
 .evocation {
+    font-size: 2em;
   text-align: center; /* Centers the text horizontally */
   display: flex;
   justify-content: center; /* Centers the content horizontally */
@@ -313,6 +314,11 @@ details[open] summary {
     color: white;
 }
 
+.custom-heading-1 { font-size: 3em; font-weight: bold; color: #333;  text-align: center;}
+
+.custom-heading-2 { font-size: 2em; font-weight: bold; color: #333;  text-align: center;}
+
+
 
     </style>
 
@@ -322,12 +328,14 @@ details[open] summary {
 <body>
 
     <div class="container" style="background-color: {{page.backgroundcolor}}">
-        <h1> {{ page.subtitle }}</h1>
-        <h3> Author: {{ page.author }}</h3>
-        
+        <div class="custom-heading-1">{{ page.subtitle }}</div>
+        <div class="custom-heading-2">Author: {{ page.author }}</div>
         <hr>
-        
-        {{ content }}
+
+        <!-- Main Content of the Post -->        
+        <div class="post-content">
+            {{ content }}
+        </div>
     </div>
 </body>
 </html>

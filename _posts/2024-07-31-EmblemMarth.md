@@ -7,6 +7,7 @@ date:   2024-07-31 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Marth"
 backgroundcolor: 0000ff
+toc: true 
 
 author: "Bradley Harris"
 published: true
@@ -17,16 +18,8 @@ published: true
 </div>
 
 
- <h1> <div class="evocation"> Shine On! Emblem of Beginnings! </div> </h1>
+ <div class="evocation"> Shine On! Emblem of Beginnings! </div>
 <br>
-
-
-
-* TOC
-{:toc}
-
-
-
 
 # **Introduction**
 Marth represents the Archanea Games, specifically the 1st Game (Shadow Dragon and Blade of Light), the 3rd Game (Mystery of the Emblem), and their respective remakes (Shadow Dragon and New Mystery of the Emblem). As an Emblem, Marth specializes in Dodge-Tanking, dealing with Armored and Cavalry Foes, and attacking multiple times. He is designed to turn his wearer into an overall combat unit. This makes him very simple to use, befitting not only the first Emblem you receive in the game but also the Lord who started it all. 
