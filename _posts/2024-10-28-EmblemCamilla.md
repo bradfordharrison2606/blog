@@ -383,7 +383,7 @@ The <b>Bolt Axe</b> is great for a Bond 1 Engage Weapon as Magical Weapons such 
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/camilla/Engrave-Camilla.PNG" alt="Pic"><br><strong>Revelation Engrave</strong></td> <!-- Image & Name  -->
+            <td><img src="{{ site.baseurl }}/img/camilla/Engrave-Camilla.png" alt="Pic"><br><strong>Revelation Engrave</strong></td> <!-- Image & Name  -->
             <td>+1 </td> <!-- Might  -->
             <td>0 </td><!-- Hit  -->
             <td>+30 </td> <!-- Crit  -->
