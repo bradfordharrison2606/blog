@@ -221,7 +221,7 @@ Recall earlier in this profile I mentioned that in Engage, there is another play
 
 This build is effectively the Magical equivalent to Ike's Vantage+Wrath Combo which is fitting for Soren. Flare on Levey doubles their Critical Rate and Levey hitting like a truck with magical attacks thank to Flare's base effect. This will make sure any enemy they attack will die horribly to a Critical Hit. With this Build Levey's Critical Rate can reach absolutely ludicrous numbers in the 80s and 90s and the following image is proof.<br><br>
 
-<img src="{{ site.baseurl }}/img/soren/flarecrits.JPEG" alt="Description of image"> <br><br>
+<img src="{{ site.baseurl }}/img/soren/flarecrits.PNG" alt="Description of image"> <br><br>
 
 Hold Out and Vantage are there as insurance policies. Flare restores HP upon dealing damage, which will keep Levey above the threshold for Hold Out to activate. Furthermore, Hold Out will guarantee Levey survives the current battle with 1 HP. This is where Vantage comes in if Levey is at 1 HP when an enemy attacks, Vantage will trigger, make Levey attack first, and most likely land a Critical Hit to not only annihilate the enemy but restore a good chunk of their HP. Wash, Rinse, and Repeat for 3-4 Turns. <br><br>
 
