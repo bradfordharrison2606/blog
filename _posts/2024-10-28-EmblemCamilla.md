@@ -192,11 +192,6 @@ The <b>Ice Tiles</b> created by Qi Adepts are a marked improvement over the Ice 
             <td> 18 </td> <!-- Bond Level  -->
             <td>If Unit initiates combat and lands a critical, deals 10 Damage to foe after combat. </td> <!-- Effect  -->
         </tr>
-        <tr>
-            <td><img src="/img/camilla" alt="Pic"><br><strong></strong></td> <!-- Sync Skill  -->
-            <td> </td> <!-- Bond Level  -->
-            <td> </td> <!-- Effect  -->
-        </tr>
     </table>
 </div>
 <details>

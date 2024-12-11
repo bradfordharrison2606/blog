@@ -142,6 +142,8 @@ However, All For One is not useless. Because it's an Engage Attack, the enemy ca
 
 The Class Bonuses are rather lackluster. Dragons having guaranteed Chain Attack accuracy is the only one worth considering as I do not recommend putting Lucina on Backup Units as that's a waste of Dual Strike. <br><br> 
 
+One thing to remember is that if you have any Backup Units equipped with Dual Assist, there is a chance they will also contribute Chain Attacks to Lucina's One For All, even if they are not in range of the effect but are in range to strike the enemy if Dual Assist would activate normally. <br><br>
+
 All For One being mediocre isn't a bad thing. As stated previously, Lucina is a Support Emblem, not a Combat Emblem. But if you want to use Lucina as a Combat Emblem, you'll get more mileage from her Engage Weapons. <br><br>
 
 </details>
