@@ -111,7 +111,9 @@ But the fun doesn't stop there as the Twin's Engage Attack keeps the powerhouse 
 
 Twin Strike is designed to annihilate Corrupted Foes. I bring this up as by the time you have access to the Ring of the Azure Twins, the Main Story Chapters are going to be infested with Corrupted. The base effect might seem lackluster as you're just doing two basic attacks. Remember that Twin Strike will <b>ALWAYS</b> be boosted by the effects of Eclipse Brace and Blue Skies. These effects apply to BOTH hits of Twin Strike which causes its damage to skyrocket to nuke status. <br><br>
 
-The Class Bonuses are all about dealing more damage. Dragons boost the damage by both his of Twin Strike while Cavalry get a ludicrous bonus to the damage Ephraim deals. 50% Extra Damage is overkill which is never a bad thing in Fire Emblem. Like other Engage Attacks, if you want the most mileage out of Twin Strike, use a Smash Weapon like a Steel or Silver Blade. <br><br>
+The Class Bonuses are all about dealing more damage. Dragons boost the damage by both his of Twin Strike while Cavalry get a ludicrous bonus to the damage Ephraim deals. 50% Extra Damage is overkill which is never a bad thing in Fire Emblem. After some play testing with Alear, I can safely say that the Class Bonuses are roughly even in damage. <br><br>
+
+Like other Engage Attacks, if you want the most mileage out of Twin Strike, use a Smash Weapon like a Steel or Silver Blade. <br><br>
 
 I recommend saving Twin Strike for Corrupted Wyrm enemies as they are incredibly difficult to kill without Effectiveness damage. Even without an Anti-Corrupted weapon of your own (yet), Ephraim's Siegmund (discussed later) will more than pick up the slack. Or you could use Twin Strike to break a Boss's Revival Stone, especially if it's boosted by the Cavalry bonus. <br><br>
 
