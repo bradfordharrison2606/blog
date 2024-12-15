@@ -3,7 +3,7 @@
 layout: postWhite
 title: "Emblem Veronica - Fire Emblem Engage Primer"
 subtitle: "Veronica - Emblems of Heroes"
-date:   2024-12-11 00:00:18 -0400
+date:   2024-12-14 00:00:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Veronica"
 backgroundcolor: a50000
