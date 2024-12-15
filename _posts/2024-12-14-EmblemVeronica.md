@@ -17,7 +17,7 @@ published: true
     <img src="{{ site.baseurl }}/img/veronica/VeronicaFE17Portrait.webp" alt="Pic" style="width:90%">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/img/veronica/veronica_Emblem_Bracelet.webp" alt="Pic" style="width:50%">
+    <img src="{{ site.baseurl }}/img/veronica/Veronica_Emblem_Bracelet.webp" alt="Pic" style="width:50%">
   </div>
 </div>
 
