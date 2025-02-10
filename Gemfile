@@ -7,13 +7,26 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.3"
+gem "jekyll", "~> 4.3.4"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 gem 'jekyll-theme-cayman', '~> 0.2.0'
 
 gem 'jekyll-toc'
 
+
+gem "i18n" 
+gem "kramdown" 
+gem "rouge" 
+gem "webrick" 
+gem "nokogiri" 
+gem "concurrent-ruby" 
+gem "sass" 
+gem "rexml" 
+gem "unicode-display_width" 
+gem "google-protobuf" 
+gem "strscan" 
+gem "bigdecimal"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
