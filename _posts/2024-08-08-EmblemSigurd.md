@@ -22,7 +22,7 @@ published: true
 <br>
 
 # **Introduction**
-Sigurd represents the 1st Game of the Jugdral Duology: **Fire Emblem: Genealogy of the Holy War**. Sigurd's gameplay can be summed up in a single word: **Movement**. In a Grid-Based, Turn-Based Strategy Game, movement is an incredibly important asset to have. Sigurd's entire playstyle is focused on granting additional movement and mobility to his bearer and using that to boost their damage. The same applies to those who inherit his skills.
+Sigurd represents the 1st Game of the Jugdral Duology: **Genealogy of the Holy War**. Sigurd's gameplay can be summed up in a single word: **Movement**. In a Grid-Based, Turn-Based Strategy Game, movement is an incredibly important asset to have. Sigurd's entire playstyle is focused on granting additional movement and mobility to his bearer and using that to boost their damage. The same applies to those who inherit his skills.
 
 # **Initial Gameplay (Bond 1 - 10)** 
 
@@ -238,7 +238,7 @@ However, if you want a more magical approach, you could consider using Override 
 
 The <b>Ridersbane</b> is definitely the most fun of Sigurd's Engage weapons to play around with because, against Cavalry Foes, it effectively has 30 Might. Combine this with Momentum, boosted by Gallop and you have an easy way to wipe Cavalry Foes off the map. Recall how I said Override could be comical when used on a line of Cavalry Foes. The Ridersbane is why. I've seen people in the Engage online communities call this the "Ridersbane Shishkebab" and it fits. Even outside of skewering Cavalry Foes, its normal stats are still nothing to sneeze at with good Might, Hit, and very low Weight compared to other Lances, especially the normal Ridersbane. <br><br>
 
-The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in Engage are lacklustre in Engage and this one is no different. Low Might and low Hit are not doing this weapon any favors. Even with Sigurd's passive Build bonus, the Brave Lance is still heavy enough to weigh down a majority of Units which makes doubling difficult. Furthermore, recall how Momentum only applies to the first hit of an attack. If the first hit of the Brave Lance misses, that's it. The other 3 hits don't get the bonus from Momentum. 
+The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in Engage are lacklustre and this one is no different. Low Might and low Hit are not doing this weapon any favors. Even with Sigurd's passive Build bonus, the Brave Lance is still heavy enough to weigh down a majority of Units which makes doubling difficult. Furthermore, recall how Momentum only applies to the first hit of an attack. If the first hit of the Brave Lance misses, that's it. The other 3 hits don't get the bonus from Momentum. 
 
 </details>
 
@@ -257,7 +257,7 @@ The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/sigurd/Engrave-Sigurd.PNG" alt="Pic"><br><strong> Holy Engrave</strong></td> <!-- Image & Name  -->
+            <td><img src="{{ site.baseurl }}/img/sigurd/Engrave-Sigurd.PNG" alt="Pic"><br><strong> Holy Engrave</strong></td> <!-- Image & Name  --> 
             <td>+1 </td> <!-- Might  -->
             <td>0 </td><!-- Hit  -->
             <td>0 </td> <!-- Crit  -->
@@ -360,20 +360,28 @@ I recommend putting this Engrave on weapons used by low-Build characters or on D
 <details>
 <summary> Explanation </summary>
 
-Sigurd's Skill Inheritance is a tad expensive across the board but I feel the prices are reasonable for the power they grant. <br><br>
+Sigurd's Skill Inheritance is a tad expensive across the board but I feel the prices are reasonable for the power they grant. <br>
 
-<b>Canter</b> is the main prize here and it's no contest. It's a skill with the most universal appeal in Engage as every unit, regardless of their function will appreciate moving 2 extra spaces. 1000 SP isn't that much to ask for such a useful skill. If you have a character with a free skill slot that you don't know what to do with, just put Canter there. <br><br>
+<ul>
 
-I've already said what I needed about <b>Headlong Rush</b>. Even after Chapter 11, it is still a useful skill to have and is dirt cheap to inherit.<br><br>
+<li>
+<b>Canter</b> is the main prize here and it's no contest. It's a skill with the most universal appeal in Engage as every unit, regardless of their function will appreciate moving 2 extra spaces. 1000 SP isn't that much to ask for such a useful skill. If you have a character with a free skill slot that you don't know what to do with, just put Canter there. </li><br>
 
-I don't recommend inheriting <b>Momentum</b> on Foot units as their movement upon promotion caps out a 5 which isn't enough to make Momentum worth it, especially when Canter costs the same. If I had a choice between the two, I'd go with Canter. <br><br>
+<li>
+I've already said what I needed about <b>Headlong Rush</b>. Even after Chapter 11, it is still a useful skill to have and is dirt cheap to inherit.</li><br>
 
-Sigurd's Stat Skill is <b>Hit+</b>. These Skills are very useful especially in the Early Game as you'll often be dealing with shaky hit rates (79% and under) in Engage. This comes from either character having subpar DEX stats, weapons with shaky accuracy rates, or from fighting speedy enemies like Swordmasters or Griffin Knights. Having a flat bonus to your accuracy rates can be useful. <br><br>
+<li>
+I don't recommend inheriting <b>Momentum</b> on Foot units as their movement upon promotion caps out a 5 which isn't enough to make Momentum worth it, especially when Canter costs the same. If I had a choice between the two, I'd go with Canter. </li><br>
 
-Sigurd's Weapon Skill is the <b>Lance Power</b> line of Skills. Unfortunately, compared to the Hit+ Skills, I can't recommend these skills are not only are they niche but expensive. However, if you want to inherit these skills, I recommend them to Lance Users like Knights, Generals, and Great Knights. They usually have such high DEF stats that they don't need to worry about dodging so the Avoid penalty is meaningless to them in exchange for hitting harder. I've seen use for these skills on Wyvern Knights too. <br><br> 
+<li>
+Sigurd's Stat Skill is <b>Hit+</b>. These Skills are very useful especially in the Early Game as you'll often be dealing with shaky hit rates (79% and under) in Engage. This comes from either character having subpar DEX stats, weapons with shaky accuracy rates, or from fighting speedy enemies like Swordmasters or Griffin Knights. Having a flat bonus to your accuracy rates can be useful. </li><br>
 
-Lastly, Sigurd gives both <b>Lance Proficiency</b> and <b>Sword Proficiency</b>.
+<li>
+Sigurd's Weapon Skill is the <b>Lance Power</b> line of Skills. Unfortunately, compared to the Hit+ Skills, I can't recommend these skills are not only are they niche but expensive. However, if you want to inherit these skills, I recommend them to Lance Users like Knights, Generals, and Great Knights. They usually have such high DEF stats that they don't need to worry about dodging so the Avoid penalty is meaningless to them in exchange for hitting harder. I've seen use for these skills on Wyvern Knights too. </li><br> 
 
+<li>
+Lastly, Sigurd gives both <b>Lance Proficiency</b> and <b>Sword Proficiency</b>.</li>
+</ul>
 
 </details>
 
@@ -413,10 +421,8 @@ Lastly, Sigurd gives both <b>Lance Proficiency</b> and <b>Sword Proficiency</b>.
     </table>
 </div>
 
-<details>
-<summary> Explanation </summary>
-Sigurd's Stat Bonuses cap out at pretty respectable numbers. Unfortunately, that bonus Movement never increases.
-</details>
+Sigurd's Stat Bonuses cap out at pretty respectable numbers. +3 Build goes a long way when wielding heavier weapons. Unfortunately, that bonus Movement never increases.
+
 
 ## Sync Skills
 
@@ -487,7 +493,7 @@ At higher Bond Levels, 2 of Sigurd's Sync Skills get upgrades. <br><br>
 
 Sigurd's final Engage Weapon is his iconic Holy Weapon from his home game <b>Tyrfing</b>. Statwise, it's pretty good across the board, and that added RES can make Sigurd's user into a decent Mage-Killer if need be. <br><br>
 
-However, if there's one criticism I have about Tyrfing is that if you've played Sigurd's home game, you'll see this weapon got a massive downgrade from the 30 Might, +10 DEX, +10 SPD, and +20 RES. No, I am not joking, those are its original stats in its home game. Genealogy was absolutely WILD with how powerful its Holy Weapons were and Tyrfing is one of the more tame examples. <br><br>
+However, if there's one criticism I have about Tyrfing is that if you've played Sigurd's home game, you'll see this weapon got a massive downgrade from the <b>30 Might, +10 DEX, +10 SPD, and +20 RES</b>. No, I am not joking, those are its original stats in its home game. Genealogy was absolutely WILD with how powerful its Holy Weapons were and Tyrfing is one of the more tame examples. <br><br>
 
 </details>
 
@@ -544,7 +550,7 @@ However, if there's one criticism I have about Tyrfing is that if you've played 
     <tr>
       <td>18</td>
       <td><img src="/blog/img/sigurd/FE17_Lance_Power_5_Icon.webp" alt="Pic" /><br> Lance Power 5</td>
-      <td>Grants ATK+10 and Avoid -10 when using a Lance</td>
+      <td>Grants ATK+10 and Avoid-10 when using a Lance</td>
       <td>5000</td>
     </tr>
     <tr>

@@ -22,7 +22,7 @@ published: true
 <br>
 
 # **Introduction**
-Marth represents the Archanea Games, specifically the 1st Game (Shadow Dragon and Blade of Light), the 3rd Game (Mystery of the Emblem), and their respective remakes (Shadow Dragon and New Mystery of the Emblem). As an Emblem, Marth specializes in Dodge-Tanking, dealing with Armored and Cavalry Foes, and attacking multiple times. He is designed to turn his wearer into an overall combat unit. This makes him very simple to use, befitting not only the first Emblem you receive in the game but also the Lord who started it all. 
+Marth represents the Archanea Games, specifically the 1st Game **Shadow Dragon and The Blade of Light**, the 3rd Game **Mystery of the Emblem**, and their respective remakes (**Shadow Dragon and New Mystery of the Emblem**). As an Emblem, Marth specializes in Dodge-Tanking, dealing with Armored and Cavalry Foes, and attacking multiple times. He is designed to turn his wearer into an overall combat unit. This makes him very simple to use, befitting not only the first Emblem you receive in the game but also the Lord who started it all. 
 
 # **Initial Gameplay (Bond 1 - 10)** 
 
@@ -346,19 +346,34 @@ Marth's Engrave is objectively one of the best Engraves in the game as it has no
 <details>
 <summary> Explanation </summary>
 
-Marth's Skill Inheritance is a mix of cheap and expensive. <br><br>
+Marth's Skill Inheritance is a mix of cheap and expensive. <br>
 
-<b>Break Defenses</b> is the main prize here but fittingly for what it does, it is very expensive, even by Late Game standards. In the Early Game, you're affording this unless you make liberal use of the well and skirmishes. <br><br>
+<ul>
 
-<b>Perceptive and Unyielding</b> are pretty dirt cheap for the effects they give you. Personally, between these two I usually go with Perceptive as that Avoid bonus is really handy in the Early Game as most of your units aren't all that bulky, and the extra avoid could save them from taking a hit. <br><br>
+<li>
+<b>Break Defenses</b> is the main prize here but fittingly for what it does, it is very expensive, even by Late Game standards. In the Early Game, you're affording this unless you make liberal use of the well and skirmishes. 
+</li> <br>
 
-Every Emblem in Engage has Inheritable Skills that grant bonuses to either a unit's raw Stats (<b>Stat Skills</b>) or when a unit uses a specific weapon type (<b>Weapon Skill</b>). <br><br>
+<li>
+<b>Perceptive and Unyielding</b> are pretty dirt cheap for the effects they give you. Personally, between these two I usually go with Perceptive as that Avoid bonus is really handy in the Early Game as most of your units aren't all that bulky, and the extra avoid could save them from taking a hit.
+</li>
+</ul>
 
-For Marth, his Stat Skill is the <b>Avoid+</b> line of Skills. I find these skills to be useful as again, you can never have too much Avoid. However, they are expensive, especially at higher levels. The highest I go with these skills is Avoid+15. <br><br>
+Every Emblem in Engage has Inheritable Skills that grant bonuses to either a unit's raw Stats (<b>Stat Skills</b>) or when a unit uses a specific weapon type (<b>Weapon Skill</b>). <br>
 
-Marth's Weapon Skill is <b>Sword Agility</b>. At first glance, it may seem counter-intuitive. Why would you sacrifice Critical Chance for more Avoid? Well, 2 Things. 1) Notice how the Avoid bonus increases with higher levels of the skill but the Crit penalty remains the same. 2) Engage has many tools that can boost your Critical Rate to near comical levels (Engraves, Certain Inheritable Skills, etc) so most of the time that -10 Crit won't be much of an issue. Even if you aren't running a Crit Build, the extra Avoid is always helpful, especially since Sword units in Engage tend to be better Dodge Tanks. <br><br>
+<ul>
+<li>
+For Marth, his Stat Skill is the <b>Avoid+</b> line of Skills. I find these skills to be useful as again, you can never have too much Avoid. However, they are expensive, especially at higher levels. The highest I go with these skills is Avoid+15. 
+</li><br>
 
+<li>
+Marth's Weapon Skill is <b>Sword Agility</b>. At first glance, it may seem counter-intuitive. Why would you sacrifice Critical Chance for more Avoid? Well, 2 Things. 1) Notice how the Avoid bonus increases with higher levels of the skill but the Crit penalty remains the same. 2) Engage has many tools that can boost your Critical Rate to near comical levels (Engraves, Certain Inheritable Skills, etc) so most of the time that -10 Crit won't be much of an issue. Even if you aren't running a Crit Build, the extra Avoid is always helpful, especially since Sword units in Engage tend to be better Dodge Tanks.
+</li><br>
+
+<li>
 Lastly, Marth's only Weapon Proficiency is <b>Sword Proficiency</b> which may seem lacklustre but there are many good classes in Engage that open up once a Unit has Sword Proficiency. The standout examples are Mage Knight and Griffin Knight for Levin Sword usage and Hero for better Chain Attack Utility. The main downside is that you get this from Marth at Bond 8 when there is another Early Game Emblem that teaches Sword Proficiency a bit earlier.
+</li>
+</ul>
 
 </details>
 
@@ -449,7 +464,7 @@ Overall, Marth's later Sync Skills double down on making his wearer a good Playe
             <th>Effect</th>
         </tr>
         <tr>
-            <td>l</td> <!-- Bond Level  -->
+            <td>l5</td> <!-- Bond Level  -->
             <td><img src="{{ site.baseurl }}/img/marth/MarthFalchionFE17Sprite.webp" alt="Pic"><br><strong>Falchion</strong></td> <!-- Image & Name  -->
             <td>12 </td> <!-- Might  -->
             <td>100 </td><!-- Hit  -->
@@ -466,7 +481,7 @@ Overall, Marth's later Sync Skills double down on making his wearer a good Playe
 
 At Bond 15 we get possibly the single most iconic weapon in all of Fire Emblem: The <b>Falchion</b>. Despite the pedigree, it isn't anything to write home about. It's not that different from the Mercurius except it has Dragon Effectiveness instead. Normally Dragon Effectiveness isn't all that special in Engage. <br><br>
 
-HOWEVER, by the time you have access to Falchion via completing Marth's Paralogue, you also have access to another Emblem that turns Dragon Effectiveness into <<b>FELL DRAGON</b> Effectiveness which is incredibly useful for the Final Boss. So I usually don't give Falchion as much flak compared to its other Dragon-Slaying compatriots for this reason.
+HOWEVER, by the time you have access to Falchion via completing Marth's Paralogue, you also have access to another Emblem that turns Dragon Effectiveness into <b>FELL DRAGON</b> Effectiveness which is incredibly useful for the Final Boss. So I usually don't give Falchion as much flak compared to its other Dragon-Slaying compatriots for this reason.
 
 </details>
 

@@ -7,16 +7,21 @@ date:   2024-08-11 11:09:18 -0400
 categories: jekyll Cat2
 permalink: "/Emblems/Roy"
 backgroundcolor: FF0000
+toc: true
 
 author: "Bradley Harris"
 published: true
 ---
 
-| ![Emblem Pic]({{ site.baseurl }}/img/roy/engageroy.webp) |
 
- <h1> <div class="evocation"> Rise Up, Emblem of Binding! </div> </h1>
+
+<div class = "center-image">
+	<img src="{{ site.baseurl }}/img/roy/engageroy.webp" alt="leif" style="width:50%;">
+</div>
+
+
+ <div class="evocation"> Rise Up, Emblem of Binding! </div>
 <br>
-
 
 * TOC
 {:toc}
@@ -25,7 +30,7 @@ published: true
 
 
 # **Introduction**
-Roy represents the 1st of the GBA Fire Emblem Games: The Binding Blade. Like Marth, Roy is an Emblem that is simple to use. However, Roy is focused on offense and sheer survivability. 
+Roy represents the 1st of the GBA Fire Emblem Games: **Binding Blade** (Or **Sword of Seals** if you're familiar with early fan translations). Roy is an incredibly straightforward Emblem as he is designed to boost the raw offensive power and sheer survivability of his bearer. 
 
 # **Initial Gameplay (Bond 1 - 10)** 
 
@@ -53,8 +58,7 @@ Roy represents the 1st of the GBA Fire Emblem Games: The Binding Blade. Like Mar
     </table>
 </div>
 
-
-Wearing The Ring of the Young Lion grants boosts to Strength and Resistance along with a significant boost to HP. Roy's Ring gives the 2nd largest HP boost at equivalent Bond Levels. 
+Wearing the Ring of the Young Lion grants boosts to Strength and Resistance along with a significant boost to HP. When compared to other Emblems, Roy gives the 2nd largest HP boost at equivalent Bond Levels. 
 
 
 ## Sync Skills
@@ -88,13 +92,15 @@ Wearing The Ring of the Young Lion grants boosts to Strength and Resistance alon
 <details>
 <summary> Explanation </summary>
 
-Roy only having 2 Sync Skills might seem like he got the short end of the stick, but his first one is so powerful that giving him another Sync Skill would likely risk him becoming overpowered. <br><br>
+Roy only has 2 Sync Skills and while this might seem like a letdown, make no mistake that Roy that Roy's primary Sync Skill is so powerful that giving a 3rd one would risk unbalancing the game's difficulty. <br><br>
 
-<b>Hold Out</b> is Roy's signature skill and arguably one of the most powerful Sync Skills in Engage. If you're familiar with the Focus Sash item from the Pokemon Games, then Hold Out functions the same. As long as you keep Roy's bearer above a certain HP threshold and an enemy's attack would have killed them normally, they are guaranteed to survive. This also applies if the enemy attacks multiple times in a single combat. If an enemy's first attack hits reduces you to 1 HP, then Hold Out will trigger and force ALL of these subsequent attacks to either miss or deal no damage. <br><br>
+Roy's signature Sync Skill is <b>Hold Out</b> and it is arguably one of the most powerful Sync Skills in Engage. If you're familiar with the Focus Sash item or the ability Sturdy from the Pokemon Games, then Hold Out functions similarly. As long as you keep Roy's bearer above a certain HP threshold and an enemy's attack would have killed them normally, they are guaranteed to survive. This also applies if the enemy attacks multiple times in a single combat. If an enemy's first attack were to reduce you to 1 HP, Hold Out will trigger and force ALL of their subsequent attacks to miss (or deal no damage in certain situations). <br><br>
 
-In simple terms, provided you are above the relevant HP Threshold, Roy's bearer cannot be killed by a single enemy. If you are clever with placing Roy's bearer in favorable terrain and keep them topped off on HP, you basically have a nigh-immortal warrior. Can you imagine if this skill was on the enemy's side? That'd be really annoying. On an unrelated note. Engage Attacks and Chain Attacks will ignore Hold Out. Just something to keep in the back of your mind. <br><br>
+In simple terms, provided you stay above the relevant HP Threshold, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. If you're clever with placing Roy's bearer in favorable terrain (preferably those with a bonus to Avoid) and keep them topped off on HP, you effectively have a nigh-unkillable warrior. Can you imagine how annoying this skill would be in the enemy's hands? On an unrelated note, one thing to keep in the back of your mind with Hold Out is that Engage Attacks and Chain Attacks will ignore this skill. <br><br>
 
-<b>Advance</b> might pale in comparison to Hold Out but can be quite useful. Often times in Engage, you'll find your melee units falling one space short of being able to attack the enemy. Advance fixes this. However, please remember that Advance only works if you are EXACTLY 1 space away from them. It does not work with enemies who are placed diagonally to you because that counts as 2 spaces.
+<b>Advance</b> might pale in comparison to the sheer power of Hold Out but it is still quite useful. Often times in Engage, you'll find your melee units falling one space short of striking distance of an enemy. Advance fixes this by giving you that extra reach. However, please remember that Advance only works if you are EXACTLY one (1) space away from the target. It does not work on enemies who are placed diagonally to you as the game counts that as 2 spaces. <br><br>
+
+As we can see, wearing Roy's ring grants some pretty powerful and useful abilities but it doesn't stop there. Engaging with Roy causes your combat performance to increase significantly.
 
 </details>
 
@@ -130,13 +136,15 @@ In simple terms, provided you are above the relevant HP Threshold, Roy's bearer 
 <details>
 <summary> Explanation </summary>
 
-Like Sigurd's Gallop, Roy's Engage Skill <b>Rise Above</b> is "Simple, but Effective". It does exactly what it says on the tin, it just gives you 5 extra Levels along with all the stat boosts those 5 Levels would have given you normally. This skill works even if you're at the maximum level for your class (either 20 or 40), so it's the only way to break the Level cap in Engage.<br><br>
+Like Sigurd's Gallop, Roy's Engage Skill <b>Rise Above</b> is incredibly "Boring but Practical". It does exactly what it says on the tin, it gives you 5 extra Levels along with all the stat gains you would have gained had you obtained those 5 Level Ups naturally. This skill works even if you're at the maximum level for your class (either 20 or 40), so it's the only way to break the Level cap in Engage. <br><br>
 
-Through my own play-testing, I've concluded that Rise Above raises stats according to the unit's Growth Rates. On average, Rise Above without any Unit Type Bonuses gives +5 HP and +2 to a unit's other primary stats. However, some stats may only get +1 or +3 depending on the individual unit. <br><br>
+Through my own play-testing, I've concluded that the stat gains from Rise Above are a bit random but they are influenced by the Growth Rates of Roy's bearer. As a result, the consistency of these stat boosts can vary but I've pinned down that Rise Above, without factoring in Class Bonuses gives +5 HP and anywhere from +1 to +3 to a unit's primary stats excluding Build. Because of this variance in stat boosts, you can't plan an effective strategy about them so you shouldn't think too hard about it and appreciate the extra boost in stats for the next 3-4 Turns. <br><br>
 
-Dragons getting 6 Levels could potentially turn Alear into a Powerhouse and Cavalry Units just get a simple but still useful +1 MOV. Armored Units getting +5 HP isn't that impressive as they already have high HP stats even without Roy and it's not like they need the extra survivability when they also have Hold Out. <br><br>
+For the Class Bonuses, Dragons getting 6 extra Levels could potentially turn Alear into a powerhouse and Cavalry Units always appreciate extra movement (especially if they've inherited Momentum from Sigurd). Armored Units getting +5 HP isn't that impressive as they already have high HP stats even without Roy and it's not like they desperately need the extra bulk when they have Hold Out as an insurance policy. <br><br>
 
-In short, Rise Above essentially makes any unit better at what they already do for 3-4 Turns.
+Though there is no concrete proof, Rise Above might be a reference to Binding Blade's "Hard Mode Bonuses" where on Hard Mode recruitable allies have increased base stats from receiving "Hidden Level Ups" in response to the increased stat values of the enemy units. <br><br>
+
+In short, Rise Above essentially makes any unit better at what they already do for 3-4 Turns. 
 
 </details>
 
@@ -145,7 +153,7 @@ In short, Rise Above essentially makes any unit better at what they already do f
 
 ## Engage Attack
 
-| ![Pic]({{ site.baseurl }}/img/roy/FE17_Blazing_Lion_Icon.webp) <br> **Blazing Lion** | Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. |
+| ![Pic]({{ site.baseurl }}/img/roy/FE17_Blazing_Lion_Icon.webp) <br> **Blazing Lion** | Use to attack adjacent foe and an area 3 spaces wide. Target areaed and the 2 rows beyond it are set on fire. Sword only. |
 
 <div class="table-container">
     <table>
@@ -168,13 +176,13 @@ In short, Rise Above essentially makes any unit better at what they already do f
 <details>
 <summary> Explanation </summary>
 
-Roy's <b>Blazing Lion</b> is focused on wide, AOE damage. If Sigurd's Override is "Long Sword", then Blazing Lion is "Wide Sword". <br><br>
+Roy's <b>Blazing Lion</b> is focused on wide, AOE Damage. If Sigurd's Override is "Long Sword", then Blazing Lion is "Wide Sword". <br><br>
 
-Blazing Lion doesn't deal any extra damage, even with Unit Bonuses. All it does is hit up to 3 adjacent enemies who standing side by side in a row/column. However, the other half of this attack is the interesting part as it sets an area on <b>Fire</b> (the row with the 3 enemies and the 2 rows behind them). Engage has many different Terrain Effects (One Emblem we get later is all about manipulating Terrain) and Fire happens to be one of the better ones. Not only does Fire heavily slow down movement (both yours and the enemy's), but also deals 10 Damage to them if they start their turn on a Fire space. Because of this, if you're planning on using Blazing Lion, it's best to have Roy's bearer move last on your turn to not impede your other units with the flames he creates. Below are visual references for how the Class Bonuses affect Blazing Lion. 
+Even with Class Bonuses, Blazing Lion does not deal any extra damage. All it does is hit up to 3 adjacent enemies who are standing side by side in a row/column. However, the after-effects of this attack are the interesting part. After dealing damage, Blazing Lion sets an area on Fire (The row with the 3 enemies hit by the attack and the 2 rows behind them). Engage has many different Terrain Effects (One Emblem you receive later specializes in manipulating Terrain Effects) and Fire/Flame tiles are one of the better ones. Not only do Flame Tiles heavily slow down movement (both yours and the enemy's), but they also deal a flat 10 Damage if someone begins their turn on a Flame Tile. <br><br>
 
-You should know the drill by now with Engage Attacks. Smash Weapons = Higher Damage. <br><br>
+Because of this, if you're planning on using Blazing Lion, it's best to have Roy's bearer move last on your turn to not hinder your other units with the flames he creates. As with other Engage Attacks, if you want to maximize the damage of Blazing Lion, it's best used with Smash Weapons like Steel or Silver Blades. <br><br>
 
-Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit up to 6 enemies if you can line them up right and Mystical Units just set a larger area on Fire while attacking the same amount of enemies (3). <br><br> 
+As stated previously, Class Bonuses do not give Blazing Lion any extra damage. Instead, they affect the Area of Effect of either the attack itself or the Flame Tiles left behind afterward. Below are visual references for how the Class Bonuses work. Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit up to 6 enemies if you can line up right. Mystical Units just set a larger area on fire while attacking the same amount of enemies as the default version, three (3). 
 
 <table>
   <tr>
@@ -218,7 +226,7 @@ Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit u
             <td>5</td> <!-- Crit  -->
             <td>9</td> <!-- Weight  -->
             <td>1</td> <!-- Range  -->
-            <td>Grants advantage vs. lances but disadvantage vs. axes.</td> <!-- Effect  -->
+            <td>Grants Advantage Vs. Lances but Disadvantage Vs. Axes.</td> <!-- Effect  -->
         </tr>
         <tr>
             <td>l0</td>
@@ -238,15 +246,53 @@ Dragons turn Blazing Lion's "Wide Sword" into "Life Sword" which lets them hit u
 <details>
 <summary> Explanation </summary>
 
-First up we have the <b>Lancereaver</b> which has quite an interesting effect. It reverses the Weapons Triangle, letting you Break Lances but you will be broken if an Axe hits you. Pretty decent for a gimmick weapon. <br><br>
+The <b>Lancereaver</b>, stat-wise is essentially a Steel Sword with slightly lower Hit and higher Weight. However, what makes this weapon interesting is that it reverses the Weapons Triangle. What this means is that when using the Lancereaver, you will Break Lances, but in exchange, you will be Broken by Axes. This is pretty decent for a gimmick weapon and comes in handy if you need to break a Lance-using enemy when all your Axe users are unable to. <br><br>
 
-Next, we have the <b>Wyrmslayer</b> which is slightly stronger and less heavy than the Lancereaver but slightly less accurate. As the name implies, it is effective against Dragons. Recall back in Marth's profile how I mentioned his Falchion's Dragon Effectiveness wasn't that impressive in Engage without outside assistance. That applies to the Wrymslayer here. The only Dragon-type enemies this will have effectiveness against are Wyvern Knights who are not only decently fast but bulky as well and Fabrication Wyrms who have tons of bulk to just tank the hits. <br><br>
+The <b>Wyrmslayer</b>, when compared to its regular counterpart has higher Might and is much lighter. However, it has a lower Hit as a trade-off. As the name implies, this sword is effective against Dragon Units such as Wyvern Knights and Fabrication Wyrms. Recall back in Marth's profile how I mentioned his Falchion's Dragon Effectiveness wasn't that impressive in Engage without outside assistance. That applies to the Wyrmslayer here. Despite having effectively 30 Might against Wyvern Knights and Fabrication Wyrms, both enemy types have enough sheer bulk to withstand a hit or two from this weapon. Wyvern Knights especially as they will have enough speed to avoid getting doubled. <br><br>
 
-Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead of what we saw from Leif. However, they aren't impressive either like Marth's Mercurius, Celica's Seraphim, and Sigurd's Ridersbane. These weapons are just "meh". For a piece of fun trivia, both of these weapons have the exact same stats they had in their GBA home game.
+Overall, Roy's biggest flaw is definitely his initial Engage Weapons. They aren't bad, not by any means. In fact, they are miles ahead of what we saw from Leif. However, they aren't that impressive compared to the likes of Marth's Mercurius, Celica's Seraphim, or Sigurd's Ridersbane. However, don't fret as Roy's final Engage Weapon more than picks up the slack for these two.
+
+Let's close this section with some fun trivia. Both of Roy's initial Engage Weapons have the exact same stats they had in their GBA home game. 
 
 </details>
 
 
+## Engraving
+
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Might</th>
+            <th>Hit</th>
+            <th>Crit</th>
+            <th>Weight</th>
+            <th>Avoid</th>
+            <th>Dodge</th>
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/img/roy/Engrave-Roy.PNG" alt="Pic"><br><strong> Binding Engrave</strong></td> <!-- Image & Name  -->
+            <td>+2 </td> <!-- Might  -->
+            <td>0 </td><!-- Hit  -->
+            <td>0 </td> <!-- Crit  -->
+            <td>+8 </td> <!-- Weight  -->
+            <td>-30 </td> <!-- Avoid  -->
+            <td>0 </td> <!-- Dodge  -->
+        </tr>
+    </table>
+</div>
+
+<details>
+<summary> Explanation </summary>
+
+Roy's <b>Binding Engrave</b> might seem like a bad deal at first glance, but it has its use cases. With the Binding Engrave, you gain +2 Might in exchange for massive penalties in Weight and Avoid. There are mainly 2 ways to use this Engrave. <br>
+
+<ol>
+  <li>Putting it on weapons designed to chip away at enemies like the <b>Thunder Tomes</b> (Thunder, Elthunder, Thoron). These weapons cannot double attack so they don't care about gaining extra weight.</li> <br>
+  <li>Putting it on Units who don't care about taking hits. This includes tanky units like Armor Knights, Generals, and Great Knights. You could also put this on whoever is using the Ring of the Radiant Hero. When engaged with that Emblem, a unit becomes incredibly durable at the cost of severely reduced Avoid to the point where you'll always take hits. </li>
+</ol> 
+
+</details>
 
 
 ## Skill Inheritance 
@@ -286,7 +332,7 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
         <tr>
            <td> 4</td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_1_Icon.webp" alt="Pic"><br>Sword Power 1   </td> <!-- Skill  -->
-            <td>Grants Atk+2 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>Grants ATK+2 at a cost of Avoid-10 when using a Sword </td> <!-- Effect  -->
             <td>1000 </td> <!-- SP Cost -->
         </tr>
         <tr>
@@ -304,7 +350,7 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
         <tr>
            <td> 7</td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_2_Icon.webp " alt="Pic"><br> Sword Power 2  </td> <!-- Skill  -->
-            <td>Grants Atk+4 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>Grants ATK+4 at a cost of Avoid-10 when using a Sword </td> <!-- Effect  -->
             <td>2000 </td> <!-- SP Cost -->
         </tr>
         <tr>
@@ -322,7 +368,7 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
         <tr>
            <td>9 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_3_Icon.webp " alt="Pic"><br> Sword Power 3  </td> <!-- Skill  -->
-            <td> Grants Atk+6 at a cost of Avo-10 when using a Sword.</td> <!-- Effect  -->
+            <td> Grants ATK+6 at a cost of Avoid-10 when using a Sword.</td> <!-- Effect  -->
             <td>3000 </td> <!-- SP Cost -->
         </tr>
     </table>
@@ -331,16 +377,21 @@ Overall, Roy's initial Engage Weapons aren't bad, in fact, they're miles ahead o
 <details>
 <summary> Explanation </summary>
 
-You've probably noticed that other Emblems have a mix of cheap and expensive Skill Inheritance. Well, Roy bucks that trend HARD as the vast majority of his inheritable skills are incredibly expensive. I'm serious, unless you've been using the Ancient Well and hoarding Skill Books, you aren't inheriting the vast majority of these skills until well into the End Game. However, that's to be expected as all of Roy Skill Inheritance are varying levels of incredibly powerful. <br><br>
+When it comes to Skill Inheritance, you've probably noticed that other Emblems tend to have a mix of cheap and expensive Skills. Well, Roy leans heavily toward the latter end of that spectrum as the vast majority of his Inheritable Skills are incredibly expensive. Unless you've been using the Ancient Well liberally and hoarding Skill Books in your convoy, you aren't inheriting the vast majority of Roy's Skills until well into the Endgame. However, that's to be expected as all of Roy's Skill Inheritance are varying levels of powerful. <br>
 
-Roy's Stat and Weapon Skills are the <b>Strength+</b> and <b>Sword Power</b> Skills respectively. Both of these skills are incredibly powerful for physical units. Boosting your raw Strength stat is something every physical unit can appreciate and most Sword units won't care about the Avoid penality from Sword Power if it means hitting harder.<br><br>
+<ul>
+<li>
+<b>Advance</b> is likely the only skill you have a reasonable chance of inheriting from Roy when you first obtain his Ring. 500 SP for a decent mobility tool is a better bargain than you'd think.</li> <br>
 
-As you'd expect, <b>Hold Out</b> is not cheap in the slightest, even the base version will run you the equivalent of 2 Expert Books. However, if you want to have your army running around with Hold Out Focus Sashes, more power to you. Just don't expect Roy to make it easy (or cheap) for you. Roy might be a good-natured kid, but he isn't going to let anyone run around with his signature skill.<br><br>
+<li>
+As you'd expect, <b>Hold Out</b> is not cheap in the slightest. Even the base version will run you the equivalent of 2 Expert Books from the Ancient Well. However, if you want to have your army running around with Hold Out Life Insurance Policies, more power to you. Just don't expect Roy to make it easy (or cheap) for you. Roy might be a good-natured kid, but he isn't going to sit and let just anyone run around with his signature Skill.</li> <br>
 
-<b>Advance</b> is likely the only skill you can easily inherit from Roy and 500 SP for a decent mobility tool is a good bargain. <br><br>
+<li>
+Roy's Stat and Weapon Skills are the <b>Strength+</b> and <b>Sword Power</b> Skills respectively. Following the example of Celica's Magic+ and Sigurd's Lance Power Skills, both of these skills are incredibly powerful for your Physical Units. Boosting the raw Strength stat is something every Physical Unit can appreciate. Most Sword Units are either fast enough or tanky enough that the -10 Avoid Penalty will be meaningless to them in exchange for hitting harder.</li> <br>
 
-Last but certainly not least, Roy grants <b>Sword Proficiency</b> which isn't new but what makes Roy stand out is that of the first few Emblems you get, he grants this at Bond 6 compared to Marth, Sigurd, Celica, and Leif who grant the same proficiency around Bond 8 or 9.
-
+<li>
+Lastly, Roy grants Sword Proficiency which isn't anything new. However, what makes Roy stand out is that of the first few Emblems you get, he grants this at Bond 6, much earlier compared to the likes of Marth, Sigurd, Celica, and Leif who grant the same proficiency around Bond 8 or 9. So if you're looking for a fast way of getting Sword Proficiency, Roy is your best bet.</li>
+</ul>
 </details>
 
 
@@ -372,7 +423,7 @@ Last but certainly not least, Roy grants <b>Sword Proficiency</b> which isn't ne
     </table>
 </div>
 
-Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive ones in the game. A great boost to HP and Strength with a decent Resistance Boost to tie it together. That boost to Strength could turn fairly mediocre physical units into decent ones or you could double down and turn an already good physical unit into an even better one. Really compliments Roy's playstyle of raw power and survivability.
+Roy's Stat Bonuses at higher Bond Levels cap out at some of the most impressive numbers in the game. A great boost to HP and Strength with a decent Resistance boost to tie it all together. That boost to Strength is big enough to turn fairly mediocre Physical Units into decent ones, or you could double down and turn an already good Physical Unit into an even better one. These stat boosts complement Roy's general playstyle of raw power and survivability.
 
 ## Sync Skills
 
@@ -399,9 +450,11 @@ Roy's Stat Bonuses at his higher Bond Levels are some of the most impressive one
 <details>
 <summary> Explanation (AKA: Why you should complete Roy's Paralogue) </summary>
 
-If you thought Hold Out was great in its first two incarnations, the ones you get in Roy's later Bond Levels are ridiculous. <b>Hold Out+++</b> (yes it goes that high) is absolutely disgusting for as long as you have at least 2 HP when an enemy initiates combat, you are guaranteed to live and the enemy has no say in the matter. <br><br>
+If you thought Hold Out was great in its first two incarnations, you haven't seen anything yet. The versions of Hold Out you get in Roy's higher Bond Levels are ridiculous, bordering on Game Breaking. <b>Hold Out+++</b> (Yes, it goes that high) is absolutely ludicrous for as long as you have at least 2 HP when an enemy initiates combat, you are GUARANTEED TO LIVE and the enemy has no say in the matter. <br><br>
 
-In layman's terms, at Bond 18, so long as they stay above 1 HP, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. Hold Out+++ triples down on the "nigh-invincible warrior" play-style. What makes this skill truly disgusting is that it's a Sync Skill, meaning it's ALWAYS on Roy's holder (assuming their Bond Level is high enough). This skill alone is more than enough reason to complete Roy's Paralogue after it unlocks.
+In Layman's Terms, at Bond 18, so long they stay above 1 HP, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. Hold OUT+++ quadruples down on Roy's "Nigh-Invincible Warrior" playstyle. What makes this skill even more powerful is by the time you have access to it via completing Roy's Paralogue, you don't have to worry about enemy Engage Attacks bypassing it as only three Bosses in the remaining story chapters have Emblems. <br><br>
+
+As the cherry on top, the truly disgusting part about Hold Out+++ Is that it's a Sync Skill, meaning it's ALWAYS active on Roy's Bearer (assuming they have unlocked it). This skill alone is reason enough to complete Roy's Paralogue as soon as it unlocks. However, Hold Out+++ isn't the only reason. <br><br>
 
 </details>
 
@@ -443,7 +496,7 @@ In layman's terms, at Bond 18, so long as they stay above 1 HP, Roy's bearer <b>
 <details>
 <summary> Explanation </summary>
 
-The <b>Binding Blade</b> has decent stats across the board and has a 1-2 Range. The real kicker is that, unlike Leif's Light Brand, the Binding Blade is a physical weapon, (despite the magic flame animations) that synergizes well with Roy's passive boost to Strength. The +5 DEF/RES is just a cool bonus. This weapon is definitely another reason to complete Roy's Paralogue if Hold Out+++ is somehow not enough motivation.
+At Bond 15, Roy bestows his iconic weapon, the <b>Binding Blade</b>. It has great stats across the board and has 1-2 Range. The real kicker here is that, unlike Leif's Light Brand, the Binding Blade is a PHYSICAL Weapon (despite the magic flame animations). This alone synergizes well with Roy's passive boost to Strength. The +5 to Defence and Resistance making you even tankier and synergizing with Hold Out is just icing on the cake. 
 
 </details>
 
@@ -469,7 +522,7 @@ The <b>Binding Blade</b> has decent stats across the board and has a 1-2 Range. 
         <tr>
            <td>12</td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_4_Icon.webp " alt="Pic"><br> Sword Power 4  </td> <!-- Skill  -->
-            <td>Grants Atk+8 at a cost of Avo-10 when using a Sword </td> <!-- Effect  -->
+            <td>Grants ATK+8 at a cost of Avoid-10 when using a Sword </td> <!-- Effect  -->
             <td>4000 </td> <!-- SP Cost -->
         </tr>
          <tr>
@@ -487,7 +540,7 @@ The <b>Binding Blade</b> has decent stats across the board and has a 1-2 Range. 
         <tr>
            <td>16 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/roy/FE17_Sword_Power_5_Icon.webp " alt="Pic"><br>Sword Power 5   </td> <!-- Skill  -->
-            <td>Grants Atk+10 at a cost of Avo-10 when using a Sword. </td> <!-- Effect  -->
+            <td>Grants ATK+10 at a cost of Avoid-10 when using a Sword. </td> <!-- Effect  -->
             <td>5000 </td> <!-- SP Cost -->
         </tr>
         <tr>
@@ -520,9 +573,9 @@ The <b>Binding Blade</b> has decent stats across the board and has a 1-2 Range. 
 <details>
 <summary> Explanation </summary>
 
-Roy's later Skill Inheritance doubles down on the trend of his earlier ones. They're all stupidly powerful but also stupidly expensive. If you wanted to inherit all of Roy's Skills (<b>Hold Out+++, Strength+6, Sword Power 5, and Advance</b>) it would cost you a total of <b>16,500 SP</b> which is ludicrous. For reference, most other Emblems will run you an average of 10,000 SP to inherit all of their skills. <br><br>
+Roy's later Skill Inheritance doubles down on the trend we saw in the first half of this profile. They all follow the trend of "<b>Stupidly Powerful, but also Stupidly Expensive.</b>". If you wanted to inherit all of Roy's Skills (<b>Hold Out+++, Strength+6, Sword Power 5, and Advance</b>) it would cost you a total of <b>16,500 SP</b>. For reference, that is the highest SP price tag of any, Non-DLC Emblem in this game. Most other Emblems will run you an average of 10,000 - 12,000 SP to inherit all of their Skills. <br><br>
 
-Unless you're willing to grind Skill Books from the Ancient Well, you are getting nowhere near that amount of SP on a normal playthrough. However, if you're willing to go the distance and want a Sword Unit that not only hits like a nuclear bomb but also refuses to die, then more power to you.<br><br> 
+Unless you're willing to grind and hoard Skill Books like a madman, you are getting nowhere near that amount of SP on a normal playthrough, unless you've religiously abstained from inheriting Skills from other Emblems. However, if you're willing to go the distance and want a Sword Unit that not only hits like a nuclear bomb but also refuses to die, then more power to you. 
 
 </details>
 
@@ -530,11 +583,11 @@ Unless you're willing to grind Skill Books from the Ancient Well, you are gettin
 
 # **Character Builds**
 
-The thing with Roy is that he is so straightforward and generalized that many players don't have specific builds for him. They just slap him on anyone who doesn't need a more dedicated Emblem. And I see that as a good thing as it means Roy isn't stuck in a box like other Emblems.
+The thing with Roy is that he is so straightforward and generalized that many players don’t have specific builds for him. It's not uncommon to just slap him on anyone who doesn’t need a more dedicated/specialized Emblem. And I see that as a good thing as it means Roy isn’t stuck in a box like other Emblems. Even on dedicated Mages, he can see some use with Hold Out as a life insurance policy and Rise Above boosting their magical damage with its stat bonuses. <br><br>
 
-For me, I normally stick him on physical units that fight on the front lines. His passive stat boosts lean towards that kind of play-style and Hold Out, especially at higher Bond levels is an excellent insurance policy to ensure Roy's bearer survives combat.
+For me, I normally stick him on physical units that fight on the front lines. His passive stat boosts lean towards that kind of play-style and Hold Out, especially at higher Bond levels is an excellent insurance policy to ensure Roy’s bearer survives combat.
 
 # **Final Thoughts** <br>
 
-What's left to say about Roy that hasn't already been said. He is arguably the most straightforward Emblem in the game. He quite literally makes anyone a better overall unit. The only major criticism I have with Roy is that his first two Engage Weapons are mediocre and his Skill Inheritance is ludicrously expensive, even if it's justified. Roy is an Emblem you should make use of on the battlefield. To close this out, Roy is most definitely still our boy. 
+What’s left to say about Roy that hasn’t already been said? He is arguably the most straightforward Emblem in the game. He quite literally makes anyone a better overall unit. The only major criticism I have with Roy is that his first two Engage Weapons are mediocre and his Skill Inheritance is ludicrously expensive, even if it’s justified. Roy is an Emblem you should make use of on the battlefield. To close this out, **Roy is most definitely still our boy**.
 

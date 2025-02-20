@@ -22,7 +22,7 @@ published: True
 <br>
 
 # **Introduction**
-Celica represents the 2nd Fire Emblem Game: Gaiden and its 3DS Remake, Echoes. She is the first purely Magic-focused Emblem the Player acquires and is one of the only Magic-focused Emblems in the game. She specializes in increasing the raw magical damage of her wearer, providing tools to counter Corrupted Foes, and giving the occasional burst of extreme mobility. 
+Celica represents the 2nd Fire Emblem Game: **Gaiden** and its 3DS Remake, **Echoes**. She is the first purely Magic-focused Emblem the Player acquires and is one of the only Magic-focused Emblems in the game. She specializes in increasing the raw magical damage of her wearer, providing tools to counter Corrupted Foes, and giving the occasional burst of extreme mobility. 
 
 # **Initial Gameplay (Bond 1 - 10)** 
 
@@ -259,13 +259,17 @@ Last but not least we have <b>Ragnarok</b>. When you first obtain Celica, you ca
 
 <details>
 <summary> Explanation </summary>
-Celica's Echoes Engrave is purely defensive. That +50 Dodge makes whatever weapon you engrave with this into an 
-"Anti-Critical" weapon. If an enemy has a Killer Weapon, then equipping a weapon with the Echoes Engrave can shut down any chance they have of scoring a Critical Hit on you. <br><br>
+Celica's Echoes Engrave is purely defensive, with its +50 Dodge. This engraving has two main use cases. <br>
 
-Another application of the Echoes Engrave is "Weight Fixing". A weapon's Weight in Engage is very important as if the Weight exceeds a character's Build (BLD), they will incur a penalty to their Speed Stat based on the difference. Reducing the Weight of a weapon, even by 1 point, can mean doubling an enemy during battle. <br><br>
+<ul>
+<li>
+As an "<b>Anti-Critical</b>" weapon, if an enemy has a noticeably high Critical Rate, usually granted by a Killer Weapon, then equipping a weapon with the Echoes Engrave can shut down any chance they have of scoring a Critical Hit on you.
+</li><br>
 
-If you're trying to use heavier weapons like Steel or Silver weapons, the Levin Sword, or Tomes like Bolganone, put Celica's Engrave on that weapon. The -1 Might penalty is not a big deal compared to the -1 Weight bonus. It's a fair tradeoff when your Units lack the raw Build to double with these weapons naturally. 
-
+<li>
+"<b>Weight Fixing</b>" heavy weapons. In Engage, a weapon's Weight is very important as its Weight exceeds the Build (BLD) of the character wielding the weapon, the difference is dealt to the unit as a penalty on their Speed Stat. Reducing the Weight of a weapon, even by 1 point, can make a world of difference when it comes to doubling thresholds. If you're trying to use heavier weapons (Steel, Silver weapons, Levin Sword, Bolganone), then put Celica's Engrave on that weapon. The -1 Might penalty is not a big deal and is a fair tradeoff when your units lack the raw Build to double naturally with heavy weapons. 
+</li>
+</ul>
 
 </details>
 
@@ -310,7 +314,7 @@ If you're trying to use heavier weapons like Steel or Silver weapons, the Levin 
     <tr>
       <td>4</td>
       <td> <img src="/blog/img/celica/FE17_Tome_Precision_1_Icon.webp" alt="Pic" /><br>Tome Precision 1</td>
-      <td>Grants Hit/Avo+3 when using a Tome.</td>
+      <td>Grants Hit/Avoid+3 when using a Tome.</td>
       <td>100</td>
     </tr>
     <tr>
@@ -328,7 +332,7 @@ If you're trying to use heavier weapons like Steel or Silver weapons, the Levin 
     <tr>
       <td>7</td>
       <td><img src="/blog/img/celica/FE17_Tome_Precision_2_Icon.webp" alt="Pic" /><br>Tome Precision 2</td>
-      <td>Grants Hit/Avo+5 when using a Tome.</td>
+      <td>Grants Hit/Avoid+5 when using a Tome.</td>
       <td>300</td>
     </tr>
     <tr>
@@ -340,7 +344,7 @@ If you're trying to use heavier weapons like Steel or Silver weapons, the Levin 
     <tr>
       <td>9</td>
       <td><img src="/blog/img/celica/FE17_Tome_Precision_3_Icon.webp" alt="Pic" /><br>Tome Precision 3</td>
-      <td>Grants Hit/Avo+7 when using a Tome.</td>
+      <td>Grants Hit/Avoid+7 when using a Tome.</td>
       <td>700</td>
     </tr>
     <tr>
@@ -359,20 +363,30 @@ If you're trying to use heavier weapons like Steel or Silver weapons, the Levin 
 <details>
 <summary> Explanation </summary>
 
-Celica's Skill Inheritance focuses on boosting the raw Magical abilities of Units. This means dedicated Mages get the most value from Celica. Unfortunately, actually inheriting Celica's skills may prove difficult as Celica's more impactful Skills are stupidly expensive. <br><br>
+Celica's Skill Inheritance focuses on boosting the raw Magical abilities of Units. This means dedicated Mages get the most value from Celica. Unfortunately, actually inheriting Celica's skills may prove difficult as Celica's more impactful Skills are stupidly expensive. <br>
 
-<b>Resonance</b> is useful for Mages as it boosts their damage but that 2000 SP price tag is a deal breaker. This is a trend in Engage. Any Inheritable Skill that boosts damage, either directly or indirectly via boosting your raw Stats (Strength or Magic) will cost you a pretty SP penny. <br><br>
+<ul>
 
-Despite being dirt cheap, <b>Holy Stance</b> isn't worth inheriting on most Units. Only bouncing back 10% of the Damage taken isn't anything to write home about. However, that might change later on. <br><br>
+<li>
+<b>Resonance</b> is useful for Mages as it boosts their damage but that 2000 SP price tag is a deal breaker. This is a trend in Engage. Any Inheritable Skill that boosts damage, either directly or indirectly via boosting your raw Stats (Strength or Magic) will cost you a pretty SP penny.
+</li><br>
 
-Fittingly for a Magic-focused Emblem, Celica's Stat Skill is <b>Magic+</b>, and just like Resonance is expensive. Often times I don't find myself inheriting these skills as dedicated Mages in Engage are designed to kill Armored Units on their natural Magic stat alone. Armored Units have such low Resistance stats that the extra Magic would be overkill. <br><br>
+<li>
+Despite being dirt cheap, <b>Holy Stance</b> isn't worth inheriting on most Units. Only bouncing back 10% of the Damage taken isn't anything to write home about. However, that might change later on. </li><br>
 
-<b>Tome Precision</b> is Celica's Weapon Skill and I find this more useful than Magic+. These skills can be useful on Mages with accuracy issues, especially when using less accurate Tomes like Thunder, Elthunder, or Thoron. They are reasonably priced as well. <br><br>
+<li>
+Fittingly for a Magic-focused Emblem, Celica's Stat Skill is <b>Magic+</b>, and just like Resonance is expensive. Often times I don't find myself inheriting these skills as dedicated Mages in Engage are designed to kill Armored Units on their natural Magic stat alone. Armored Units have such low Resistance stats that the extra Magic would be overkill. </li><br>
 
-<b>Favorite Food</b> may be worth putting on someone if you enjoy using a particular Emblem on that specific Unit. For example, if you plan on using Marth's Mercurius for grinding Levels, having back-to-back Engages lets Marth's wielder rack up the EXP fast. <br><br>
+<li>
+<b>Tome Precision</b> is Celica's Weapon Skill and I find this more useful than Magic+. These skills can be useful on Mages with accuracy issues, especially when using less accurate Tomes like Thunder, Elthunder, or Thoron. They are reasonably priced as well. </li><br>
 
-Last but not least are Celica's Weapon Proficiencies. She gives a very useful combination. <b>Sword Proficiency and Tome Proficiency</b> are required to Reclass into the Mage Knight Class. As I've discussed before, Mage Knight is one of the better classes in Engage for its Mixed Attacker capabilities. Sword Proficiency isn't anything special as we can get this from Marth and many other Emblems. Tome Proficiency however is special as Celica is one of only two Emblems in the Base Game to grant this and much earlier than the other Emblem, making her your go-to if you want Tome Proficiency on someone.
+<li>
+<b>Favorite Food</b> may be worth putting on someone if you enjoy using a particular Emblem on that specific Unit. For example, if you plan on using Marth's Mercurius for grinding Levels, having back-to-back Engages lets Marth's wielder rack up the EXP fast. </li><br>
 
+<li>
+Last but not least are Celica's Weapon Proficiencies. She gives a very useful combination. <b>Sword Proficiency and Tome Proficiency</b> are required to Reclass into the Mage Knight Class. As I've discussed before, Mage Knight is one of the better classes in Engage for its Mixed Attacker capabilities. Sword Proficiency isn't anything special as we can get this from Marth and many other Emblems. Tome Proficiency however is special as Celica is one of only two Emblems in the Base Game to grant this and much earlier than the other Emblem, making her your go-to if you want Tome Proficiency on someone.</li>
+
+</ul>
 </details>
 
  
@@ -454,7 +468,7 @@ Last but not least are Celica's Weapon Proficiencies. She gives a very useful co
 <details>
 <summary> Explanation </summary>
 
-Remember earlier how I said Holy Stance wasn't anything special? That goes out the window because its upgraded versions <b>Holy Stance+ and Holy Stance++</b> are incredibly useful for 2 Reason. 1) The increase in reflected damage. 2) By the time you have access to these skills via completing Celica's Paralogue, almost every single generic enemy in Main Story Chapters is Corrupted. This means Holy Stance will be activating constantly during the Enemy Phase. I'd avoid putting this on Mages as they are always squishy but this skill is worth putting on bulkier units who see a lot of Enemy Phase combat, to give them some extra damage. <br><br>
+Remember earlier how I said Holy Stance wasn't anything special? That goes out the window because its upgraded versions <b>Holy Stance+ and Holy Stance++</b> are incredibly useful for 2 Reasons. 1) The increase in reflected damage. 2) By the time you have access to these skills via completing Celica's Paralogue, almost every single generic enemy in Main Story Chapters is Corrupted. This means Holy Stance will be activating constantly during the Enemy Phase. I'd avoid putting this on Mages as they are always squishy but this skill is worth putting on bulkier units who see a lot of Enemy Phase combat, to give them some extra damage. <br><br>
 
 Resonance upgrades to <b>Resonance+</b> and while I wish the damage boost was bigger, +3 Damage at the same cost of -1 HP is still solid. Though as before, be careful with this skill as that HP penalty can leave you with just enough HP that an enemy could kill you.
 
@@ -501,7 +515,7 @@ Resonance upgrades to <b>Resonance+</b> and while I wish the damage boost was bi
 
 Celica's final Engage Weapon is <b>Ragnarok</b>, the same weapon used for her Engage Attack, except now you can use it as a normal Tome that can follow up. This Engage Weapon is pretty alright by Bond 15 standards, though it is a bit heavy and Mage units don't usually have high enough Build stats to not be weighed down. Be wary of this as the speed penalty can get Celica's user doubled. Oddly enough, Ragnarok stands out among Bond 15 Weapons as it has no secondary effect. <br><br>
 
-I prefer sticking to Seraphim when using Celica's Engage. Remember that by the time you have access to Ragnarok, the Main Story Chapters are swimming in Corrupted Foes. This makes Seraphim objectively better with more Might (18 vs Ragnarok's 15) and is much lighter (4 vs Ragnarok's 12) for better chances of doubling. 
+I prefer sticking to Seraphim when using Celica's Engage. Remember that by the time you have access to Ragnarok, the Main Story Chapters are swimming in Corrupted Foes. This makes Seraphim objectively better with more Might (Seraphim's 18 vs Ragnarok's 15) and is much lighter (Seraphim's 4 vs Ragnarok's 12) for better chances of doubling. 
 
 
 </details>
@@ -542,7 +556,7 @@ I prefer sticking to Seraphim when using Celica's Engage. Remember that by the t
     <tr>
       <td>14</td>
       <td><img src="/blog/img/celica/FE17_Tome_Precision_4_Icon.webp" alt="Pic" /><br>Tome Precision 4</td>
-      <td>Grants Hit/Avo+10 when using a Tome.</td>
+      <td>Grants Hit/Avoid+10 when using a Tome.</td>
       <td>1000</td>
     </tr>
     <tr>
@@ -554,7 +568,7 @@ I prefer sticking to Seraphim when using Celica's Engage. Remember that by the t
     <tr>
       <td>17</td>
       <td><img src="/blog/img/celica/FE17_Tome_Precision_5_Icon.webp" alt="Pic" /><br>Tome Precision 5</td>
-      <td>Grants Hit/Avo+15 when using a Tome.</td>
+      <td>Grants Hit/Avoid+15 when using a Tome.</td>
       <td>2000</td>
     </tr>
     <tr>
@@ -583,14 +597,18 @@ I prefer sticking to Seraphim when using Celica's Engage. Remember that by the t
 <details>
 <summary> Explanation </summary>
 
-Celica's higher Inheritance is just upgrades of what she gives at lower bond levels. <br><br>
+Celica's higher Inheritance is just upgrades of what she gives at lower bond levels. <br>
 
-<b>Resonance+</b> and the <b>Magic+</b> Passives are still stupidly expensive but may be worth the SP if you're going for a Magic Nuke build.<br><br>
+<ul>
+<li>
+<b>Resonance+</b> and the <b>Magic+</b> Passives are still stupidly expensive but may be worth the SP if you're going for a Magic Nuke build.</li><br>
 
-The higher levels of <b>Tome Precision</b> are nice but they start to get rather expensive for the effect they provide. If I inherit these skills, I stop at Tome Precision 4 because the Hit/Avoid+15 from Tome Precision 5 does not justify that 2000 SP price tag. <br><br>
+<li>
+The higher levels of <b>Tome Precision</b> are nice but they start to get rather expensive for the effect they provide. If I inherit these skills, I stop at Tome Precision 4 because the Hit/Avoid+15 from Tome Precision 5 does not justify that 2000 SP price tag. </li><br>
 
-<b>Holy Stance+ and Holy Stance++</b> are a steal for how they're priced. The only issue is getting someone to Bond 18 with Celica. I guess it's worth it if you're willing to grind Skirmishes or use Bond Fragments.
-
+<li>
+<b>Holy Stance+ and Holy Stance++</b> are a steal for how they're priced. The only issue is getting someone to Bond 18 with Celica. I guess it's worth it if you're willing to grind Skirmishes or use Bond Fragments.</li>
+</ul>
 
 </details>
 

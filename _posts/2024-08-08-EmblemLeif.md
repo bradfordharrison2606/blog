@@ -457,17 +457,24 @@ Leif's <b>Genealogy Engraving</b> is better suited to units with high Build Stat
 <details>
 <summary> Explanation (AKA: Why Leif is also AMAZING!!!) </summary>
 
-Remember how I stated that Leif is an Emblem best suited for Utility? Well, look no further than Leif's Skill Inheritance. I make no exaggeration when I say that Leif has some of, if not THE best Skill Inheritance in the game bar none and it's not even a contest. <br><br>
+Remember how I stated that Leif is an Emblem best suited for Utility? Well, look no further than Leif's Skill Inheritance. I make no exaggeration when I say that Leif has some of, if not THE best Skill Inheritance in the game bar none and it's not even a contest. <br>
 
-The least impressive of Leif's Inheritance is his Weapon Skill <b>Knife Precision</b>. These can be a good way to make your Knife users (especially Thieves) more accurate and better Dodge Tanks. <br><br>
+<ul>
+<li>
+The least impressive of Leif's Inheritance is his Weapon Skill <b>Knife Precision</b>. These can be a good way to make your Knife users (especially Thieves) more accurate and better Dodge Tanks. </li><br>
 
-<b>Arms Shield</b> and its upgraded form can add a fair bit of bulk to your units and they aren't too expensive to inherit. Vantage is also rather cheap and that 500 SP is more than worth it, not only for regular use but also for setting the infamous Vantage+Wrath Combo. And this all comes without the baggage of wearing Leif's Ring. <br><br>
+<li>
+<b>Arms Shield</b> and its upgraded form can add a fair bit of bulk to your units and they aren't too expensive to inherit. Vantage is also rather cheap and that 500 SP is more than worth it, not only for regular use but also for setting the infamous Vantage+Wrath Combo. And this all comes without the baggage of wearing Leif's Ring. </li><br>
 
-Leif's Stat Skill, the <b>Build+</b> Skills are incredibly useful for pretty much the majority of your army, regardless of class. Having a high Build Stat decreases the chances of a unit being significantly weighed down by their weapons and a lot of the better weapons in Engage lean towards the heavy side when it comes to their Weight. The cherry on top is these skills are quite affordable for the sheer value they provide. However, everything we have discussed so far in this section cannot hold a candle to Leif's main claim to fame: His <b>Weapon Proficiencies</b>. <br><br>
+<li>
+Leif's Stat Skill, the <b>Build+</b> Skills are incredibly useful for pretty much the majority of your army, regardless of class. Having a high Build Stat decreases the chances of a unit being significantly weighed down by their weapons and a lot of the better weapons in Engage lean towards the heavy side when it comes to their Weight. The cherry on top is these skills are quite affordable for the sheer value they provide. However, everything we have discussed so far in this section cannot hold a candle to Leif's main claim to fame: His <b>Weapon Proficiencies</b>. </li><br>
 
-No, you are not hallucinating. Leif gives <b>SIX (6) Weapon Proficiencies</b> for Reclassing. To put this into perspective, Engage has a total of Eight (8) Weapon Proficiencies, and most Emblems on average, only grant 2. If you're wondering why Leif has so many Proficiencies under his belt, it's a reference to his promoted Master Knight Class in Genealogy of The Holy War where he could use 9 out of the 10 Weapon Types present in that game. <br><br>
+<li>
+No, you are not hallucinating. Leif gives <b>SIX (6) Weapon Proficiencies</b> for Reclassing. To put this into perspective, Engage has a total of Eight (8) Weapon Proficiencies, and most Emblems on average, only grant 2. If you're wondering why Leif has so many Proficiencies under his belt, it's a reference to his promoted Master Knight Class in Genealogy of The Holy War where he could use 9 out of the 10 Weapon Types present in that game. </li>
 
- I cannot stress enough how much of a difference Leif's mere presence makes for Reclassing. Leif opens up the potential for near-infinite Reclassing options for your entire army. The only Proficiencies Leif doesn't provide are Tomes and Arts. Tome Proficiency isn't a problem because, by the time you have Leif, you also have Celica and another magic-focused Emblem, both of whom provide Tome Proficiency. By the time you have Leif, you have access to almost EVERY single Class in the game, barring Qi Adept Classes. This alone more than makes up for Leif's terrible combat as no other Emblem in the game comes even close to this amount of Reclassing potential. 
+</ul>
+
+I cannot stress enough how much of a difference Leif's mere presence makes for Reclassing. Leif opens up the potential for near-infinite Reclassing options for your entire army. The only Proficiencies Leif doesn't provide are Tomes and Arts. Tome Proficiency isn't a problem because, by the time you have Leif, you also have Celica and another magic-focused Emblem, both of whom provide Tome Proficiency. By the time you have Leif, you have access to almost EVERY single Class in the game, barring Qi Adept Classes. This alone more than makes up for Leif's terrible combat as no other Emblem in the game comes even close to this amount of Reclassing potential. 
 
 </details>
 
