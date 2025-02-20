@@ -271,7 +271,7 @@ Let's close this section with some fun trivia. Both of Roy's initial Engage Weap
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/roy/Engrave-Roy.PNG" alt="Pic"><br><strong> Binding Engrave</strong></td> <!-- Image & Name  -->
+            <td><img src="{{ site.baseurl }}/img/roy/Engrave-Roy.png" alt="Pic"><br><strong> Binding Engrave</strong></td> <!-- Image & Name  -->
             <td>+2 </td> <!-- Might  -->
             <td>0 </td><!-- Hit  -->
             <td>0 </td> <!-- Crit  -->

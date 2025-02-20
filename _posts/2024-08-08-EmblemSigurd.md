@@ -257,7 +257,7 @@ The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/sigurd/Engrave-Sigurd.PNG" alt="Pic"><br><strong> Holy Engrave</strong></td> <!-- Image & Name  --> 
+            <td><img src="{{ site.baseurl }}/img/sigurd/Engrave-Sigurd.png" alt="Pic"><br><strong> Holy Engrave</strong></td> <!-- Image & Name  --> 
             <td>+1 </td> <!-- Might  -->
             <td>0 </td><!-- Hit  -->
             <td>0 </td> <!-- Crit  -->
