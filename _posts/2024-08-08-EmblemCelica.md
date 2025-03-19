@@ -18,7 +18,7 @@ published: True
 </div>
 
 
- <div class="evocation"> Care for us, Emblem of Echoes! </div>
+ <div class="evocation"><b> Care for us, Emblem of Echoes! </b></div>
 <br>
 
 # **Introduction**
@@ -198,20 +198,20 @@ As for the class bonuses, Dragons getting 3 Range is nice and the Mystical Bonus
       <td>l0</td>
       <td><img src="/blog/img/celica/CelicaRecoverFE17Sprite.webp" alt="Pic" /> <br /> <strong>Recover</strong></td>
       <td>40</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>*</td>
+      <td>*</td>
+      <td>*</td>
+      <td>*</td>
       <td>Healing Staff</td>
     </tr>
     <tr>
       <td>-</td>
       <td><img src="/blog/img/celica/RagnarokFE17Sprite.webp" alt="Pic" /> <br /> W.Ragnarok</td>
       <td>15</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>*</td>
+      <td>*</td>
+      <td>*</td>
+      <td>*</td>
       <td>Only used during Engage Attack. Cannot Miss/Follow-Up</td>
     </tr>
   </tbody>
@@ -248,10 +248,10 @@ Last but not least we have <b>Ragnarok</b>. When you first obtain Celica, you ca
         <tr>
             <td><img src="{{ site.baseurl }}/img/celica/EngraveCelica.png" alt="Pic"><br><strong>Echoes Engrave</strong></td> <!-- Image & Name  -->
             <td> -1 </td> <!-- Might  -->
-            <td> 0 </td><!-- Hit  -->
-            <td> 0 </td> <!-- Crit  -->
+            <td> * </td><!-- Hit  -->
+            <td> * </td> <!-- Crit  -->
             <td>-1</td> <!-- Weight  -->
-            <td> 0 </td> <!-- Avoid  -->
+            <td> * </td> <!-- Avoid  -->
             <td> +50 </td> <!-- Dodge  -->
         </tr>
     </table>
@@ -393,6 +393,8 @@ Last but not least are Celica's Weapon Proficiencies. She gives a very useful co
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 20 </b></div>
 
 ## Stat Bonuses
 

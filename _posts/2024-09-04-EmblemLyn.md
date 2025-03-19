@@ -18,7 +18,7 @@ published: true
 </div>
 
 
- <div class="evocation">Sweep across, Emblem of Blazing! </div>
+ <div class="evocation"><b> Sweep across, Emblem of Blazing! </b></div>
 <br>
 
 # **Introduction**
@@ -254,8 +254,8 @@ Lyn's signature <b>Mani Katti</b> is also disappointing. It has the same Cavalry
             <td> +40</td><!-- Hit  -->
             <td> +20</td> <!-- Crit  -->
             <td> -1</td> <!-- Weight  -->
-            <td> -</td> <!-- Avoid  -->
-            <td> -</td> <!-- Dodge  -->
+            <td> *</td> <!-- Avoid  -->
+            <td> *</td> <!-- Dodge  -->
         </tr>
     </table>
 </div>
@@ -366,6 +366,8 @@ Lyn's Skill Inheritance is reasonably affordable across the board, especially fo
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 11 </b></div>
 
 ## Stat Bonuses
 

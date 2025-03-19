@@ -330,8 +330,8 @@ Finally, the only Engage Weapon we get from Chrom is his version of the iconic <
         <tr>
             <td><img src="{{ site.baseurl }}/img/chrobin/engrave-Chrom.png" alt="Pic"><br><strong>Bonds Engrave</strong></td> <!-- Image & Name  -->
             <td>+1 </td> <!-- Might  -->
-            <td>0 </td><!-- Hit  -->
-            <td>0 </td> <!-- Crit  -->
+            <td>* </td><!-- Hit  -->
+            <td>* </td> <!-- Crit  -->
             <td>-1 </td> <!-- Weight  -->
             <td>+20 </td> <!-- Avoid  -->
             <td>+20 </td> <!-- Dodge  -->

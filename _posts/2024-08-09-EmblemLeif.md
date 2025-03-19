@@ -18,7 +18,7 @@ published: true
 </div>
 
 
- <div class="evocation"> Free us, Emblem of Genealogy! </div>
+ <div class="evocation"><b> Free us, Emblem of Genealogy! </b></div>
 <br>
 
 
@@ -342,10 +342,10 @@ While Leif's kit has been rather lackluster so, I can assure you there's nowhere
             <td><img src="{{ site.baseurl }}/img/leif/Engrave-Leif.png" alt="Pic"><br><strong> Genealogy Engrave</strong></td> <!-- Image & Name  -->
             <td>+1 </td> <!-- Might  -->
             <td>+20 </td><!-- Hit  -->
-            <td> - </td> <!-- Crit  -->
+            <td> * </td> <!-- Crit  -->
             <td>+1 </td> <!-- Weight  -->
             <td>+10 </td> <!-- Avoid  -->
-            <td> - </td> <!-- Dodge  -->
+            <td> * </td> <!-- Dodge  -->
         </tr>
     </table>
 </div>
@@ -483,6 +483,8 @@ I cannot stress enough how much of a difference Leif's mere presence makes for R
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 17 </b></div>
 
 ## Stat Bonuses
 

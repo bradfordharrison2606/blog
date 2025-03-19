@@ -18,7 +18,7 @@ published: false
 </div>
 
 
- <div class="evocation"> </div>
+ <div class="evocation"><b>  </b></div>
 <br>
 
 # **Introduction**
@@ -323,6 +323,8 @@ published: false
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter  </b></div>
 
 ## Stat Bonuses
 

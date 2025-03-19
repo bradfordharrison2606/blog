@@ -20,7 +20,7 @@ published: true
 </div>
 
 
- <div class="evocation"> Rise Up, Emblem of Binding! </div>
+ <div class="evocation"><b> Rise Up, Emblem of Binding! </b></div>
 <br>
 
 * TOC
@@ -96,7 +96,7 @@ Roy only has 2 Sync Skills and while this might seem like a letdown, make no mis
 
 Roy's signature Sync Skill is <b>Hold Out</b> and it is arguably one of the most powerful Sync Skills in Engage. If you're familiar with the Focus Sash item or the ability Sturdy from the Pokemon Games, then Hold Out functions similarly. As long as you keep Roy's bearer above a certain HP threshold and an enemy's attack would have killed them normally, they are guaranteed to survive. This also applies if the enemy attacks multiple times in a single combat. If an enemy's first attack were to reduce you to 1 HP, Hold Out will trigger and force ALL of their subsequent attacks to miss (or deal no damage in certain situations). <br><br>
 
-In simple terms, provided you stay above the relevant HP Threshold, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. If you're clever with placing Roy's bearer in favorable terrain (preferably those with a bonus to Avoid) and keep them topped off on HP, you effectively have a nigh-unkillable warrior. Can you imagine how annoying this skill would be in the enemy's hands? On an unrelated note, one thing to keep in the back of your mind with Hold Out is that Engage Attacks and Chain Attacks will ignore this skill. <br><br>
+In simple terms, provided you stay above the relevant HP Threshold, Roy's bearer <b>CANNOT BE KILLED BY A SINGLE ENEMY</b>. If you're clever with placing Roy's bearer in favorable terrain (preferably those with a bonus to Avoid) and keep them topped off on HP, you effectively have a nigh-unkillable warrior. Can you imagine how annoying this skill would be in the enemy's hands? On an unrelated note, one thing to keep in the back of your mind with Hold Out is that Engage Attacks will ignore this skill. <br><br>
 
 <b>Advance</b> might pale in comparison to the sheer power of Hold Out but it is still quite useful. Often times in Engage, you'll find your melee units falling one space short of striking distance of an enemy. Advance fixes this by giving you that extra reach. However, please remember that Advance only works if you are EXACTLY one (1) space away from the target. It does not work on enemies who are placed diagonally to you as the game counts that as 2 spaces. <br><br>
 
@@ -273,11 +273,11 @@ Let's close this section with some fun trivia. Both of Roy's initial Engage Weap
         <tr>
             <td><img src="{{ site.baseurl }}/img/roy/Engrave-Roy.png" alt="Pic"><br><strong> Binding Engrave</strong></td> <!-- Image & Name  -->
             <td>+2 </td> <!-- Might  -->
-            <td>0 </td><!-- Hit  -->
-            <td>0 </td> <!-- Crit  -->
+            <td>* </td><!-- Hit  -->
+            <td>* </td> <!-- Crit  -->
             <td>+8 </td> <!-- Weight  -->
             <td>-30 </td> <!-- Avoid  -->
-            <td>0 </td> <!-- Dodge  -->
+            <td>* </td> <!-- Dodge  -->
         </tr>
     </table>
 </div>
@@ -397,6 +397,8 @@ Lastly, Roy grants Sword Proficiency which isn't anything new. However, what mak
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 19 </b></div>
 
 ## Stat Bonuses
 

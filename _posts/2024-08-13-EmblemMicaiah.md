@@ -21,7 +21,7 @@ published: true
 </div>
 
 
- <div class="evocation"> Heal us, Emblem of Dawn!</div>
+ <div class="evocation"><b> Heal us, Emblem of Dawn! </b></div>
 <br>
 
 # **Introduction**
@@ -244,8 +244,8 @@ Micaiah's Engage Weapons aren't bad by any means. However, the issue lies in tha
         <tr>
             <td><img src="{{ site.baseurl }}/img/micaiah/Engrave-Micaiah.png" alt="Pic"><br><strong> Dawn Engrave</strong></td> <!-- Image & Name  -->
             <td>-3 </td> <!-- Might  -->
-            <td> 0 </td><!-- Hit  -->
-            <td> 0 </td> <!-- Crit  -->
+            <td> * </td><!-- Hit  -->
+            <td> * </td> <!-- Crit  -->
             <td>-1 </td> <!-- Weight  -->
             <td>+40 </td> <!-- Avoid  -->
             <td>+20 </td> <!-- Dodge  -->
@@ -370,6 +370,8 @@ Lastly, for Proficiencies, Micaiah gives three (3), a rarity for any (Non-DLC) E
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 19 </b></div>
 
 ## Stat Bonuses
 

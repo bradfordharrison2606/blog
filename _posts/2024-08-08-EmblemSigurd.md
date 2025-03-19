@@ -18,7 +18,7 @@ published: true
 </div>
 
 
- <div class="evocation"> Provide for us, Emblem of The Holy War! </div>
+ <div class="evocation"><b> Provide for us, Emblem of The Holy War! </b></div>
 <br>
 
 # **Introduction**
@@ -259,11 +259,11 @@ The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in
         <tr>
             <td><img src="{{ site.baseurl }}/img/sigurd/Engrave-Sigurd.png" alt="Pic"><br><strong> Holy Engrave</strong></td> <!-- Image & Name  --> 
             <td>+1 </td> <!-- Might  -->
-            <td>0 </td><!-- Hit  -->
-            <td>0 </td> <!-- Crit  -->
+            <td>* </td><!-- Hit  -->
+            <td>* </td> <!-- Crit  -->
             <td>-1 </td> <!-- Weight  -->
             <td>+20 </td> <!-- Avoid  -->
-            <td>0 </td> <!-- Dodge  -->
+            <td>* </td> <!-- Dodge  -->
         </tr>
     </table>
 </div>
@@ -390,6 +390,8 @@ Lastly, Sigurd gives both <b>Lance Proficiency</b> and <b>Sword Proficiency</b>.
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 17 </b></div>
 
 ## Stat Bonuses
 

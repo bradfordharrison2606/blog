@@ -18,7 +18,7 @@ published: true
 </div>
 
 
- <div class="evocation"> Shine On! Emblem of Beginnings! </div>
+ <div class="evocation"><b> Shine On! Emblem of Beginnings! </b></div>
 <br>
 
 # **Introduction**
@@ -249,7 +249,7 @@ Overall, Marth's Initial Engage Weapons are pretty good across the board. Use th
             <td>+1 </td> <!-- Might  -->
             <td>+10 </td><!-- Hit  -->
             <td>+10 </td> <!-- Crit  -->
-            <td>0 </td> <!-- Weight  -->
+            <td>* </td> <!-- Weight  -->
             <td>+5 </td> <!-- Avoid  -->
             <td>+5 </td> <!-- Dodge  -->
         </tr>
@@ -382,6 +382,8 @@ Lastly, Marth's only Weapon Proficiency is <b>Sword Proficiency</b> which may se
 
 
 # **Post Paralogue Gameplay (Bond 11 - 20)** 
+
+<div class="evocation"><b> Available after Chapter 22 </b></div>
 
 ## Stat Bonuses
 
