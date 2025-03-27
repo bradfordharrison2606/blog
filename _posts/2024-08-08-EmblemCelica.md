@@ -540,7 +540,7 @@ I prefer sticking to Seraphim when using Celica's Engage. Remember that by the t
     <tr>
       <td>11</td>
       <td> <img src="/blog/img/skillinherit.webp" alt="Pic" /><br> Strong Bond</td>
-      <td>Unit stays engaged 1 additional turns (4 Turns)</td>
+      <td>Unit stays Engaged for 1 additional Turn (4 Turns)</td>
       <td>Auto</td>
     </tr>
     <tr>

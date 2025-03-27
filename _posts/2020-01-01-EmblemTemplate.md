@@ -98,7 +98,7 @@ published: false
 
 ## Engage Skill
 
-| ![Divine Speed Pic]({{ site.baseurl }}/img/replace/divinespeed.webp) <br> **** |  |
+| ![Engage Skill Pic]({{ site.baseurl }}/img/replace/) <br> **** |  |
 
 
 <div class="table-container">
@@ -133,7 +133,7 @@ published: false
 
 ## Engage Attack
 
-| ![Lodestar Rush Pic]({{ site.baseurl }}/img/replace/lodestarrush.webp) <br> **** |  |
+| ![Engage Attack Pic]({{ site.baseurl }}/img/replace/) <br> **** |  |
 
 <div class="table-container">
     <table>
@@ -151,6 +151,22 @@ published: false
         </tr>
         <tr>
             <td>Mystical </td> <!-- Unit Type  -->
+            <td></td>
+        </tr>
+        <tr>
+            <td>Armored </td> <!-- Unit Type  -->
+            <td></td>
+        </tr>
+        <tr>
+            <td>Qi Adept </td> <!-- Unit Type  -->
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cavalry </td> <!-- Unit Type  -->
+            <td></td>
+        </tr>
+        <tr>
+            <td>Flying </td> <!-- Unit Type  -->
             <td></td>
         </tr>
     </table>
@@ -438,7 +454,7 @@ published: false
         <tr>
             <td>11 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Strong Bond   </td> <!-- Skill  -->
-            <td>Unit stays engaged 1 additional turns (4 Turns) </td> <!-- Effect  -->
+            <td>Unit stays Engaged for 1 additional Turn (4 Turns) </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
         </tr>
         <tr>

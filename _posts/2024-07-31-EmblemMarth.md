@@ -504,7 +504,7 @@ HOWEVER, by the time you have access to Falchion via completing Marth's Paralogu
         <tr>
             <td>11 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Strong Bond   </td> <!-- Skill  -->
-            <td>Unit stays engaged 1 additional turns (4 Turns) </td> <!-- Effect  -->
+            <td>Unit stays Engaged for 1 additional Turn (4 Turns) </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
         </tr>
         <tr>
@@ -604,7 +604,7 @@ The downside of this Build is there are no playable Covert Classes in Engage who
 <details>
 <summary> Who needs the Rapier when you have a Levin Sword? </summary>
 
-The <b>Levin Sword</b> is one of the best weapons in Engage and when combined with Marth's Break Defenses and Divine Speed, these swords can pump out respectable damage numbers. This is especially got against Armored Foes. While Armored Units can't be Broken via Weapon Triangle Advantage, their Resistance stats are so low that the Levin Sword will shred through them like paper, even without Break Defenses activating. 
+The <b>Levin Sword</b> is one of the best weapons in Engage and when combined with Marth's Break Defenses and Divine Speed, these swords can pump out respectable damage numbers. This is especially good against Armored Foes. While Armored Units can't be Broken via Weapon Triangle Advantage, their Resistance stats are so low that the Levin Sword will shred through them like paper, even without Break Defenses activating. 
 
 For this build, I recommend using a <b>Sword Mage Knight or Sword Griffin Knight</b> as both classes are Mixed Attackers with good Strength and Magic Stats. While Cavalry and Flying Units don't get any bonuses from Marth, this build more than makes up for it.  
 

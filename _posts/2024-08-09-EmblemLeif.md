@@ -404,7 +404,7 @@ Leif's <b>Genealogy Engraving</b> is better suited to units with high Build Stat
             <td>Grants Hit/Avoid+3 when using a Knife </td> <!-- Effect  -->
             <td>100 </td> <!-- SP Cost -->
         </tr>
-           <tr>
+        <tr>
             <td>4 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/knifeprof.PNG" alt="Pic"><br> Knife Proficiency </td> <!-- Skill  -->
             <td>Proficiency with Knives. Required for promotion to certain Classes</td> <!-- Effect  -->
@@ -422,7 +422,8 @@ Leif's <b>Genealogy Engraving</b> is better suited to units with high Build Stat
             <td>Grants Build+4 </td> <!-- Effect  -->
             <td>1000 </td> <!-- SP Cost -->
         </tr>
-        <td>6 </td> <!-- Bond Level  -->
+        <tr>
+            <td>6 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/staffprof.PNG" alt="Pic"><br> Staff Proficiency </td> <!-- Skill  -->
             <td>Proficiency with Staves. Required for promotion to certain Classes </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
@@ -558,7 +559,7 @@ At higher Bond Levels, Leif gives the final versions of his primary Sync Skills.
         <tr>
             <td>11 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Strong Bond   </td> <!-- Skill  -->
-            <td>Unit stays engaged 1 additional turns (4 Turns) </td> <!-- Effect  -->
+            <td>Unit stays Engaged for 1 additional Turn (4 Turns) </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
         </tr>
         <tr>
@@ -595,7 +596,7 @@ At higher Bond Levels, Leif gives the final versions of his primary Sync Skills.
             <td>18 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/leif/FE17_Vantage3B_Icon.webp" alt="Pic"><br>Vantage++ </td> <!-- Skill  -->
             <td> If unit’s HP is 75% or less and foe initiates combat, unit can counter before foe’s first attack. </td> <!-- Effect  -->
-            <td> 1000 </td> <!-- SP Cost -->
+            <td> 2000 </td> <!-- SP Cost -->
         </tr>
         <tr>
             <td>19 </td> <!-- Bond Level  -->

@@ -596,7 +596,7 @@ Furthermore, remember how I said Twin Strike is great for deleting Corrupted Wyr
         <tr>
             <td>11 </td> <!-- Bond Level  -->
             <td> <img src="{{ site.baseurl }}/img/skillinherit.webp " alt="Pic"><br>Strong Bond   </td> <!-- Skill  -->
-            <td>Unit stays engaged 1 additional turns (4 Turns) </td> <!-- Effect  -->
+            <td>Unit stays Engaged for 1 additional Turn (4 Turns) </td> <!-- Effect  -->
             <td>Auto </td> <!-- SP Cost -->
         </tr>
         <tr>
