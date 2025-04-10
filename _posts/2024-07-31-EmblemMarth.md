@@ -233,7 +233,7 @@ Overall, Marth's Initial Engage Weapons are pretty good across the board. Use th
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

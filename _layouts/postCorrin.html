@@ -92,6 +92,12 @@ layout: "wrapper"
     max-width: 100%;
 }
 
+.table-container-engrave 
+{
+    background-color: #eee;
+    overflow-x: auto;
+    max-width: 100%;
+}
 
 
 
@@ -173,6 +179,59 @@ th {
     background-color: #f4f4f4;
     font-size: 1.3em;
 }
+
+/* Emblem Images */
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0; /* Ensures there's no padding */
+    margin: 0; /* Removes any default margin */
+}
+
+img.centered-image {
+    display: block;
+    margin: 0 auto;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+    float: left; 
+    width: 50%; 
+    padding: 5px; 
+    display: flex; 
+    justify-content: center; /* Centers the images horizontally */ 
+    align-items: center; /* Centers the images vertically */ 
+    height: 75%; /* Ensures the flexbox takes the full height */
+}
+
+.Thirdcolumn {
+    float: left; 
+    width: 33.3%; 
+    padding: 5px; 
+    display: flex; 
+    justify-content: center; /* Centers the images horizontally */ 
+    align-items: center; /* Centers the images vertically */ 
+    height: 75%; /* Ensures the flexbox takes the full height */
+}
+
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: ""; 
+    clear: both; 
+    display: table;
+}
+
+:root { --sidebar-bg-color: {{ page.backgroundcolor }}; }
+
+
+
 
 /* Code */
 pre, code {

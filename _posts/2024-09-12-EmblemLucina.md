@@ -293,7 +293,7 @@ Lucina gives us the 3rd variant of the Rapier, the <b>Noble Rapier</b>. Compared
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

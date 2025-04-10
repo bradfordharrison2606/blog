@@ -253,7 +253,7 @@ Ike's <b>Hammer</b> is very different from a regular Hammer. Firstly, it's a Sma
             <th>Dodge</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/img/ike/Engrave-Ike.png" alt="Pic"><br><strong> Engrave</strong></td> <!-- Image & Name  -->
+            <td><img src="{{ site.baseurl }}/img/ike/Engrave-Ike.png" alt="Pic"><br><strong>Radiance Engrave</strong></td> <!-- Image & Name  -->
             <td> +3</td> <!-- Might  -->
             <td>* </td><!-- Hit  -->
             <td>* </td> <!-- Crit  -->

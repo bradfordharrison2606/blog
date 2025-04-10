@@ -234,7 +234,7 @@ Last but not least we have <b>Ragnarok</b>. When you first obtain Celica, you ca
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

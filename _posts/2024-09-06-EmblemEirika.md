@@ -284,7 +284,7 @@ The <b>Wind Sword</b> is another example of good magical weapons in Engage. Unli
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

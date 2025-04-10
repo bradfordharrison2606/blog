@@ -245,7 +245,7 @@ The <b>Brave Lance</b> is an Engage Weapon I'm not too fond of. Brave Weapons in
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

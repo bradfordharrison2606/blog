@@ -230,7 +230,7 @@ Micaiah's Engage Weapons aren't bad by any means. However, the issue lies in tha
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

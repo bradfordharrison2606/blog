@@ -237,7 +237,7 @@ Lyn's signature <b>Mani Katti</b> is also disappointing. It has the same Cavalry
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>

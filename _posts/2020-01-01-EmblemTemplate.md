@@ -81,9 +81,6 @@ published: false
     </table>
 </div>
 
-
-
-
 <details>
 <summary> Explanation </summary>
 
@@ -157,6 +154,10 @@ published: false
             <td>Armored </td> <!-- Unit Type  -->
             <td></td>
         </tr>
+        <tr>
+            <td>Covert </td> <!-- Unit Type  -->
+            <td></td>
+        </tr>        
         <tr>
             <td>Qi Adept </td> <!-- Unit Type  -->
             <td></td>
@@ -232,7 +233,7 @@ published: false
 
 ## Engraving
 
-<div class="table-container">
+<div class="table-container-engrave">
     <table>
         <tr>
             <th>Name</th>
