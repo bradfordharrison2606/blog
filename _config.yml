@@ -33,12 +33,16 @@ github_username:
 #This is the default minima theme that used post, page, about, home, etc. for the various pages. 
 theme: minima
 #theme: jekyll-theme-cayman #uses default as the layout for all pages. Check the related Github page
+
+
 plugins:
   - jekyll-feed
   - jekyll-toc
   - jekyll-seo-tag
+  #- jekyll-paginate
 
-
+#paginate: 5
+#paginate_path: "/blog/page:num"
 
 
 # Defining my Custom Default Front Matter
@@ -50,6 +54,9 @@ defaults:
     values:
       layout: "post"
       # title: "My Title"
+
+#exclude:
+ # - _posts/2024-09-18-13th-Emblem.md
 
 
 
@@ -76,3 +83,8 @@ defaults:
 #   - vendor/ruby/
 
 favicon: "{{ site.baseurl }}/img/logo.ico"
+
+
+
+
+

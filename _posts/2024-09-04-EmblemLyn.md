@@ -51,7 +51,7 @@ Lyn represents the 2nd of the GBA Fire Emblems and the 1st Fire Emblem to be rel
     </table>
 </div>
 
-Wearing the Ring of the Lady of the Plains grants boosts to Dexterity, Speed, and Resistance. The Speed boost is the highlight here as it's the one stat all Combat Units appreciate as it makes it much easier to meet doubling thresholds.
+Wearing the Ring of the Lady of the Plains grants boosts to **Dexterity, Speed**, and **Resistance**. The Speed boost is the highlight here as it's the one stat all Combat Units appreciate as it makes it much easier to meet doubling thresholds.
 
 
 

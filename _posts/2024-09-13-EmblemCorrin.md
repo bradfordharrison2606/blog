@@ -51,7 +51,7 @@ Corrin represents the 2nd of the 3DS Fire Emblem Games: **Fates**. On first impr
     </table>
 </div>
 
-Wearing the Ring of the Crux of Fate grants boosts to HP, Magic, and Resistance. The HP boost is especially nice as it adds a considerable amount of bulk to her bearer. Considering that the rest of her stat boosts make her lean toward Mages who have low HP, that extra HP is even more appreciated. 
+Wearing the Ring of the Crux of Fate grants boosts to **HP, Magic**, and **Resistance**. The HP boost is especially nice as it adds a considerable amount of bulk to her bearer. Considering that the rest of her stat boosts make her lean toward Mages who have low HP, that extra HP is even more appreciated. 
 
 
 ## Sync Skills - Dragon Vein

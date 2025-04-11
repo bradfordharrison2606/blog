@@ -50,7 +50,7 @@ Ike (despite his appearance and gameplay suggesting otherwise) represents the 1s
     </table>
 </div>
 
-Wearing the Ring of the Radiant Hero boosts HP, Strength, and Defense. These stat boosts synergize well with Ike's Tank/DPS play style but the rest of his kit has so much destructive power that his stat boosts pale in comparison. 
+Wearing the Ring of the Radiant Hero boosts **HP, Strength**, and **Defense**. These stat boosts synergize well with Ike's Tank/DPS play style but the rest of his kit has so much destructive power that his stat boosts pale in comparison. 
 
 
 

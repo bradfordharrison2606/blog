@@ -51,7 +51,7 @@ Lucina represents the 1st of the 3DS Fire Emblem Games: **Awakening**. She is a 
     </table>
 </div>
 
-Wearing the Ring of the Princess Exalt increases Dexterity, Speed, and Resistance. While it might be disappointing that she offers no offensive boosts like Strength or Magic, she doesn't need them as she is a Support Emblem. Furthermore, that boost to Speed and Resistance works well with one of her Sync Skills but we'll discuss that later. 
+Wearing the Ring of the Princess Exalt increases **Dexterity, Speed**, and **Resistance**. While it might be disappointing that she offers no offensive boosts like Strength or Magic, she doesn't need them as she is a Support Emblem. Furthermore, that boost to Speed and Resistance works well with one of her Sync Skills but we'll discuss that later. 
 
 
 ## Quick Refresher: Chain Attacks and Chain Guard

@@ -49,7 +49,7 @@ However, Leif's viability as an Emblem changes greatly once you realize somethin
     </table>
 </div>
 
-Wearing the Ring of the Sage Lord grants bonuses to HP, Defense, and most importantly, **Build**. Remember back in Sigurd's profile where I said there are only 3 Emblems who passively boost Build? Leif is one of those Emblems and he gives the biggest Build bonus by fair. However, his boosts to Build don't stop at wearing his ring but that's for later.
+Wearing the Ring of the Sage Lord grants bonuses to **HP, Defense**, and most importantly, **Build**. Remember back in Sigurd's profile where I said there are only 3 Emblems who passively boost Build? Leif is one of those Emblems and he gives the biggest Build bonus by fair. However, his boosts to Build don't stop at wearing his ring but that's for later.
 
 
 ## Sync Skills

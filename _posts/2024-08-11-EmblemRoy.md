@@ -58,7 +58,7 @@ Roy represents the 1st of the GBA Fire Emblem Games: **Binding Blade** (Or **Swo
     </table>
 </div>
 
-Wearing the Ring of the Young Lion grants boosts to Strength and Resistance along with a significant boost to HP. When compared to other Emblems, Roy gives the 2nd largest HP boost at equivalent Bond Levels. 
+Wearing the Ring of the Young Lion grants boosts to **Strength** and **Resistance** along with a significant boost to **HP**. When compared to other Emblems, Roy gives the 2nd largest HP boost at equivalent Bond Levels. 
 
 
 ## Sync Skills

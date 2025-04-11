@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="icon" type="image/x-icon" href="/blog/img/logo.ico">
+
+
+<style>
+
+/* Site Header */
+.site-header {
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #fff;
+  padding: 1rem 0;
+  font-family: system-ui, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-branding {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.site-logo {
+  height: 40px;
+  width: auto;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.site-nav a {
+  margin-left: 1.5rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover {
+  color: #007acc;
+}
+
+
+/* Post List */
+.post-list {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: system-ui, sans-serif;
+  background-color: #fdfdfd;
+}
+
+.post-list ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-item {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.post-item:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.post-item a {
+  text-decoration: none;
+  color: #2c3e50;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.post-item a:hover {
+  color: #007acc;
+}
+
+
+
+
+/* Footer Section */
+.site-footer {
+  border-top: 1px solid #e0e0e0;
+  background-color: #fdfdfd;
+  padding: 2rem 0;
+  font-family: system-ui, sans-serif;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.site-footer .container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-left,
+.footer-right {
+  margin-bottom: 1rem;
+}
+
+.footer-left a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.footer-left a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+/* Pagination */
+.pagination {
+  margin-top: 2rem;
+  text-align: center;
+  font-family: system-ui, sans-serif;
+}
+
+.page-link,
+.page-number {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #007acc;
+}
+
+.page-number.current {
+  font-weight: bold;
+  color: #333;
+}
+
+
+
+</style>
+
+</head>
+
+
+<body>
+
+    <header class="site-header">
+        <div class="container">
+          <div class="site-branding">
+                
+            <a href =" {{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/img/logo.ico" alt="Site Logo" class="site-logo">
+            </a>
+                
+            <span class="site-title">{{ site.title }}</span>
+          
+        </div>
+          <nav class="site-nav">
+            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/donate">Donate</a>
+          </nav>
+        </div>
+      </header>
+      
+      <div class="post-list">    
+        <ul>
+          {% for post in site.posts %}
+            {% unless post.spoiler %}
+              <li class="post-item">
+                <a href ="{{ site.baseurl }}{{ post.url}}"> {{ post.title }}</a>
+              </li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+    </div>
+<!--   <div class="post-list">
+        <ul>
+        <p>Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+          {% for post in paginator.posts %}
+            {% unless post.spoiler %}
+              <li class="post-item">
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+      </div>
+      
+
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a class="page-link" href="{{ paginator.previous_page_path }}">← Previous</a>
+        {% endif %}
+      
+        {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+            <span class="page-number current">{{ page }}</span>
+          {% else %}
+            <a class="page-number" href="{{ paginator.paginate_path | replace: ':num', page }}">{{ page }}</a>
+          {% endif %}
+        {% endfor %}
+      
+        {% if paginator.next_page %}
+          <a class="page-link" href="{{ paginator.next_page_path }}">Next →</a>
+        {% endif %}
+      </div>
+      
+-->   
+
+
+<footer class="site-footer">
+    <div class="container">
+      <div class="footer-left">
+        <div>{{ site.title }}</div>
+        <a href="{{ site.email }}">{{ site.email }}</a>
+      </div>
+      <div class="footer-right">
+        {{ site.description }}
+      </div>
+    </div>
+  </footer>
+  
+
+
+
+
+</body>

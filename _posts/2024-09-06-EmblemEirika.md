@@ -59,7 +59,7 @@ Eirika (& Ephraim) represents the 3rd and final GBA Fire Emblem Game: **The Sacr
     </table>
 </div>
 
-Wearing the Ring of the Azure Twins boosts Magic, Dexterity, and Luck. That Magic boost may seem out of place but as you'll see, it synergizes with Eirika and Ephraim's Gameplay a bit. 
+Wearing the Ring of the Azure Twins boosts **Magic, Dexterity**, and **Luck**. That Magic boost may seem out of place but as you'll see, it synergizes with Eirika and Ephraim's Gameplay a bit. 
 
 
 ## Sync Skills

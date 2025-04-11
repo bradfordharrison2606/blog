@@ -55,7 +55,7 @@ Sigurd represents the 1st Game of the Jugdral Duology: **Genealogy of the Holy W
 
 
 
-Wearing the Ring of the Holy Knight grants boosts to Dexterity, Defense, and Build. The boost to Build is incredibly nice as Build is one of the more difficult stats to increase without outside help from other Emblems. Sigurd is one of only three Emblems who passively boosts Build and the 3rd is paid DLC. However, the most interesting thing about Sigurd's stats boosts is that boost to Movement. Getting +1 MOV from just wearing Sigurd's Ring is a lot more powerful than you would expect. 
+Wearing the Ring of the Holy Knight grants boosts to **Dexterity, Defense**, and **Build**. The boost to Build is incredibly nice as Build is one of the more difficult stats to increase without outside help from other Emblems. Sigurd is one of only three Emblems who passively boosts Build and the 3rd is paid DLC. However, the most interesting thing about Sigurd's stats boosts is that boost to Movement. Getting +1 MOV from just wearing Sigurd's Ring is a lot more powerful than you would expect. 
 
 
 ## Sync Skills

@@ -51,7 +51,7 @@ Marth represents the Archanea Games, specifically the 1st Game **Shadow Dragon a
     </table>
 </div>
 
-Wearing the Ring of the Hero King grants its wearer boosts to Strength, Dexterity, and Speed, which are all stats any Combat Unit would want. Not only does it give their physical attacks more punch but it makes them more accurate and increases their chances of doubling the enemy.
+Wearing the Ring of the Hero King grants its wearer boosts to **Strength, Dexterity**, and **Speed**, which are all stats any Combat Unit would want. Not only does it give their physical attacks more punch but it makes them more accurate and increases their chances of doubling the enemy.
 
 
 ## Sync Skills

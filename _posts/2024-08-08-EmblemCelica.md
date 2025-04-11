@@ -48,7 +48,7 @@ Celica represents the 2nd Fire Emblem Game: **Gaiden** and its 3DS Remake, **Ech
     </table>
 </div>
 
-Wearing the Ring of the Caring Princess grants boosts to Strength, Magic, and Resistance. The latter two stats are ones dedicated Mages always want more of. That increase to Strength might seem out of place, but there are a few classes in Engage that are Mixed Attackers who can switch between Physical and Magical attacks. These include Mage Knights, Griffin Knights, and the special Vidame Class. 
+Wearing the Ring of the Caring Princess grants boosts to **Strength, Magic**, and **Resistance**. The latter two stats are ones dedicated Mages always want more of. That increase to Strength might seem out of place, but there are a few classes in Engage that are Mixed Attackers who can switch between Physical and Magical attacks. These include Mage Knights, Griffin Knights, and the special Vidame Class. 
 
 ## Sync Skills
 
