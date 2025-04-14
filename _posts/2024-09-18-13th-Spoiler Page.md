@@ -15,11 +15,23 @@ published: true
 <div class="evocation">
 <b>
   The following profile contains massive, unmarked spoilers for Fire Emblem Engage. <br>
+  <b>Have you completed Chapter 22: The Fell and The Divine</b>?
 
-  If you have not completed Chapter 22: The Fell and the Divine, <a href="{{ site.baseurl }}/">turn back now!</a> <br>
-
-  If you have completed Chapter 22, <a href="{{ site.baseurl }}/Emblems/13th">then proceed to Character Profile</a> <br><br>
 </b>
+</div>
+
+
+<div class="table-container">
+    <table>
+        <tr>
+            <th><b>NO</b></th> 
+            <th><b>YES</b>.</th>
+        </tr>
+        <tr>
+            <td> <a href="{{ site.baseurl }}/"> Please Turn Back Now!</a>  </td> <!-- Support Rant  -->
+            <td><a href="{{ site.baseurl }}/Emblems/13th">Then Please Proceed.</a></td> <!-- Bond Level  -->
+        </tr>
+    </table>
 </div>
 
 
